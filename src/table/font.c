@@ -126,7 +126,7 @@ const char k_font_dash[12][6] = {
 	"      "
 };
 
-const char k_font_upper_a[12][6] = {
+static const char k_font_upper_a[12][6] = {
 	"      ",
 	"  x   ",
 	" x x  ",
@@ -141,7 +141,7 @@ const char k_font_upper_a[12][6] = {
 	"      "
 };
 
-const char k_font_upper_b[12][6] = {
+static const char k_font_upper_b[12][6] = {
 	"      ",
 	"xxxx  ",
 	"x   x ",
@@ -156,7 +156,7 @@ const char k_font_upper_b[12][6] = {
 	"      "
 };
 
-const char k_font_upper_c[12][6] = {
+static const char k_font_upper_c[12][6] = {
 	"      ",
 	" xxx  ",
 	"x   x ",
@@ -171,7 +171,7 @@ const char k_font_upper_c[12][6] = {
 	"      "
 };
 
-const char k_font_upper_d[12][6] = {
+static const char k_font_upper_d[12][6] = {
 	"      ",
 	"xxx   ",
 	"x  x  ",
@@ -186,7 +186,7 @@ const char k_font_upper_d[12][6] = {
 	"      "
 };
 
-const char k_font_upper_e[12][6] = {
+static const char k_font_upper_e[12][6] = {
 	"      ",
 	"xxxxx ",
 	"x     ",
@@ -201,7 +201,7 @@ const char k_font_upper_e[12][6] = {
 	"      "
 };
 
-const char k_font_upper_f[12][6] = {
+static const char k_font_upper_f[12][6] = {
 	"      ",
 	"xxxxx ",
 	"x     ",
@@ -216,7 +216,7 @@ const char k_font_upper_f[12][6] = {
 	"      "
 };
 
-const char k_font_upper_g[12][6] = {
+static const char k_font_upper_g[12][6] = {
 	"      ",
 	" xxx  ",
 	"x   x ",
@@ -231,7 +231,7 @@ const char k_font_upper_g[12][6] = {
 	"      "
 };
 
-const char k_font_upper_h[12][6] = {
+static const char k_font_upper_h[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -246,7 +246,7 @@ const char k_font_upper_h[12][6] = {
 	"      "
 };
 
-const char k_font_upper_i[12][6] = {
+static const char k_font_upper_i[12][6] = {
 	"      ",
 	" xxx  ",
 	"  x   ",
@@ -261,7 +261,7 @@ const char k_font_upper_i[12][6] = {
 	"      "
 };
 
-const char k_font_upper_j[12][6] = {
+static const char k_font_upper_j[12][6] = {
 	"      ",
 	"    x ",
 	"    x ",
@@ -276,7 +276,7 @@ const char k_font_upper_j[12][6] = {
 	"      "
 };
 
-const char k_font_upper_k[12][6] = {
+static const char k_font_upper_k[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -291,7 +291,7 @@ const char k_font_upper_k[12][6] = {
 	"      "
 };
 
-const char k_font_upper_l[12][6] = {
+static const char k_font_upper_l[12][6] = {
 	"      ",
 	"x     ",
 	"x     ",
@@ -306,7 +306,7 @@ const char k_font_upper_l[12][6] = {
 	"      "
 };
 
-const char k_font_upper_m[12][6] = {
+static const char k_font_upper_m[12][6] = {
 	"      ",
 	"xx xx ",
 	"x x x ",
@@ -321,7 +321,7 @@ const char k_font_upper_m[12][6] = {
 	"      "
 };
 
-const char k_font_upper_n[12][6] = {
+static const char k_font_upper_n[12][6] = {
 	"      ",
 	"x   x ",
 	"xx  x ",
@@ -336,7 +336,7 @@ const char k_font_upper_n[12][6] = {
 	"      "
 };
 
-const char k_font_upper_o[12][6] = {
+static const char k_font_upper_o[12][6] = {
 	"      ",
 	" xxx  ",
 	"x   x ",
@@ -351,7 +351,7 @@ const char k_font_upper_o[12][6] = {
 	"      "
 };
 
-const char k_font_upper_p[12][6] = {
+static const char k_font_upper_p[12][6] = {
 	"      ",
 	"xxxx  ",
 	"x   x ",
@@ -366,7 +366,7 @@ const char k_font_upper_p[12][6] = {
 	"      "
 };
 
-const char k_font_upper_q[12][6] = {
+static const char k_font_upper_q[12][6] = {
 	"      ",
 	" xxx  ",
 	"x   x ",
@@ -381,7 +381,7 @@ const char k_font_upper_q[12][6] = {
 	"      "
 };
 
-const char k_font_upper_r[12][6] = {
+static const char k_font_upper_r[12][6] = {
 	"      ",
 	"xxxx  ",
 	"x   x ",
@@ -396,7 +396,7 @@ const char k_font_upper_r[12][6] = {
 	"      "
 };
 
-const char k_font_upper_s[12][6] = {
+static const char k_font_upper_s[12][6] = {
 	"      ",
 	" xxx  ",
 	"x   x ",
@@ -411,7 +411,7 @@ const char k_font_upper_s[12][6] = {
 	"      "
 };
 
-const char k_font_upper_t[12][6] = {
+static const char k_font_upper_t[12][6] = {
 	"      ",
 	"xxxxx ",
 	"  x   ",
@@ -426,7 +426,7 @@ const char k_font_upper_t[12][6] = {
 	"      "
 };
 
-const char k_font_upper_u[12][6] = {
+static const char k_font_upper_u[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -441,7 +441,7 @@ const char k_font_upper_u[12][6] = {
 	"      "
 };
 
-const char k_font_upper_v[12][6] = {
+static const char k_font_upper_v[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -456,7 +456,7 @@ const char k_font_upper_v[12][6] = {
 	"      "
 };
 
-const char k_font_upper_w[12][6] = {
+static const char k_font_upper_w[12][6] = {
 	"      ",
 	"x   x ",
 	"x x x ",
@@ -471,7 +471,7 @@ const char k_font_upper_w[12][6] = {
 	"      "
 };
 
-const char k_font_upper_x[12][6] = {
+static const char k_font_upper_x[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -486,7 +486,7 @@ const char k_font_upper_x[12][6] = {
 	"      "
 };
 
-const char k_font_upper_y[12][6] = {
+static const char k_font_upper_y[12][6] = {
 	"      ",
 	"x   x ",
 	"x   x ",
@@ -501,7 +501,7 @@ const char k_font_upper_y[12][6] = {
 	"      "
 };
 
-const char k_font_upper_z[12][6] = {
+static const char k_font_upper_z[12][6] = {
 	"      ",
 	"xxxxx ",
 	"    x ",
@@ -516,7 +516,7 @@ const char k_font_upper_z[12][6] = {
 	"      "
 };
 
-const char k_font_lower_a[12][6] = {
+static const char k_font_lower_a[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -531,7 +531,7 @@ const char k_font_lower_a[12][6] = {
 	"      "
 };
 
-const char k_font_lower_b[12][6] = {
+static const char k_font_lower_b[12][6] = {
 	"      ",
 	"x     ",
 	"x     ",
@@ -546,7 +546,7 @@ const char k_font_lower_b[12][6] = {
 	"      "
 };
 
-const char k_font_lower_c[12][6] = {
+static const char k_font_lower_c[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -561,7 +561,7 @@ const char k_font_lower_c[12][6] = {
 	"      "
 };
 
-const char k_font_lower_d[12][6] = {
+static const char k_font_lower_d[12][6] = {
 	"      ",
 	"    x ",
 	"    x ",
@@ -576,7 +576,7 @@ const char k_font_lower_d[12][6] = {
 	"      "
 };
 
-const char k_font_lower_e[12][6] = {
+static const char k_font_lower_e[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -591,7 +591,7 @@ const char k_font_lower_e[12][6] = {
 	"      "
 };
 
-const char k_font_lower_f[12][6] = {
+static const char k_font_lower_f[12][6] = {
 	"      ",
 	"   xx ",
 	"  x   ",
@@ -606,7 +606,7 @@ const char k_font_lower_f[12][6] = {
 	"      "
 };
 
-const char k_font_lower_g[12][6] = {
+static const char k_font_lower_g[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -621,7 +621,7 @@ const char k_font_lower_g[12][6] = {
 	" xxx  "
 };
 
-const char k_font_lower_h[12][6] = {
+static const char k_font_lower_h[12][6] = {
 	"      ",
 	"x     ",
 	"x     ",
@@ -636,7 +636,7 @@ const char k_font_lower_h[12][6] = {
 	"      "
 };
 
-const char k_font_lower_i[12][6] = {
+static const char k_font_lower_i[12][6] = {
 	"      ",
 	"  x   ",
 	"  x   ",
@@ -651,7 +651,7 @@ const char k_font_lower_i[12][6] = {
 	"      "
 };
 
-const char k_font_lower_j[12][6] = {
+static const char k_font_lower_j[12][6] = {
 	"      ",
 	"  x   ",
 	"  x   ",
@@ -666,7 +666,7 @@ const char k_font_lower_j[12][6] = {
 	"xx    "
 };
 
-const char k_font_lower_k[12][6] = {
+static const char k_font_lower_k[12][6] = {
 	"      ",
 	"x     ",
 	"x     ",
@@ -681,7 +681,7 @@ const char k_font_lower_k[12][6] = {
 	"      "
 };
 
-const char k_font_lower_l[12][6] = {
+static const char k_font_lower_l[12][6] = {
 	"      ",
 	"  x   ",
 	"  x   ",
@@ -696,7 +696,7 @@ const char k_font_lower_l[12][6] = {
 	"      "
 };
 
-const char k_font_lower_m[12][6] = {
+static const char k_font_lower_m[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -711,7 +711,7 @@ const char k_font_lower_m[12][6] = {
 	"      "
 };
 
-const char k_font_lower_n[12][6] = {
+static const char k_font_lower_n[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -726,7 +726,7 @@ const char k_font_lower_n[12][6] = {
 	"      "
 };
 
-const char k_font_lower_o[12][6] = {
+static const char k_font_lower_o[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -741,7 +741,7 @@ const char k_font_lower_o[12][6] = {
 	"      "
 };
 
-const char k_font_lower_p[12][6] = {
+static const char k_font_lower_p[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -756,7 +756,7 @@ const char k_font_lower_p[12][6] = {
 	"x     "
 };
 
-const char k_font_lower_q[12][6] = {
+static const char k_font_lower_q[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -771,7 +771,7 @@ const char k_font_lower_q[12][6] = {
 	"    x "
 };
 
-const char k_font_lower_r[12][6] = {
+static const char k_font_lower_r[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -786,7 +786,7 @@ const char k_font_lower_r[12][6] = {
 	"      "
 };
 
-const char k_font_lower_s[12][6] = {
+static const char k_font_lower_s[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -801,7 +801,7 @@ const char k_font_lower_s[12][6] = {
 	"      "
 };
 
-const char k_font_lower_t[12][6] = {
+static const char k_font_lower_t[12][6] = {
 	"      ",
 	"      ",
 	"  x   ",
@@ -816,7 +816,7 @@ const char k_font_lower_t[12][6] = {
 	"      "
 };
 
-const char k_font_lower_u[12][6] = {
+static const char k_font_lower_u[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -831,7 +831,7 @@ const char k_font_lower_u[12][6] = {
 	"      "
 };
 
-const char k_font_lower_v[12][6] = {
+static const char k_font_lower_v[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -846,7 +846,7 @@ const char k_font_lower_v[12][6] = {
 	"      "
 };
 
-const char k_font_lower_w[12][6] = {
+static const char k_font_lower_w[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -861,7 +861,7 @@ const char k_font_lower_w[12][6] = {
 	"      "
 };
 
-const char k_font_lower_x[12][6] = {
+static const char k_font_lower_x[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -876,7 +876,7 @@ const char k_font_lower_x[12][6] = {
 	"      "
 };
 
-const char k_font_lower_y[12][6] = {
+static const char k_font_lower_y[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -891,7 +891,7 @@ const char k_font_lower_y[12][6] = {
 	"xx    "
 };
 
-const char k_font_lower_z[12][6] = {
+static const char k_font_lower_z[12][6] = {
 	"      ",
 	"      ",
 	"      ",
@@ -904,4 +904,24 @@ const char k_font_lower_z[12][6] = {
 	"xxxxx ",
 	"      ",
 	"      "
+};
+
+const letter_t * const k_font_uppercase[26] = {
+	&k_font_upper_a, &k_font_upper_b, &k_font_upper_c, &k_font_upper_d,
+	&k_font_upper_e, &k_font_upper_f, &k_font_upper_g, &k_font_upper_h,
+	&k_font_upper_i, &k_font_upper_j, &k_font_upper_k, &k_font_upper_l,
+	&k_font_upper_m, &k_font_upper_n, &k_font_upper_o, &k_font_upper_p,
+	&k_font_upper_q, &k_font_upper_r, &k_font_upper_s, &k_font_upper_t,
+	&k_font_upper_u, &k_font_upper_v, &k_font_upper_w, &k_font_upper_x,
+	&k_font_upper_y, &k_font_upper_z
+};
+
+const letter_t * const k_font_lowercase[26] = {
+	&k_font_lower_a, &k_font_lower_b, &k_font_lower_c, &k_font_lower_d,
+	&k_font_lower_e, &k_font_lower_f, &k_font_lower_g, &k_font_lower_h,
+	&k_font_lower_i, &k_font_lower_j, &k_font_lower_k, &k_font_lower_l,
+	&k_font_lower_m, &k_font_lower_n, &k_font_lower_o, &k_font_lower_p,
+	&k_font_lower_q, &k_font_lower_r, &k_font_lower_s, &k_font_lower_t,
+	&k_font_lower_u, &k_font_lower_v, &k_font_lower_w, &k_font_lower_x,
+	&k_font_lower_y, &k_font_lower_z
 };
