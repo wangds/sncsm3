@@ -1,0 +1,15 @@
+CC := gcc
+CFLAGS := -W -Wall -Wmissing-prototypes -Wstrict-prototypes
+
+OBJS := main.o	\
+	rom.o
+
+all: sncsm3trans
+
+sncsm3trans: $(OBJS)
+	$(CC) $(CFLAGS) -o $@ $^ $(LDLIBS)
+
+.PHONY: clean
+clean:
+	$(RM) sncsm3trans
+	$(RM) $(OBJS)
