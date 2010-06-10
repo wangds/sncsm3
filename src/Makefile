@@ -1,8 +1,10 @@
 CC := gcc
-CFLAGS := -W -Wall -Wmissing-prototypes -Wstrict-prototypes
+CFLAGS := -I.
+CFLAGS += -W -Wall -Wmissing-prototypes -Wstrict-prototypes
 
 OBJS := main.o	\
-	rom.o
+	rom.o	\
+	table/font.o
 
 all: sncsm3trans
 
