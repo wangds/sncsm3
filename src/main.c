@@ -56,7 +56,32 @@ create_font(void)
 	char a, b;
 	int c, i;
 
+	/* Full-width characters. */
 	assign_char_code(0x8140, ' ', ' ');
+	assign_char_code(0x8143, ',', ' ');
+	assign_char_code(0x8144, '.', ' ');
+	assign_char_code(0x8146, ':', ' ');
+	assign_char_code(0x8147, ';', ' ');
+	assign_char_code(0x8148, '?', ' ');
+	assign_char_code(0x8149, '!', ' ');
+	assign_char_code(0x815e, '/', ' ');
+	assign_char_code(0x8163, '.', '.');
+	assign_char_code(0x8169, '(', ' ');
+	assign_char_code(0x816a, ')', ' ');
+	assign_char_code(0x817b, '+', ' ');
+	assign_char_code(0x817c, '-', ' ');
+	assign_char_code(0x8193, '%', '%');
+
+	for (i = 0; i <= 9; i++) {
+		assign_char_code(0x824f + i, '~', '0' + i);
+	}
+
+	for (i = 0; i < 26; i++) {
+		assign_char_code(0x8260 + i, '~', 'A' + i);
+		assign_char_code(0x8281 + i, '~', 'a' + i);
+	}
+
+	/* Q is inevitably followed by u. */
 	patch_char_code(0x8270, 0x0060, 'Q', 'u');
 	patch_char_code(0x8291, 0x007a, 'q', 'u');
 

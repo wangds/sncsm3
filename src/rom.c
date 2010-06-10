@@ -9,6 +9,7 @@
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "rom.h"
 #include "table/font.h"
 #include "table/kanji.h"
@@ -115,6 +116,75 @@ patch_char_code(int code, int i, unsigned char a, unsigned char b)
 
 	assign_char_code(code, a, b);
 	patch_glyph(i, *syma, *symb);
+}
+
+/*--------------------------------------------------------------*/
+
+void
+patch_raw(int offset, int code)
+{
+	assert(offset < ROM_SIZE);
+
+	s_rom[offset + 0] = (code >> 8);
+	s_rom[offset + 1] = (code & 0xFF);
+}
+
+void
+patch_2char(int offset, unsigned char a, unsigned char b)
+{
+	int code = s_char_code[a][b];
+
+	if (code <= 0) {
+		fprintf(stderr, "Unknown character code 0x%04x: %c%c\n", code, a, b);
+		assert(code > 0);
+	}
+
+	patch_raw(offset, code);
+}
+
+/* Strings are terminated by 0x0000.
+ * length = maximum length of destination string (bytes)
+ */
+void
+patch_str(int offset, int length, const char *str)
+{
+	int len = strlen(str);
+	int i;
+	assert((length & 0x1) == 0);
+
+	if (len > length - 2) {
+		fprintf(stderr, "String too long (len %d, max %d): %s\n",
+				len, length, str);
+		assert(len <= length - 2);
+	}
+
+	for (i = 0; i < len; i += 2) {
+		char a = str[i + 0];
+		char b = (i + 1 < len) ? str[i + 1] : ' ';
+
+		patch_2char(offset + i, a, b);
+	}
+
+	for (; i < length; i++) {
+		s_rom[offset + i] = '\0';
+	}
+}
+
+/* offset = offset in rom to patch
+ * stride = stride between elements in rom
+ * num    = number of elements to patch
+ * length = maximum length of destination strings
+ * src    = replacement strings
+ */
+void
+patch_table(int offset, int stride, int num, int length, const char * const * str)
+{
+	int i;
+
+	for (i = 0; i < num; i++) {
+		if (str[i] != NULL)
+			patch_str(offset + stride * i, length, str[i]);
+	}
 }
 
 /*--------------------------------------------------------------*/
