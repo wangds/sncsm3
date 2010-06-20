@@ -1,0 +1,131 @@
+Thunder Shot
+Fires a small long-ranged Thunder Ball
+
+Thunder Spike
+Fires a large mid-ranged Thunder Ball
+
+Thunder Burst
+Creates a short-ranged Thunder Attack
+
+Flame Shot
+Fires a small long-ranged Fire Ball
+
+Flame Blow
+Fires a large mid-ranged Fire Ball
+
+Flame Burst
+Creates a short-ranged Fire Attack
+
+Water Shot
+Fires a small long-ranged Water Ball
+
+Water Bash
+Fires a large mid-ranged Water Ball
+
+Water Burst
+Creates a short-ranged Water Attack
+
+Aero Shot
+Fires a small long-ranged Wind Ball
+
+Aero Storm
+Fires a large mid-ranged Wind Ball
+
+Aero Burst
+Creates a short-ranged Wind Attack
+
+Shine Shot
+Fires a small long-ranged Light Ball
+
+Shine Bash
+Fires a large mid-ranged Light Ball
+
+Shine Burst
+Creates a short-ranged Light Attack
+
+2 Hit Combo
+Attacks 2 times consecutively
+
+3 Hit Combo
+Attacks 3 times consecutively
+
+4 Hit Combo
+Attacks 4 times consecutively
+
+5 Hit Combo
+Attacks 5 times consecutively
+
+Fast 3 Hit Combo
+Attacks 3 times consecutively alternating between the opponent's front and back
+
+Fast 5 Hit Combo
+Attacks 5 times consecutively alternating between the opponent's front and back
+
+Vacuum Slash
+Creates a short-ranged Shock Wave
+
+Vibrating Wave
+Creates a short-ranged violent tremor
+
+Mach Spin
+A continuous spear spin attack 
+
+Throw
+Throws an enemy
+
+Hundred Fists
+Launches a number of attacks in front of you
+
+Drill Hurricane
+Uses the rotational power to cause a hurricane that sucks the enemies
+
+Power Shot
+Fires a powerful shot that has long range
+
+Rapid Shot
+Launches a number of arrows in front of you
+
+Arrow Fall
+Launches a number of arrows in the air that fall on your enemies
+
+Dur Attack
+Damages the opponent's Dur
+
+Trick Attack
+Attack with all equipped weapons
+
+Leap Attack
+A leaping Upward Attack
+
+Footbash*
+Blows the enemy away
+
+Cutbash*
+Sends the enemy to the air
+
+Charge
+Saves energy to increase the power of the next blow
+
+High Speed movement
+Moving forward very quickly
+
+Defense Up
+For a set amount of time, increases defense but decreases attack
+
+Attack Up
+For a set amount of time, increases attack but decreases defense
+
+Movement Speed Up
+For a set amount of time, increases Agl
+
+Offensive Dur protection
+For a set amount of time, the usage of Dur by attacking is 0
+
+Defensive Dur protection
+For a set amount of time, the usage of Dur by defending is 0
+
+Dur Distribution
+Distributes the Dur with equipped weapons
+
+HP Convert
+As the Dur bar depletes, your HP recovers

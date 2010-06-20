@@ -1,0 +1,2332 @@
+|---------------------------------------------------------------|
+|                                                               |
+|               Summon Night Craft Sword Monogatari:            |
+|                       Hajimari no Ishi                        |
+|                                                               |
+|                       Weapons Guide                           |
+|                                                               |
+|---------------------------------------------------------------|
+
+
+|-------------------|
+|Tables of Contents |
+|-------------------|
+I. Introduction
+II. Updates
+III. Weapon Secrets
+	a. Sword
+	b. Ax
+	c. Spear
+	d. Knuckle
+	e. Drill
+	f. Bow
+IV. Special Attacks
+V. Special Effects
+VI. Special Thanks
+VII. Copyright Info
+
+
+|----------------|
+|I. Introduction |
+|----------------|
+
+This is my first faq ever so expect it to suck <_< My japanese isn't that good 
+so many transaltion might be way off. This will probably will my first and last
+faq. I almost want to worship those that writes walkthroughs for all those 
+games out there... -_-';;;
+
+
+|------------|
+|II. Updates |
+|------------|
+
+Version 1.00 (3rd October 2006)
+Well, Weapon Secrets are up. Special Attacks and Effects are up.
+That's it for now.
+
+
+|--------------------|
+|III. Weapon Secrets |
+|--------------------|
+
+Note:
+- I've only put the English Name on the Special Attack and Effect in this
+  section.
+
+- Those with a * after their English names mean that I have no clue whetever 
+  those translation are correct, feel free to correct me though please do via 
+  the board, I don't intend to put my email in and I rarely check it anyway. 
+
+- Weapon Type changes the patterns of the normal attacks.
+
+- The Format might be a bit weird... I oringally didn't know about the
+  80 characters per line limit and had everything under one row, I might
+  rework the format later but I'll leave at this for now.
+
+
+|----------|
+|a. Swords |
+|----------|
+
+S. Sword = Short Sword
+1H Sword = 1 Handed Sword
+G. Sword = Great Sword
+
+
+## Japanese Name
+
+01 アマターナイフ
+02 ニードルレイピア
+03 ハードダガー
+04 グレイブエッジ
+05 アイアンソード
+06 シンセブレイド
+07 フェザーナイフ
+08 スライスサーベル
+09 ラージサーベル
+10 重罰の剣
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+01 Amateur Knife          1       7       3       0      60
+02 Needle Rapier          1       9       7       0      63
+03 Hard Dagger            1      14      10       0      65
+04 Grave Edge             2      16      12       0      67
+05 Iron Sword             2      21      15       0      70
+06 Synthetic Blade        2      24      17       0      74
+07 Feather Knife          2      22      16       0      72
+08 Slice Sabre            3      28      20       0      75
+09 Rage Sabre             3      32      23     -10      77
+10 Punishment Sword       3      30      21       0      76
+
+
+## Weapon Type     Golden Weapon Bonus        Special Attack    Special Effect
+                atk     def     agl     dur
+01 S. Sword      +3      +3      +3     +30     None            None
+02 1H Sword      +4      +1       0     +31     None            None
+03 S. Sword      +3      +1      +3     +32     None            None
+04 1H Sword      +4      +1       0     +33     Thunder Shot    None
+05 1H Sword      +3      +1       0     +35     None            None
+06 1H Sword      +3      +1       0     +37     None            None
+07 S. Sword      +3      +1      +3     +36     Aero Shot       None
+08 1H Sword      +3     +11       0     +37     None            None
+09 G. Sword      +3      +1      +5     +38     None            None
+10 G. Sword      +3      +1      +3     +38     Dur Attack      None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+11 サバイブソード
+12 エレガントナイフ
+13 リボンサーベル
+14 甲殻の剣
+15 暗闘のクナイ
+16 バニティフルーレ
+17 コモンセイバー
+18 裁きの短剣
+19 サッシュソード
+20 ギミックバスター
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+11 Survive Sword          3      35      25       0      80
+12 Elegant Knife          3      37      28       0      82
+13 Ribbon Sabre           3      39      26       0      84
+14 Shell Sword            4      42      30       0      85
+15 Darkness Kunai         4      44      31       0      86
+16 Vanity Fleuret         4      46      32       0      87
+17 Common Saber           4      49      35       0      90
+18 Judgement Dagger       4      51      36       0      91
+19 Sash Sword             4      53      38     -10      92
+20 Gimmick Buster         5      58      40     -10      95
+
+
+## Weapon Type     Golden Weapon Bonus        Special Attack    Special Effect
+                atk     def     agl     dur
+11 1H Sword      +3      +1       0     +40   None              None
+12 S. Sword      +3      +1      +3     +41   2 Hit Combo       None
+13 1H Sword      +3      +2       0     +42   2 Hit Combo       Paralyze Effect
+14 1H Sword      +3      +1       0     +42   Thunder Shot      None
+15 S. Sword      +3      +1      +3     +43   None              None
+16 1H Sword      +3      +1       0     +43   None              Sleep Effect
+17 1H Sword      +2      +1       0     +45   None              None
+18 S. Sword      +3      +1      +3     +45   None              None
+19 G. Sword      +3      +1      +5     +46   Thunder Spike     None
+20 G. Sword      +3      +1      +5     +47   None              None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+21 リターンナイフ
+22 鉄棍棒
+23 セレブキラー
+24 双蛇ブレイド
+25 スプレンドソード
+26 エクセルセイバー
+27 ハイブレイド
+28 レジストセイバー
+29 グレイスフルーレ
+30 ルーンエッジ
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+21 Return Knife           5      56      41       0      96
+22 Iron Rod               5      60      42       0      97
+23 Celeb Killer           6      63      45       0     100
+24 Twin Snake Blade       6      65      46     -10     101
+25 Splend Sword*          6      67      47     -10     102
+26 Excel Saber            7      70      50       0     105
+27 Hi Blade               7      77      55       0     110
+28 Resist Saber           7      79      56     -10     111
+29 Grace Fleuret          7      81      57     -10     112
+30 Rune Edge              8      84      60       0     115
+
+
+## Weapon Type     Golden Weapon Bonus        Special Attack    Special Effect
+                atk     def     agl     dur
+21 S. Sword      +3      +1      +3     +48   None              None
+22 1H Sword      +3      +1       0     +48   CutBash           None
+23 S. Sword      +3      +1      +3     +50   None              Mid Vampire
+24 G. Sword      +3      +1      +5     +50   None              None
+25 G. Sword      +3      +1      +5     +51   Leap Attack       None
+26 1H Sword      +3      +1       0     +52   Shine Bash        None
+27 1H Sword      +3      +1       0     +55   None              None
+28 G. Sword      +3      +1      +5     +55   Dur Attack        None
+29 G. Sword      +3      +1      +5     +56   Flame Burst       None
+30 1H Sword      +3      +1       0     +57   None              None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+31 スレッジイール
+32 ワイズエッジ
+33 ファングセイバー
+34 ガーデニール
+35 忍刀
+36 ニャンバスター
+37 チェーンソード
+38 紅蓮の刀
+39 カーステイラー
+40 アストラルエッジ
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+31 Sledge Eel*            8      86      61     -10     116
+32 Wise Edge              8      88      62     -10     117
+33 Fang Saber             8      90      63      -5     118
+34 Gardenir*              9      93      65       0     120
+35 Nintou (Ninja Blade)   9      95      60       5     130
+36 Nyan Buster            9      90      66      15     100
+37 Chain Sword            9      90      85     -10     150
+38 Crimson Blade          9     105      75       0     140
+39 Curse Tailer*          9     115      55       0     115
+40 Astral Edge            9     100      70       5     135
+
+
+## Weapon Type     Golden Weapon Bonus        Special Attack    Special Effect
+                atk     def     agl     dur
+31 G. Sword      +3      +1      +5     +58   None              None
+32 G. Sword      +3      +1      +5     +58   None              None
+33 G. Sword     +10      +7      +5     +59   Attack Up         Critical
+34 G. Sword     +10     +10      +5     +60   Charge            Critical
+35 1H Sword     +10     +10      +5     +65   Aero Burst        None
+36 S. Sword      +9      -6      +5     +50   Charge            N.D.A.I.
+37 G. Sword     +25     +10     -10     +75   None              None
+38 G. Sword     +30     +10      +5     +70   Vacuum Slash      Strong Heal
+39 G. Sword     +25     +45      +5     +57   None              None
+40 G. Sword     +55     -25      +5     +67   Movement Speed Up N.D.A.I.
+
+N.D.A.I.: Near Death Attack Increased
+-------------------------------------------------------------------------------
+
+
+|--------|
+|b. Axes |
+|--------|
+
+
+## Japanese Name
+
+01 アマターアクス
+02 ニードルアクス
+03 ハードアクス
+04 グレイブアクス
+05 アイアンアクス
+06 リードアクス
+07 フェザーアクス
+08 スライスアクス
+09 ラージアクス
+10 重罰の斧
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+01 Amateur Axe            1       8       4     -25      75
+02 Needle Axe             1      11       8     -25      76
+03 Hard Axe               1      13      12     -25      80
+04 Grave Axe              2      20      14     -25      81
+05 Iron Axe               2      29      18     -30      85
+06 Lead Axe               2      27      20     -25      86
+07 Feather Axe            2      31      22     -25      87
+08 Slice Axe              3      36      24     -30      90
+09 Rage Axe               3      38      26     -30      91
+10 Punishment Axe         3      40      28     -25      92
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+01       +4      +3      +5     +37     None                    None
+02       +3      +1      +5     +38     None                    None
+03       +3      +1      +5     +40     None                    None
+04       +3      +1      +5     +40     Flame Shot              None
+05       +3      +1      +5     +42     None                    None
+06       +3      +1      +5     +43     None                    None
+07       +3      +1      +5     +43     None                    None
+08       +3      +1      +5     +45     None                    None
+09       +3      +1      +5     +45     None                    None
+10       +3      +1      +5     +46     2 Hit Combo             None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+11 サバイブアクス
+12 エレガントアクス
+13 リボンクラッシュ
+14 甲殻の斧
+15 暗闘のカマ
+16 バニティモール
+17 コモンアクス
+18 裁きの大斧
+19 サッシュハンマー
+20 ギミックブージ
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+11 Survive Axe            3      45      30     -25      95
+12 Elegant Axe            3      47      32     -30      96
+13 Ribbon Crush           3      49      34     -25      97
+14 Shell Axe              4      56      36     -30     100
+15 Darkness Sickle*       4      54      38     -25     101
+16 Vanity Maul            4      58      40     -25     102
+17 Common Axe             4      65      42     -30     105
+18 Judgement Battle Axe   4      63      44     -25     106
+19 Sash Hammer            4      67      46     -30     107
+20 Gimmick Bhuj           5      74      48     -30     110
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+11       +3      +1      +5     +47     None                    None
+12       +3      +1      +5     +48     2 Hit Combo             None
+13       +3      +1      +5     +48     None                    None
+14       +3      +1      +5     +50     None                    None
+15       +3      +1      +5     +50     None                    None
+16       +3      +1      +5     +51     None                    Sleep Effect
+17       +3      +1      +5     +52     None                    None
+18       +3      +1      +5     +53     None                    None
+19       +3      +1      +5     +53     None                    None
+20       +3      +1      +5     +55     None                    None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+21 バーンアクス
+22 鉄玉棍
+23 セレブクラッシュ
+24 双蛇アクス
+25 スプレンドアクス
+26 エクセルアクス
+27 ハイアクス
+28 レジストアクス
+29 グレイスバッシュ
+30 ルーンザンパー
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+21 Burn Axe               5      72      50     -25     111
+22 Morning Star           5      76      52     -30     112
+23 Celeb Crush            6      81      54     -25     115
+24 Twin Snake Axe         6      83      56     -30     116
+25 Splend Axe             6      85      58     -30     117
+26 Excel Axe              7      90      60     -25     120
+27 Hi Axe                 7      99      66     -25     125
+28 Resist Axe             7     101      68     -30     126
+29 Grace Bash             7     103      70     -30     127
+30 Rune Zamber*           8     108      72     -25     130
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+21       +3      +1      +5     +55     None                    None
+22       +3      +1      +5     +56     Cutbash                 None
+23       +3      +1      +5     +57     None                    None
+24       +4      +1      +5     +58     None                    Mid Vampire
+25       +3      +1      +5     +58     None                    None
+26       +3     +31      +5     +60     Shine Bash              None
+27       +3      +1      +5     +62     None                    None
+28       +3      +1      +5     +63     Dur Attack              None
+29       +3      +1      +5     +63     None                    None
+30       +3      +1      +5     +65     None                    None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+31 スレッジジャッジ
+32 ワイズアクス
+33 ファングアクス
+34 ガーデニンガー
+35 大手裏剣
+36 ニャックス
+37 ギアアクス
+38 紅蓮の斧
+39 カースマダール
+40 アストラルアクス
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+31 Sledge Judge           8     110      74     -30     131
+32 Wise Axe               8     112      76     -30     132
+33 Fang Axe               8     114      78     -25     133
+34 Gardeninga*            9     119      80     -15     135
+35 Big Shuriken           9     123      77       0     140
+36 Nyaxs                  9     100      75       5     100
+37 Gear Axe               9     110      99     -30     175
+38 Crimson Axe            9     135      85     -25     150
+39 Curse Madder*          9     140      65     -25     125
+40 Astral Axe             9     130      80     -15     145
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+31       +3      +1      +5     +65     Attack Up               Strong Vampire
+32      +10      +1      +5     +66     None                    None
+33      +10      +7      +5     +66     None                    None
+34      +10     +10      +5     +67     Water Burst             Vampire
+35      +10     +10      +5     +70     Charge                  None
+36      +10      -5      +5     +50     None                    Mid Costdown
+37      +10     +10      +5     +87     5 Hit Combo             None
+38      +10     +10      +5     +75     None                    None
+39      +35     +49      +5     +62     None                    None
+40      +55     -25      +5     +72     Shine Burst             None
+
+
+-------------------------------------------------------------------------------
+
+
+|----------|
+|c. Spears |
+|----------|
+
+
+## Japanese Name
+
+01 アマタースピア
+02 ニードルスピア
+03 ハードポール
+04 グレイブスピア
+05 アイアンポール
+06 スピアボーカル
+07 フェザーポール
+08 スライスパイク
+09 ラージポール
+10 重罰の槍
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+01 Amateur Spear          1       7       3     -20      70
+02 Needle Spear           1      10       6     -20      71
+03 Hard Pole              1      16      10     -20      75
+04 Grave Spear            2      18      11     -20      76
+05 Iron Pole              2      26      15     -25      80
+06 Spear Vocal            2      24      16     -20      81
+07 Feather Pole           2      28      17     -20      82
+08 Slice Pike             3      32      20     -25      85
+09 Rage Pole              3      34      21     -25      86
+10 Punishment Spear       3      36      22     -20      87
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+01       +4      +3      +5     +35     None                    None
+02       +3      +1      +5     +35     None                    None
+03       +3      +1      +5     +37     None                    None
+04       +3      +1      +5     +38     Water Shot              None
+05       +3      +1      +5     +40     None                    None
+06       +3      +1      +5     +40     None                    None
+07       +3      +1      +5     +41     None                    None
+08       +3      +1      +5     +42     None                    None
+09       +3      +1      +5     +43     None                    None
+10       +3      +1      +5     +43     None                    None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+11 サバイブスピア
+12 エレガントポール
+13 リボンスタッフ
+14 甲殻の槍
+15 暗闘の矛
+16 バニティランス
+17 コモンスピア
+18 裁きの長槍
+19 サッシュパイク
+20 ギミックスピア
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+11 Survive Spear          3      40      25     -20      90
+12 Elegant Pole           3      42      26     -25      91
+13 Ribbon Staff           3      44      27     -20      92
+14 Shell Spear            4      50      30     -25      95
+15 Darkness Halberd       4      48      31     -20      96
+16 Vanity Lance           4      52      32     -20      97
+17 Common Spear           4      58      35     -25     100
+18 Judgement Pike         4      56      36     -20     101
+19 Sash Pike              4      60      37     -25     102
+20 Gimmick Spear          5      66      40     -25     105
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+11       +3      +1      +5     +45     None                    None
+12       +3      +1      +5     +45     2 Hit Combo             None
+13       +3      +1      +5     +46     Flame Shot              None
+14       +3      +1      +5     +47     None                    None
+15       +3      +1      +5     +48     None                    None
+16       +3      +1      +5     +48     None                    Sleep Effect
+17       +3      +1      +5     +50     None                    None
+18       +3      +1      +5     +50     Mach Spin               None
+19       +3      +1     +10     +51     None                    None
+20       +3      +1      +5     +52     None                    None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+21 バトルフォーク
+22 六角棒
+23 セレブスピア
+24 双蛇ランス
+25 スプレンドパイク
+26 エクセルパイク
+27 ハイポール
+28 レジストポール
+29 グレイススタッフ
+30 ルーンスティング
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+21 Battle Fork            5      64      41     -20     106
+22 Hexagonal Staff        5      68      42     -25     107
+23 Celeb Spear            6      72      45     -20     110
+24 Twin Snake Lance       6      74      45     -25     111
+25 Splend Pike            6      76      47     -25     112
+26 Excel Pike             7      80      50     -20     115
+27 High Pole              7      88      55     -20     120
+28 Resist Pole            7      90      56     -25     121
+29 Grace Staff            7      92      57     -25     122
+30 Rune Sting             8      96      60     -20     125
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+21       +3      +1      +5     +53     None                    None
+22       +3      +1      +5     +53     Cutbash                 None
+23       +3      +1      +5     +55     None                    None
+24       +4      +1      +5     +55     None                    None
+25       +3      +1      +5     +56     Flame Blow              Mid Vampire
+26       +3      +1      +5     +57     Shine Bash              None
+27       +3      +1      +5     +60     None                    None
+28       +3      +1      +5     +60     Dur Attack              None
+29       +3      +1      +5     +61     Hp Convert              Mid Vampire
+30       +3      +1      +5     +62     None                    None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name
+
+31 スレッジゼファー
+32 ワイズポール
+33 ファングスピア
+34 ガーデポール
+35 カギザオ
+36 ニャンキラー
+37 メタルアーム
+38 紅蓮の矛
+39 カースティリオ
+40 アストラルパイク
+
+
+## English Name	        Rank         Weapon's Base Stats
+                                atk     def     agl	dur
+31 Sledge Zephyr          8      98      61     -25     126
+32 Wise Pole              8     100      62     -25     127
+33 Fang Spear             8     102      63     -25     128
+34 Garde-Pole*            9     105      70     -15     129
+35 Hook Pole***           9     110      65       0     135
+36 Nyan Killer            9      98      60       5     100
+37 Metal Arm              9     110      85     -25     160
+38 Crimson Halberd        9     120      75     -20     150
+39 Curse Tirio*           9     135      55     -20     125
+40 Astral Pike            9     115      70     -15     145
+
+***: Since the name was written in Katakana, I had to guess what it would
+     mean so I chose 鈎竿
+
+
+##          Golden Weapon Bonus         Special Attack          Special Effect
+        atk     def     agl     dur
+31       +3      +1      +5     +63     None                    None
+32      +10      +1      +5     +63     None                    None
+33      +10     +10      +5     +64     None                    None
+34      +10     +10      +5     +64     Attack Up               J Guard Up
+35      +10     +10      +5     +67     Defense Up              Knock Back
+36      +10      -4      +5     +50     None                    None
+37      +10     +10      +5     +80     Thunder Burst           None
+38      +10     +10      +5     +75     Movement Speed Up       Mid Repair
+39      +35     +45      +5     +62     Mach Speed              None
+40      +55     -25      +5     +72     Hp Convert              Strong Repair
+
+
+-------------------------------------------------------------------------------
+
+
+|------------|
+|d. Knuckles |
+|------------|
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+01 アマターナックル      	Amateur Knuckle		  1	  4	  2	 20	 55
+02 ニードルクロー		Needle Claw  		  1	  6	  4	 15	 56
+03 ハードナックル		Hard Knuckle 		  1	 12	  6	 20	 60
+04 グレイブナックル      	Grave Knuckle		  2	 13	  7	 20	 61
+05 アイアンクロー		Iron Claw   		  2	 18	  9	 20	 65
+06 ビートナックル		Beat Knuckle   		  2	 19	 10	 20	 66
+07 フェザーナックル      	Feather Knuckle		  2	 20	 11	 20	 67
+08 スライスナックル      	Slice Knuckle 		  3	 24	 12	 20	 70
+09 ラージナックル		Rage Knuckle		  3	 25	 13	 20	 71
+10 重罰の小手		Punishment Gauntelet   	  3	 26	 14	 15	 72
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+01	 +6	 +2	 +2	+27	None			None
+02	 +3	 +1	 +2	+28	None			None
+03 	 +3	 +1	 +2	+30	None			None
+04	 +3	 +1	 +2	+30	Aero Shot    		None
+05	 +3	 +1	 +2	+32	None			None
+06	 +3	 +1	 +2	+33	None			None
+07	 +3	 +1	 +2	+33	None			None
+08	 +3	 +1	 +2	+35	None			None
+09	 +3	 +1	 +2	+35	None			None
+10	 +3	 +1	 +2	+36	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+11 サバイブナックル      	Survive Knuckle		  3	 30	 15	 20	 75
+12 エレガントクロー      	Elegant Claw		  3	 31	 16	 20	 76
+13 リボンクロー         	Ribbon Claw   		  3	 32	 17	 15	 77
+14 甲殻の爪   	 	Shell Claw   		  4	 37	 18	 15	 80
+15 暗闘の小手 		Darkness Gauntlet      	  4	 36	 19	 20	 81
+16 バニティナックル      	Vanity Knuckle		  4	 38	 20	 20	 82
+17 コモントゥース		Common Tooth  		  4	 43	 21	 15	 85
+18 裁きの小手		Judgement Gauntlet     	  4	 42	 22	 20	 86
+19 サッシュクロー        	Sash Claw   		  4	 44	 23	 15	 87
+20 ギミックナックル      	Gimmick Knuckle		  5	 48	 24	 20	 90
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+11	 +3	 +1	 +2	+37	None			None
+12	 +3	 +1	 +2	+38	Fast 3 Hit Combo   	Poison Effect
+13 	 +3	 +1	 +2	+38	None			None
+14	 +3	 +1	 +2	+40	None			None
+15	 +3	 +1	 +2	+40	None			None
+16	 +3	 +1	 +2	+41	None			Sleep Effect
+17	 +3	 +1	 +2	+42	None			None
+18	 +3	 +1	 +2	+43	None			None
+19	 +3	 +1	 +2	+43	None			None
+20	 +3	 +1	 +2	+45	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+21 キルトナックル		Kilt Knuckle		  5	 49	 25	 20	 91
+22 鉄球の小手		Iron Ball Gauntlet     	  5	 50	 26	 15	 92
+23 セレブナックル        	Celeb Knuckle		  6	 54	 27	 20	 95
+24 双蛇クロー   	 	Twin Snake Claw       	  6	 55	 28	 15	 96
+25 スプレンドブロウ      	Splend Blow* 		  6	 56	 29	 20	 97
+26 エクセルナックル      	Excel Knuckle		  7	 60	 30	 20	100
+27 ハイタスク 	       	High Tusk   		  7	 66	 33	 15	105
+28 レジストクロー		Resist Claw  		  7	 67	 34	 15	106
+29 グレイスグラブ       	Grace Grab 		  7	 68	 35	 20	107
+30 ルーンガント	      	Rune Gaunt  		  8	 72	 36	 20	110
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+21	 +3	 +1	 +2	+45	None			None
+22	 +3	 +1	 +2	+46	Cutbash     		None
+23 	 +3	 +1	 +2	+47	None			None
+24	 +3	 +1	 +2	+48	Throw			Mid Vampire
+25	 +3	 +1	 +2	+48	None			None
+26	 +3	 +1	 +2	+50	Shine Bash   		None
+27	 +3	 +1	 +2	+52	None			None
+28	 +3	 +1	 +2	+53	Dur Attack   		None
+29	 +3	 +1	 +2	+53	None			None
+30	 +3	 +1	 +2	+55	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+31 スレッジイリック       	Sledge Iric*		  8	 73	 37	 15	111
+32 ワイズナックル		Wise Knuckle   		  8	 74	 38	 20	112
+33 ファングクロー 	     	Fang Claw  		  8	 75	 39	 15	113
+34 ガーデニック         	Garde-Nick*		  9	 77	 45	 20	115
+35 カギヅメ  	      	Kagitzume*   		  9	 81	 40	 20	120
+36 ニャックル 		Nyackle    		  9	 70	 35	 25	100
+37 シャフトナックル        	Shaft Knuckle		  9	 80	 66	 10	140
+38 紅蓮の爪	        	Crimson Claw		  9	 90	 50	 20	135
+39 カースノーギル 	     	Curse Nogiru*		  9	 99	 30	 20	120
+40 アストラルアーム      	Astral Arm   		  9	 85	 45	 25	130
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+31	 +3	 +1	 +2	+55	None			None
+32	 +3	 +1	 +2	+56	None			None
+33 	+10	+11	 +2	+56	None			None
+34	+10	+10	 +2	+57	None			J Guard Up
+35	+10	+10	 +5	+60	High Speed Movement    	Poison Effect
+36	+10	 -5	 +5	+50	None			None
+37	+10	 +9	 +5	+70	Defense Up 		None
+38	+10	+10	 +2	+67	None			None
+39	+21	+55	 +2	+60	Hundred Fist	  	None
+40	+50	-20	  0	+65	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+|----------|
+|e. Drills |
+|----------|
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+01 アマタードリル		Amateur Drill		  1	  8	  5	-10	 80
+02 ニードルモーター      	Needle Motor 		  1	 10	  9	-10	 81
+03 ハードモーター		Hard Motor   		  1	 16	 14	-10	 85
+04 グレイブモーター      	Grave Motor  		  2	 18	 16	-10	 86
+05 アイアンドリル		Iron Drill  		  2	 26	 21	-15	 90
+06 ビートモーター		Beat Motor    		  2	 24	 23	-10	 91
+07 フェザードリル		Feather Drill		  2	 28	 25	-10	 92
+08 スライスドリル		Slice Drill   		  3	 32	 28	-15	 95
+09 ラージドリル		Rage Drill  		  3	 36	 30	-15	 96
+10 重罰の電動機  		Punishment Drill       	  3	 34	 32	-10	 97
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+01	 +3	 +4	 +5	+40	None			None
+02	 +3	 +2	 +5	+40	None			None
+03 	 +3	 +2	 +5	+42	None			None
+04	 +3	 +2	 +5	+43	Shine Shot   		None
+05	 +3	 +2	 +5	+45	None			None
+06	 +3	 +2	 +5	+45	None			None
+07	 +3	 +2	 +5	+46	None			None
+08	 +3	 +2	 +5	+47	None			None
+09	 +3	 +2	 +5	+48	None			None
+10	 +3	 +2	 +5	+48	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+11 サバイブタービン      	Survive Turbin		  3	 40	 35	-10	100
+12 エレガントドリル      	Elegant Drill		  3	 44	 37	-15	101
+13 リボンモーター        	Ribbon Motor  		  3	 42	 39	-10	102
+14 甲殻の電動機   	 	Shell Motor 		  4	 50	 42	-15	105
+15 暗闘の電動機		Darkness Motor         	  4	 48	 44	-10	106
+16 バニティモーター      	Vanity Motor  		  4	 52	 46	-10	107
+17 コモンドリル		Common Drill  		  4	 58	 49	-15	110
+18 裁きのドリル		Judgement Drill		  4	 56	 51	-10	111
+19 サッシュモーター        	Sash Motor  		  4	 60	 53	-15	112
+20 ギミックドリル		Gimmick Drill		  5	 66	 56	-15	115
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+11	 +3	 +2	 +5	+50	None			None
+12	 +3	 +2	 +5	+50	Fast 3 Hit Combo  	None
+13 	 +3	 +2	 +5	+51	None			None
+14	 +3	 +2	 +5	+52	None			None
+15	 +3	 +2	 +5	+53	None			None
+16	 +3	 +2	 +5	+53	None			Sleep Effect
+17	 +3	 +2	 +5	+55	None			None
+18	 +3	 +2	 +5	+55	None			None
+19	 +3	 +2	 +5	+56	None			None
+20	 +3	 +2	 +5	+57	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+21 ヘルミキサー		Hell Mixer   		  5	 64	 58	-10	116
+22 鉄斬機			Iron Cutter		  5	 68	 60	-15	117
+23 セレブモーター        	Celeb Motor  		  6	 72	 63	-10	120
+24 双蛇モーター  	 	Twin Snake Motor      	  6	 74	 65	-15	121
+25 スプレンドドリル      	Splend Drill* 		  6	 76	 67	-15	122
+26 エクセルモーター      	Excel Motor  		  7	 80	 70	-10	125
+27 ハイニードル            	High Needle   		  7	 88	 77	-10	130
+28 レジストモーター      	Resist Motor 		  7	 90	 79	-15	131
+29 グレイスミキサー      	Grace Mixer		  7	 92	 81	-15	132
+30 ルーンミキサー       	Rune Mixer   		  8	 96	 84	-10	135
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+21	 +3	 +2	 +5	+58	None			None
+22	 +3	 +2	 +5	+58	Cutbash     		None
+23 	 +3	 +2	 +5	+60	None			None
+24	 +4	 +2	 +5	+60	None			Mid Vampire
+25	 +3	 +2	 +5	+61	None			None
+26	 +3	 +2	 +5	+62	Shine Bash   		None
+27	 +3	 +2	 +5	+65	None			None
+28	 +3	 +2	 +5	+65	Dur Attack   		None
+29	 +3	 +2	 +5	+66	None	   		None
+30	 +3	 +2	 +5	+67	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+31 スレッジイーター       	Sledge Eater		  8	 98	 86	-15	136
+32 ワイズモーター		Wise Motor  		  8	100	 88	-15	137
+33 ファングモーター        	Fang Motor  		  8	102	 90	-15	138
+34 ガーデニーター       	Gardenitor*		  9	108	 99	-10	142
+35 忍動機  	      	Ninja Motor   		  9	112	 93	 -5	145
+36 ニャリル   		Nyarill    		  9	 95	 85	  0	100
+37 ギアモーター        	Gear Motor  		  9	115	120	-15	168
+38 紅蓮の機具              	Crimson Tool		  9	125	105	-10	150
+39 カーステール 	     	Curse Tale*		  9	135	 72	-10	135
+40 アストラルスピン      	Astral Spin   		  9	120	100	 -5	145
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+31	 +3	 +2	 +5	+68	Hurricane Drill		None
+32	 +3	 +2	 +5	+68	None			None
+33 	+10	+10	 +5	+69	None			None
+34	+10	+10	 +5	+71	HP Convert   		None
+35	+10	+10	 +5	+72	None			None
+36	+10	 -5	 +5	+50	None			None
+37	+10	+10	 +5	+84	Attack Up   		None
+38	+10	+10	 +5	+75	None			None
+39	+30	+55	 +5	+67	Charge			Quickbit
+40	+55	-35	 +5	+72	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+|--------|
+|f. Bows |
+|--------|
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+01 アマターボウ		Amateur Bow		  1	  4	  1	 -5	 50
+02 ニードルボウ        	Needle Bow 		  1	  9	  3	 -5	 51
+03 ハードボウ  		Hard Bow   		  1	 14	  4	 -5	 55
+04 グレイブアロウ       	Grave Arrow  		  2	 16	  5	 -5	 56
+05 アイアンアロウ		Iron Arrow  		  2	 23	  6	-20	 60
+06 リードアロウ 		Beat Arrow    		  2	 21	  6	 -5	 61
+07 フェザーボウ 		Feather Bow  		  2	 25	  7	 -5	 62
+08 スライスアロウ		Slice Bow     		  3	 28	  8	-20	 65
+09 ラージボウ   		Rage Bow    		  3	 32	  8	-20	 66
+10 重罰の弓	        	Punishment Bow         	  3	 30	  9	 -5	 67
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+01	 +6	 +2	 +5	+25	None			None
+02	 +3	 +1	 +5	+25	None			None
+03 	 +3	 +1	 +5	+27	None			None
+04	 +3	 +1	 +5	+28	None			Knock Back
+05	 +3	 +1	 +5	+30	None			None
+06	 +3	 +1	 +5	+30	None			None
+07	 +3	 +1	 +5	+31	None			None
+08	 +3	 +1	 +5	+32	None			None
+09	 +3	 +1	 +5	+33	None			None
+10	 +3	 +1	 +5	+33	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+11 サバイブボウ         	Survive Bow   		  3	 35	 10	 -5	 70
+12 エレガントアロウ      	Elegant Arrow		  3	 39	 10	-20	 71
+13 リボンアロウ         	Ribbon Bow    		  3	 37	 11	 -5	 72
+14 甲殻の弓       	 	Shell Bow   		  4	 44	 12	-20	 75
+15 暗闘の弓    		Darkness Bow           	  4	 42	 12	 -5	 76
+16 バニティアロウ         	Vanity Arrow  		  4	 46	 13	 -5	 77
+17 コモンアロウ		Common Arrow  		  4	 51	 14	-20	 80
+18 裁きの弓  		Judgement Bow  		  4	 49	 14	 -5	 81
+19 サッシュボウ          	Sash Bow    		  4	 53	 15	-20	 82
+20 ギミックボウ  		Gimmick Bow  		  5	 58	 16	-20	 85
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+11	 +3	 +1	 +5	+35	None			None
+12	 +3	 +1	 +5	+35	None			Pierce
+13 	 +3	 +1	 +5	+36	None			None
+14	 +3	 +1	 +5	+37	None			None
+15	 +3	 +1	 +5	+38	None			None
+16	 +3	 +1	 +5	+38	None			Sleep Effect
+17	 +3	 +1	 +5	+40	None			None
+18	 +3	 +1	 +5	+40	None			None
+19	 +3	 +1	 +5	+41	Charge			None
+20	 +3	 +1	 +5	+42	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+21 スプーンアロウ		Spring Arrow		  5	 56	 16	 -5	 86
+22 鉄球の弓 		Iron Ball Arrow		  5	 60	 17	-20	 87
+23 セレブアロウ         	Celeb Arrow  		  6	 63	 18	 -5	 90
+24 双蛇アロウ   	 	Twin Snake Arrow      	  6	 65	 18	-20	 91
+25 スプレンドボウ       	Splend Bow*   		  6	 67	 19	-20	 92
+26 エクセルアロウ       	Excel Arrow  		  7	 70	 20	 -5	 95
+27 ハイアロウ             	High Arrow    		  7	 77	 22	 -5	100
+28 レジストアロウ       	Resist Arrow 		  7	 79	 22	-20	101
+29 グレイスボウ        	Grace Bow  		  7	 81	 23	 -5	102
+30 ルーンディパー       	Rune Deeper  		  8	 84	 24	 -5	105
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+21	 +3	 +1	 +5	+43	None			None
+22	 +3	 +1	 +5	+43	None			Pierce
+23 	 +3	 +1	 +5	+45	None			None
+24	 +3	 +1	 +5	+45	None			Mid Vampire
+25	 +3	 +1	 +5	+46	None			None
+26	 +3	 +1	 +5	+47	Power Shot   		None
+27	 +3	 +1	 +5	+50	None			None
+28	 +3	 +1	 +5	+50	Dur Attack   		None
+29	 +3	 +1	 +5	+51	None	   		None
+30	 +3	 +1	 +5	+52	None			None
+
+
+-------------------------------------------------------------------------------
+
+
+
+## Japanese Name       	English Name		Rank	     Weapon's Base Stats
+							atk	def	agl	dur
+31 スレッジボルバー       	Sledge Volver*		  8	 86	 24	-20	106
+32 ワイズボウ  		Wise Bow    		  8	 88	 25	-20	107
+33 ファングアロウ         	Fang Arrow  		  8	 90	 26	-10	108
+34 ガーデガン         	Garde-Gun* 		  9	 92	 30	 -5	115
+35 忍弓     	      	Ninja Bow     		  9	 95	 27	  0	120
+36 ニャロウ   		Nyarrow    		  9	 85	 20	  5	100
+37 クロックアロウ        	Cloak Arrow		  9	 99	 50	-25	150
+38 紅蓮の弓              	Crimson Bow	    	  9	105	 35	 -5	130
+39 カースチェリー 	     	Curse Cherry*		  9	115	 15	 -5	100
+40 アストラルアロウ      	Astral Arrow 		  9	100	 30	  0	125
+
+##	    Golden Weapon Bonus		Special Attack		Special Effect
+	atk	def	agl	dur
+31	 +3	 +1	 +5	+53	None			None
+32	 +3	 +1	 +5	+53	None			None
+33 	+10	+10	 +5	+54	Arrow Fall   		None
+34	+10	+10	 +5	+57	None			None
+35	+10	+10	 +5	+60	Power Shot   		None
+36	+10	 -5	 +5	+50	Arrow Fall   		Mid Repair
+37	+10	+10	 +5	+75	None			None
+38	+10	+10	 +5	+65	None			None
+39	+25	+55	 +5	+50	None			None
+40	+55	-20	 +5	+62	Rapid Shot   		None
+
+
+-------------------------------------------------------------------------------
+
+
+
+|--------------------|
+|IV. Special Attacks |
+|--------------------|
+
+Sw=Sword
+A=Axe
+Sp=Spear
+F=Fist
+D=Drill
+B=Bow
+
+Format used:
+
+Number: ## according to the ingame database
+Japanese Name: Name in the game
+English Name: Translated Name
+Weapon Compatibility: Weapons that can use the skill
+
+
+Description:
+What it does acording to ingame description
+
+Recipe:
+Possible combinaisons to obtain this skill
+
+-------------------------------------------------------------------------------
+Number: 01
+Japanese Name: サンダーショット
+English Name: Thunder Shot
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a small Lightning Ball that hits a single target that has long range
+
+Recipe:
+1 蓄電バッテリー 
+1 Charged Battery
+-------------------------------------------------------------------------------
+Number: 02
+Japanese Name: サンダースパーク
+English Name: Thunder Spike
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a large Lightning Ball that has mid range and that has an area effect
+
+Recipe:
+2 蓄電バッテリー
+2 Charged Batteries
+
+or
+
+1 雷光の護符
+1 Lightning Talisman
+-------------------------------------------------------------------------------
+Number: 03
+Japanese Name: サンダーバースト
+English Name: Thunder Burst
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Creates a Lightning Elemental attack with an area effect in front of you
+
+Recipe:
+2 蓄電バッテリー + 1 雷光の護符
+2 Charged Batteries + 1 Lightning Talisman
+
+or
+
+2 雷光の護符
+2 Lightning Talismen
+-------------------------------------------------------------------------------
+Number: 04
+Japanese Name: フレイムショット
+English Name: Flame Shot
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a small Fire Ball that hits a single target that has long range
+
+Recipe:
+1 発火装置
+1 Ignition Device
+-------------------------------------------------------------------------------
+Number: 05
+Japanese Name: フレイムブロウ
+English Name: Flame Blow
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a large Fire Ball that has mid range and that has an area effect
+
+Recipe:
+2 発火装置
+2 Ignition Devices
+
+or
+
+1 烈火の護符
+1 Fire Talisman
+-------------------------------------------------------------------------------
+Number: 06
+Japanese Name: フレイムバースト
+English Name: Flame Burst
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Creates a Fire Elemental attack with an area effect in front of you
+
+Recipe:
+2 発火装置 + 1 烈火の護符
+2 Ignition Devices + 1 Fire Talisman
+
+or
+
+2 烈火の護符
+2 Fire Talismen
+-------------------------------------------------------------------------------
+Number: 07
+Japanese Name: ウォータショット
+English Name: Water Shot 
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a small Water Ball that hits a single target that has long range
+
+Recipe:
+1 浄水タンク
+1 Clean Water Tank
+-------------------------------------------------------------------------------
+Number: 08
+Japanese Name: ウォータバッシュ
+English Name: Water Bash
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a large Water Ball that has mid range and that has an area effect
+
+Recipe:
+2 浄水タンク
+2 Clean Water Tanks
+
+or
+
+1 水流の護符
+1 Water Talisman
+-------------------------------------------------------------------------------
+Number: 09
+Japanese Name: ウォータバースト
+English Name: Water Burst
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Creates a Water Elemetal Attack with an area effect in front of you
+
+Recipe:
+2 浄水タンク + 1 水流の護符
+2 Clean Water Tanks + 1 Water Talisman
+
+or
+
+2 水流の護符
+2 Water Talismen
+-------------------------------------------------------------------------------
+Number: 10
+Japanese Name: エアロショット
+English Name: Aero Shot
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a small Wind Ball that hits a single target that has long range
+
+Recipe:
+1 送風ファン
+1 Ventilator
+-------------------------------------------------------------------------------
+Number: 11
+Japanese Name: エアロストーム
+English Name: Aero Storm
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a large Wind Ball that has mid range and that has an area effect
+
+Recipe:
+2 送風ファン
+2 Ventilators
+
+or
+
+1 疾風の護符
+1 Wind Talisman
+-------------------------------------------------------------------------------
+Number: 12
+Japanese Name: エアロバースト
+English Name: Aero Burst
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Creates a Wind Elemental attack with an area effect in front of you
+
+Recipe:
+2 送風ファン + 1 疾風の護符
+2 Ventilators + Wind Talisman
+
+or
+
+2 疾風の護符
+2 Wind Talismen
+-------------------------------------------------------------------------------
+Number: 13
+Japanese Name: シャインショット
+English Name: Shine Shot
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a small Light Ball that hits a single target that has long range
+
+Recipe:
+1 逆光ライト
+1 Light Bulb*
+-------------------------------------------------------------------------------
+Number: 14
+Japanese Name: シャインバッシュ
+English Name: Shine Bash
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Fires a large Light Ball that has mid range and that has an area effect
+
+Recipe:
+2 逆光ライト
+2 Light Bulb*
+
+or
+
+1 閃光の護符
+1 Light Talisman
+-------------------------------------------------------------------------------
+Number: 15
+Japanese Name: シャインバースト
+English Name: Shine Burst
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Creates a Light Elemental Attack with an area effect in front of you
+
+Recipe:
+2 逆光ライト + 1 閃光の護符
+2 Light Bulb* + 1 Light Talisman
+
+or
+
+2 閃光の護符
+2 Light Talismen
+-------------------------------------------------------------------------------
+Number: 16
+Japanese Name: 二連撃
+English Name: 2 Hit Combo
+Weapon Compatibility: Sw,A,Sp
+
+
+Description:
+Attacks 2 times consecutively
+
+Recipe:
+1 加速ゼンマイ
+1 Acceleration Wind-Up Key
+-------------------------------------------------------------------------------
+Number: 17
+Japanese Name: 三連撃
+English Name: 3 Hit Combo
+Weapon Compatibility: Sw,A,Sp
+
+
+Description:
+Attacks 3 times consecutively
+
+Recipe:
+2 加速ゼンマイ
+2 Acceleration Wind-Up Keys
+
+or
+
+1 超加速装置
+1 Super Accelerator
+-------------------------------------------------------------------------------
+Number: 18
+Japanese Name: 四連撃
+English Name: 4 Hit Combo
+Weapon Compatibility: Sw,A,Sp
+
+
+Description:
+Attacks 4 times consecutively
+
+Recipe:
+3 加速ゼンマイ
+3 Acceleration Wind-Up Keys
+
+or
+
+1 加速ゼンマイ + 1 超加速装置
+1 Acceleration Wind-Up Key + 1 Super Accelerator
+-------------------------------------------------------------------------------
+Number: 19
+Japanese Name: 五連撃	
+English Name: 5 Hit Combo
+Weapon Compatibility: Sw,A,Sp
+
+
+Description:
+Attacks 5 times consecutively
+
+Recipe:
+2 超加速装置 + 1 心眼眼鏡
+2 Super Acceralors + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 20
+Japanese Name: 三連移動撃
+English Name: Fast 3 Hit Combo
+Weapon Compatibility: K,D
+
+
+Description:
+Attacks 3 times consecutively alternating between the opponent's front and back
+
+Recipe:
+2 加速ゼンマイ
+2 Acceleration Wind-Up Keys
+
+or
+
+1 超加速装置
+1 Super Accelerator
+-------------------------------------------------------------------------------
+Number: 21
+Japanese Name: 五連移動撃
+English Name: Fast 5 Hit Combo
+Weapon Compatibility: K,D
+
+
+Description:
+Attacks 5 times consecutively alternating between the opponent's front and back
+
+Recipe:
+2 超加速装置 + 1 心眼眼鏡
+2 Super Accelerators + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 22
+Japanese Name: 真空斬り
+English Name: Vacuum Slash
+Weapon Compatibility: Sw
+
+
+Description:
+Creates a Shock Wave with an area effect in front of you 
+
+Recipe:
+1 気合い鉢巻 + 1 達人の証
+1 Spirit Headband + 1 Crest of Expertise
+
+or
+
+1 極意の巻物
+1 Essential Scroll*
+-------------------------------------------------------------------------------
+Number: 23
+Japanese Name: 震動波
+English Name: Vibrating Wave
+Weapon Compatibility: A
+
+
+Description:
+Creates a wave with an area effect around you
+
+Recipe:
+1 気合い鉢巻 + 1 怪力の証
+1 Spirit Headband + 1 Crest of Strength
+
+or
+
+1 体術の巻物
+1 Martial Arts' Scroll
+-------------------------------------------------------------------------------
+Number: 24
+Japanese Name: マッハスピン
+English Name: Mach Spin
+Weapon Compatibility: Sp
+
+
+Description:
+A continuous spear spin attack 
+
+Recipe:
+1 気合い鉢巻 + 1 達人の証
+1 Spirit Headband + 1 Crest of Expertise
+
+or
+
+1 極意の巻物
+1 Essential Scroll*
+-------------------------------------------------------------------------------
+Number: 25
+Japanese Name: スロー
+English Name: Throw
+Weapon Compatibility: F
+
+
+Description:
+Throws an enemy
+
+Recipe:
+1 気合い鉢巻 + 1 怪力の証
+1 Spirit Headband + 1 Crest of Strength
+
+or
+
+1 体術の巻物
+1 Martial Arts' Scroll
+-------------------------------------------------------------------------------
+Number: 26
+Japanese Name: 百烈拳
+English Name: Hundred Fists
+Weapon Compatibility: 
+
+
+Description:
+Launches a number of attacks in front of you
+
+Recipe:
+1 気合い鉢巻 + 1 達人の証
+1 Spirit Headband + 1 Crest of Expertise
+
+or
+
+1 極意の巻物
+1 Essential Scroll*
+-------------------------------------------------------------------------------
+Number: 27
+Japanese Name: ドリルハリケーン
+English Name: Drill Hurricane
+Weapon Compatibility: D
+
+
+Description:
+Uses the rotational power to cause a hurricane that sucks the enemies
+
+Recipe:
+1 超絶電動機
+1 Ultimate Electric Motor
+-------------------------------------------------------------------------------
+Number: 28
+Japanese Name: パワーショット
+English Name: Power Shot
+Weapon Compatibility: B
+
+
+Description:
+Fires a powerful shot that has long range
+
+Recipe:
+1 気合い鉢巻 + 1 怪力の証
+1 Spirit Headband + 1 Crest of Strength
+
+or
+
+1 体術の巻物
+1 Martial Arts' Scroll
+-------------------------------------------------------------------------------
+Number: 29
+Japanese Name: ラピットショット
+English Name: Rapid Shot
+Weapon Compatibility: B
+
+
+Description:
+Launches a number of arrows in front of you
+
+Recipe:
+1 気合い鉢巻 + 1 極意の巻物 + 1 心眼眼鏡
+1 Spirit Headband + 1 Essential Scroll* + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 30
+Japanese Name: アローフォール
+English Name: Arrow Fall
+Weapon Compatibility: B
+
+
+Description:
+Launches a number of arrows in the air that fall on your enemies
+
+Recipe:
+1 気合い鉢巻 + 1 体術の巻物 + 1 心眼眼鏡
+1 Spirit Headband + 1 Martial Art's Scroll + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 31
+Japanese Name: ＤＵＲアタック
+English Name: Dur Attack
+Weapon Compatibility: All
+
+
+Description:
+Damages the opponent's Dur
+
+Recipe:
+1 破滅スイッチ
+1 Switch of Destruction
+-------------------------------------------------------------------------------
+Number: 32
+Japanese Name: トリックアタック
+English Name: Trick Attack
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+Attack with all equipped weapons
+
+Recipe:
+2 達人の証 + 1 心眼眼鏡
+2 Crest of Expertise + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 33
+Japanese Name: リープアタック
+English Name: Leap Attack
+Weapon Compatibility: Sw,A,Sp,K,D
+
+
+Description:
+A leaping Upward Attack
+
+Recipe:
+1 肉体改造の書 + 1 伝説のバネ
+1 Book of Alteration* + 1 Legendary Spring
+-------------------------------------------------------------------------------
+Number: 34
+Japanese Name: フットバシ
+English Name: Footbash*
+Weapon Compatibility: Sw,A,Sp,K,D
+*: Name might be incorrect since バッシュ = Batshu = Bash but バシ = Bashi 
+   which I'm pretty sure is not Bash but nothing better comes to mind.
+
+
+Description:
+Blows the enemy away
+
+Recipe:
+1 肉体改造の書 + 1 武術の教本
+1 Book of Alteration* + 1 Fighting Arts Manual
+-------------------------------------------------------------------------------
+Number: 35
+Japanese Name: カットバシ
+English Name: Cutbash*
+Weapon Compatibility: Sw,A,Sp,K,D
+*: Name might be incorrect since バッシュ = Batshu = Bash but バシ = Bashi 
+   which I'm pretty sure is not Bash but nothing better comes to mind.
+
+Description:
+Sends the enemy to the air
+
+Recipe:
+2 肉体改造の書
+2 Books of Alteration*
+-------------------------------------------------------------------------------
+Number: 36
+Japanese Name: チャージ
+English Name: Charge
+Weapon Compatibility: All
+
+
+Description:
+Saves energy to increase the power of the next blow
+
+Recipe:
+2 怪力の証 + 1 心眼眼鏡
+2 Crests of Strength + 1 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 37
+Japanese Name: 高速移動
+English Name: High Speed movement
+Weapon Compatibility: All
+
+
+Description:
+Moving forward very quickly
+
+Recipe:
+3 超加速装置
+3 Super Accelerators
+-------------------------------------------------------------------------------
+Number: 38
+Japanese Name: 防御力アップ
+English Name: Defense Up
+Weapon Compatibility: All
+
+
+Description:
+For a set amount of time, increases defense but decreases attack
+
+Recipe:
+1 切り替えスイッチ + 1 鉄壁の証
+1 Spare Switch + 1 Crest of Endurance
+-------------------------------------------------------------------------------
+Number: 39
+Japanese Name: 攻撃力アップ
+English Name: Attack Up
+Weapon Compatibility: All
+
+
+Description:
+For a set amount of time, increases attack but decreases defense
+
+Recipe:
+1 切り替えスイッチ + 1 怪力の証
+1 Spare Switch + 1 Crest of Strength
+-------------------------------------------------------------------------------
+Number: 40
+Japanese Name: 移動速度アップ
+English Name: Movement Speed Up
+Weapon Compatibility: All
+
+
+Description:
+For a set amount of time, increases Agl
+
+Recipe:
+1 切り替えスイッチ + 1 伝説のバネ
+1 Spare Switch + 1 Legendary Spring
+-------------------------------------------------------------------------------
+Number: 41
+Japanese Name: 攻撃ＤＵＲ保護
+English Name: Offensive Dur protection
+Weapon Compatibility: All
+
+
+Description:
+For a set amount of time, the usage of Dur by attacking is 0
+
+Recipe:
+1 幸運の四つ葉 + 1 怪力の証
+1 Lucky Four-leaf Clover + 1 Crest of Strength
+-------------------------------------------------------------------------------
+Number: 42
+Japanese Name: 防御ＤＵＲ保護
+English Name: Defensive Dur protection
+Weapon Compatibility: All
+
+
+Description:
+For a set amount of time, the usage of Dur by defending is 0
+
+Recipe:
+1 幸運の四つ葉 + 1 鉄壁の証
+1 Lucky Four-leaf Clover + 1 Crest of Endurance
+-------------------------------------------------------------------------------
+Number: 43
+Japanese Name: ＤＵＲ分配
+English Name: Dur Distribution
+Weapon Compatibility: All
+
+
+Description:
+Distributes the Dur with equipped weapons
+
+Recipe:
+1 分配装置
+1 Distribution Device
+-------------------------------------------------------------------------------
+Number: 44
+Japanese Name: ＨＰコンバート
+English Name: HP Convert
+Weapon Compatibility: All
+
+
+Description:
+As the Dur bar depletes, your HP recovers
+
+Recipe:
+2 分配装置
+2 Distribution Devices
+-------------------------------------------------------------------------------
+
+
+
+|-------------------|
+|V. Special Effects |
+|-------------------|
+
+
+Format used:
+
+Number: ## according to the ingame database
+Japanese Name: Name in the game
+English Name: Translated Name
+
+
+Description:
+What it does acording to ingame description
+
+Recipe:
+Possible combinaisons to obtain this skill
+-------------------------------------------------------------------------------
+Number: 01
+Japanese Name: ボルツ
+English Name: Bolts
+
+
+Description:
+Small chance of adding weak Lightning elemental damage
+
+Recipe:
+1 雷結晶の欠片
+1 Thunder Crystal Fragment
+-------------------------------------------------------------------------------
+Number: 02
+Japanese Name: ボルツスパーク
+English Name: Bolts Spike
+
+
+Description:
+Small chance of adding medium Lightning elemental damage
+
+Recipe:
+2 雷結晶の欠片
+2 Thunder Crystal Fragments
+
+or
+
+1 雷結晶
+1 Thunder Crystal
+-------------------------------------------------------------------------------
+Number: 03
+Japanese Name: ボルツバースト
+English Name: Bolts Burst
+
+
+Description:
+Small chance of adding strong Lightning elemental damage
+
+Recipe:
+2 雷結晶の欠片 + 1 雷結晶
+2 Thunder Crystal Fragments + 1 Lightning Crystal
+
+or
+
+2 雷結晶
+2 Thunder Crystals
+-------------------------------------------------------------------------------
+Number: 04
+Japanese Name: フレア
+English Name: Flare
+
+
+Description:
+Small chance of adding weak Fire elemental damage
+
+Recipe:
+1 炎結晶の欠片
+1 Fire Crystal Fragment
+-------------------------------------------------------------------------------
+Number: 05
+Japanese Name: フレアバーン
+English Name: Flare Burn
+
+
+Description:
+Small chance of adding medium Fire elemental damage
+
+Recipe:
+2 炎結晶の欠片
+2 Fire Crystal Fragments
+
+or
+
+1 炎結晶
+1 Fire Crystal
+-------------------------------------------------------------------------------
+Number: 06
+Japanese Name: フレアバースト
+English Name: Flare Burst
+
+
+Description:
+Small chance of adding strong Fire elemental damage
+
+Recipe:
+2 炎結晶の欠片 + 1 炎結晶
+2 Fire Crystal Fragments + 1 Fire Crystal
+
+or
+
+2 炎結晶
+2 Fire Crystals
+-------------------------------------------------------------------------------
+Number: 07
+Japanese Name: アクア
+English Name: Aqua
+
+
+Description:
+Small chance of adding weak Water elemental damage
+
+Recipe:
+1 水結晶の欠片
+1 Water Crystal Fragment
+-------------------------------------------------------------------------------
+Number: 08
+Japanese Name: アクアバッシュ
+English Name: Aqua Bash
+
+
+Description:
+Small chance of adding medium Water elemental damage
+
+Recipe:
+2 水結晶の欠片
+2 Water Crystal Fragments
+
+or
+
+1 水結晶
+1 Water Crystal
+-------------------------------------------------------------------------------
+Number: 09
+Japanese Name: アクアバースト
+English Name: Aqua Burst
+
+
+Description:
+Small chance of adding strong Water elemental damage
+
+Recipe:
+2 水結晶の欠片 + 1 水結晶
+2 Water Crystal Fragments + 1 Water Crystal
+
+or
+
+2 水結晶
+2 Water Crystals
+-------------------------------------------------------------------------------
+Number: 10
+Japanese Name: ウインド
+English Name: Wind
+
+
+Description:
+Small chance of adding weak Wind elemental damage
+
+Recipe:
+1 風結晶の欠片
+1 Wind Crystal Fragment
+-------------------------------------------------------------------------------
+Number: 11
+Japanese Name: ウインドストーム
+English Name: Wind Storm
+
+
+Description:
+Small chance of adding medium Wind elemental damage
+
+Recipe:
+2 風結晶の欠片
+2 Wind Crystal Fragments
+
+or
+
+1 風結晶
+1 Wind Crystal
+-------------------------------------------------------------------------------
+Number: 12
+Japanese Name: ウインドバースト
+English Name: Wind Burst
+
+
+Description:
+Small chance of adding strong Wind elemental damage
+
+Recipe:
+2 風結晶の欠片 + 1 風結晶
+2 Wind Crystal Fragments + 1 Wind Crystal
+
+or
+
+2 風結晶
+2 Wind Crystals
+-------------------------------------------------------------------------------
+Number: 13
+Japanese Name: バンパイア
+English Name: Vampire
+
+
+Description:
+Small chance of absorbing small amount of HP
+
+Recipe:
+1 吸血ポンプ
+1 Blood-sucking Pump
+-------------------------------------------------------------------------------
+Number: 14
+Japanese Name: 中バンパイア
+English Name: Mid Vampire
+
+
+Description:
+Small chance of absorbing medium amount of HP
+
+Recipe:
+3 吸血ポンプ
+3 Blood-sucking Pumps
+
+or
+
+1 真っ暗サングラス
+1 Pitch-black Sunglasses
+-------------------------------------------------------------------------------
+Number: 15
+Japanese Name: 強バンパイア
+English Name: Strong Vampire
+
+
+Description:
+Small chance of absorbing large amount of HP
+
+Recipe:
+2 吸血ポンプ + 1 真っ暗サングラス
+2 Blood-sucking Pumps + 1 Pitch-black Sunglasses
+
+or
+
+2 真っ暗サングラス
+2 Pitch-black Sunglasses
+-------------------------------------------------------------------------------
+Number: 16
+Japanese Name: ヒール
+English Name: Heal
+
+
+Description:
+Recover 1 HP every 4 seconds
+
+Recipe:
+1 健康サンダル
+1 Health Sandal
+-------------------------------------------------------------------------------
+Number: 17
+Japanese Name: 中ヒール
+English Name: Mid Heal
+
+
+Description:
+Recover 5 HP every 4 seconds
+
+Recipe:
+3 健康サンダル
+3 Health Sandals
+
+or
+
+1 伝説の青竹
+1 Legendary Bamboo
+-------------------------------------------------------------------------------
+Number: 18
+Japanese Name: 強ヒール
+English Name: Strong Heal
+
+
+Description:
+Recover 10 HP every 4 seconds
+
+Recipe:
+2 健康サンダル + 1 伝説の青竹
+2 Health Sandals + 1 Legendary Bamboo
+
+or
+
+2 伝説の青竹
+2 Legendary Bamboos
+-------------------------------------------------------------------------------
+Number: 19
+Japanese Name: リペア
+English Name: Repair
+
+
+Description:
+Recover 1 Dur every 8 second
+
+Recipe:
+1 古びた砥石
+1 Old Grindstone
+-------------------------------------------------------------------------------
+Number: 20
+Japanese Name: 中リペア
+English Name: Mid Repair
+
+
+Description:
+Recover 1 Dur every 4 seconds
+
+Recipe:
+3 古びた砥石
+3 Old Grindstones
+-------------------------------------------------------------------------------
+Number: 21
+Japanese Name: 強リペア
+English Name: Strong Repair
+
+
+Description:
+Recover 1 Dur every 2 seconds
+
+Recipe:
+2 古びた砥石 + 1 リペアパーツ
+2 Old Grindstones + 1 Repair Parts
+-------------------------------------------------------------------------------
+Number: 22
+Japanese Name: コストダウン
+English Name: Costdown
+
+
+Description:
+Reduce the cost for the activation of Special Skills by a little
+
+Recipe:
+1 鉄壁の証 + 1 リペアパーツ
+1 Crest of Endurance + 1 Repair Parts
+-------------------------------------------------------------------------------
+Number: 23
+Japanese Name: 中コストダウン
+English Name: Mid Costdown
+
+
+Description:
+Reduce the cost for the activation of Special Skills
+
+Recipe:
+2 鉄壁の証 + 1 リペアパーツ
+2 Crest of Endurance + 1 Repair Parts
+-------------------------------------------------------------------------------
+Number: 24
+Japanese Name: 強コストダウン
+English Name: Strong Costdown
+
+
+Description:
+Reduce the cost for the activation of Special Skills by a lot
+
+Recipe:
+3 リペアパーツ
+3 Repair Parts
+-------------------------------------------------------------------------------
+Number: 25
+Japanese Name: ラック
+English Name: Luck
+
+
+Description:
+5% more chances of getting a drop after battle
+
+Recipe:
+2 幸運の四つ葉
+2 Lucky Four-leaf Clovers
+
+or
+
+1 強運のお守り
+1 Lucky Charm
+-------------------------------------------------------------------------------
+Number: 26
+Japanese Name: 中ラック
+English Name: Mid Luck
+
+
+Description:
+10% more chances of getting a drop after battle
+
+Recipe:
+3 幸運の四つ葉
+3 Lucky Four-leaf Clovers
+
+or
+
+2 強運のお守り
+2 Lucky Charms
+-------------------------------------------------------------------------------
+Number: 27
+Japanese Name: 強ラック
+English Name: Strong Luck
+
+
+Description:
+15% more chances of getting a drop after battle 
+
+Recipe:
+3 強運のお守り
+3 Lucky Charms
+-------------------------------------------------------------------------------
+Number: 28
+Japanese Name: ノックバック
+English Name: Knock Back
+
+
+Description:
+The target retreats a bit after being hit
+
+Recipe:
+1 肉体改造の書 + 1 怪力の証
+1 Book of Alteration* + 1 Crest of Strength
+-------------------------------------------------------------------------------
+Number: 29
+Japanese Name: ＴＥＣアップ
+English Name: Tec Up
+
+
+Description:
+Tec increases a bit faster
+
+Recipe:
+3 達人の証
+3 Crests of Expertise
+-------------------------------------------------------------------------------
+Number: 30
+Japanese Name: 下突き
+English Name: Thrust Down
+
+
+Description:
+When you're in the air, press Down + A to make an attack downward
+
+Recipe:
+1 達人の証 + 1 伝説のバネ
+1 Crest of Expertise + 1 Legendary Spring
+-------------------------------------------------------------------------------
+Number: 31
+Japanese Name: 貫通
+English Name: Pierce
+
+
+Description:
+Allows every normal blow to hit more than one target
+
+Recipe:
+1 伝説級の鉄串
+1 Legendary Iron Needle
+-------------------------------------------------------------------------------
+Number: 32
+Japanese Name: クイックヒット
+English Name: Quick Bit
+
+
+Description:
+Attack Speed is slightly increased
+
+Recipe:
+2 武術の教本 
+2 Fighting Arts Manuals
+-------------------------------------------------------------------------------
+Number: 33
+Japanese Name: Ｊガードアップ
+English Name: J Guard Up
+
+
+Description:
+Just Guards happen more often
+
+Recipe:
+2 心眼眼鏡
+2 Mind's Eye Glasses*
+-------------------------------------------------------------------------------
+Number: 34
+Japanese Name: クリティカル
+English Name: Critical
+
+
+Description:
+Criticals happen more often
+
+Recipe:
+1 幸運の四つ葉 + 1 達人の証
+1 Lucky Four-leaf Clover + 1 Crest of Expertise
+-------------------------------------------------------------------------------
+Number: 35
+Japanese Name: 瀕死攻撃強化
+English Name: Near Death Attack Increased
+
+
+Description:
+When you're in a near death condition, your attack increases
+
+Recipe:
+1 決死のラブレター
+1 Will of Love
+-------------------------------------------------------------------------------
+Number: 36
+Japanese Name: 瀕死防御強化
+English Name: Near Death Defense Increased
+
+
+Description:
+When you're in a near death condition, your defense increases
+
+Recipe:
+1 決死のラブレター
+1 Will of Love
+-------------------------------------------------------------------------------
+Number: 37
+Japanese Name: 麻痺効果
+English Name: Paralyze Effect
+
+
+Description:
+Adds a small chance of causing Paralyze
+
+Recipe:
+1 しびれ鉄粉
+1 Paralysis Powder
+-------------------------------------------------------------------------------
+Number: 38
+Japanese Name: 眠り効果
+English Name: Sleep Effect
+
+
+Description:
+Adds a small chance of causing Sleep
+
+Recipe:
+1 ネムリ鉄粉
+1 Sleeping Powder
+-------------------------------------------------------------------------------
+Number: 39
+Japanese Name: 毒効果
+English Name: Poison Effect
+
+
+Description:
+Adds a small chance of causing Poison
+
+Recipe:
+1 猛毒の鉄くず
+1 Poisoned Scrap Metal
+-------------------------------------------------------------------------------
+Number: 40
+Japanese Name: サビ効果
+English Name: Rust Effect
+
+
+Description:
+Adds a small chance of causing Rust
+
+Recipe:
+1 赤サビの粉
+1 Red Rust Powder
+-------------------------------------------------------------------------------
+
+*:
+Translations might be weird and inacurate since I can't think of a more
+English term for these
+逆光ライト (Gyakou Laito) translates roughly to Reverse/Back lighting light
+
+心眼眼鏡 (Shingan Megane) translates roughly to Mind's Eye Glasses
+
+肉体改造の書 (Nikutai Kaizou no Hon) translates roughly to Body 
+Modification Book
+
+極意の巻物 (Gokui no Makimono) translates roughly to Essential/Main 
+Point's Scroll
+
+瀕死攻撃強化 is another rough translation along with its defense alternative.
+Seriously can't find anything that is English for that...
+
+
+|-------------------|
+|VI. Special Thanks |
+|-------------------|
+
+- Thanks to Net_Wanderer for helping me with translations a bit everywhere and 
+  suggesting making this faq.
+
+- Thanks to Bend010504 (sort of) for asking a list of translated Special 
+  Effects and Attacks to get me started.
+
+- Thanks to mastersord for the codes. Made figuring out Golden Bonuses and
+  other stuff much more easier.
+
+- Thanks to my brother, RPG Entity, for helping me out a bit on the 
+  romanization.
+
+- Thanks to CJayC for gamefaqs.
+
+- Thanks to Banpresto for making this game.
+
+
+|--------------------|
+|VII. Copyright Info |
+|--------------------|
+Copyright 2006 by Jackson Yan.

@@ -1,0 +1,119 @@
+Bolts
+Small chance of adding weak Lightning elemental damage
+
+Bolts Spike
+Small chance of adding medium Lightning elemental damage
+
+Bolts Burst
+Small chance of adding strong Lightning elemental damage
+
+Flare
+Small chance of adding weak Fire elemental damage
+
+Flare Burn
+Small chance of adding medium Fire elemental damage
+
+Flare Burst
+Small chance of adding strong Fire elemental damage
+
+Aqua
+Small chance of adding weak Water elemental damage
+
+Aqua Bash
+Small chance of adding medium Water elemental damage
+
+Aqua Burst
+Small chance of adding strong Water elemental damage
+
+Wind
+Small chance of adding weak Wind elemental damage
+
+Wind Storm
+Small chance of adding medium Wind elemental damage
+
+Wind Burst
+Small chance of adding strong Wind elemental damage
+
+Vampire
+Small chance of absorbing small amount of HP
+
+Mid Vampire
+Small chance of absorbing medium amount of HP
+
+Strong Vampire
+Small chance of absorbing large amount of HP
+
+Heal
+Recover 1 HP every 4 seconds
+
+Mid Heal
+Recover 5 HP every 4 seconds
+
+Strong Heal
+Recover 10 HP every 4 seconds
+
+Repair
+Recover 1 Dur every 8 second
+
+Mid Repair
+Recover 1 Dur every 4 seconds
+
+Strong Repair
+Recover 1 Dur every 2 seconds
+
+Costdown
+Reduce the cost for the activation of Special Skills by a little
+
+Mid Costdown
+Reduce the cost for the activation of Special Skills
+
+Strong Costdown
+Reduce the cost for the activation of Special Skills by a lot
+
+Luck
+5% more chances of getting a drop after battle
+
+Mid Luck
+10% more chances of getting a drop after battle
+
+Strong Luck
+15% more chances of getting a drop after battle
+
+Knock Back
+The target retreats a bit after being hit
+
+Tec Up
+Tec increases a bit faster
+
+Thrust Down
+When you're in the air, press Down + A to make an attack downward
+
+Pierce
+Allows every normal blow to hit more than one target
+
+Quick Hit
+Attack Speed is slightly increased
+
+J Guard Up
+Just Guards happen more often
+
+Critical
+Criticals happen more often
+
+Near Death Attack Increased
+When you're in a near death condition, your attack increases
+
+Near Death Defense Increased
+When you're in a near death condition, your defense increases
+
+Paralyze Effect
+Adds a small chance of causing Paralyze
+
+Sleep Effect
+Adds a small chance of causing Sleep
+
+Poison Effect
+Adds a small chance of causing Poison
+
+Rust Effect
+Adds a small chance of causing Rust

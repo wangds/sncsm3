@@ -1,0 +1,83 @@
+Name
+Effect
+
+Heal
+Recovers HP
+
+Escape
+Move to the entrance of a dungeon
+
+Quick Move
+Increase Speed for 40 seconds
+
+Guard Body
+Increase Defense for 40 seconds
+
+Barrier Weapon
+For 40 seconds, DUR doesn't decrease
+
+Weapon Spark
+Enchants your weapon with thunder
+
+Weapon Flare
+Enchants your weapon with fire
+
+Weapon Aqua
+Enchants your weapon with water
+
+Weapon Wind
+Enchants your weapon with wind
+
+Recover Weapon
+DUR recovers when weapon breaks
+
+Spell Weapon
+Damage inflicted recovers HP
+
+Recover Heal
+Recovers HP or revives when fallen
+
+Spell Body
+Damage caused by magic is reduced
+
+Tri-spark
+Mid-range thunder elemental attack
+
+Flare Burn
+Mid-range fire elemental attack
+
+Aqua Ball
+Mid-range water elemental attack
+
+Burst Gale
+Mid-range wind elemental attack
+
+Thunder Chain
+Wide-range thunder elemental attack
+
+Burning Wall
+Wide-range fire elemental attack
+
+Mega Splash
+Wide-range water elemental attack
+
+Hurricane Wall
+Wide-range wind elemental attack
+
+Partner Sortie
+Switch to your partner
+
+True Partner Sortie
+Switch to your true partner
+
+Full Burst
+Powerful magic against all enemies
+
+Tiger Blast
+Powerful magic against all enemies
+
+Judge Blade
+Powerful magic against all enemies
+
+Sonic Dancer
+Powerful magic against all enemies

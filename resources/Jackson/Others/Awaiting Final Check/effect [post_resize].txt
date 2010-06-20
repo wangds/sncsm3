@@ -1,0 +1,119 @@
+Bolts
+Chance to inflict weak Thunder dmg
+
+Bolts Spike
+Chance to inflict medium Thunder dmg
+
+Bolts Burst
+Chance to inflict strong Thunder dmg
+
+Flare
+Chance to inflict weak Fire dmg
+
+Flare Burn
+Chance to inflict medium Fire dmg
+
+Flare Burst
+Chance to inflict strong Fire dmg
+
+Aqua
+Chance to inflict weak Water dmg
+
+Aqua Bash
+Chance to inflict medium Water dmg
+
+Aqua Burst
+Chance to inflict strong Water dmg
+
+Wind
+Chance to inflict weak Wind dmg
+
+Wind Storm
+Chance to inflict medium Wind dmg
+
+Wind Burst
+Chance to inflict strong Wind dmg
+
+Vampire
+Small chance of absorbing little HP
+
+Vampire+
+Small chance of absorbing some HP
+
+Vampire++
+Small chance of absorbing lots of HP
+
+Heal
+Recover 1 HP every 4 seconds
+
+Heal+
+Recover 5 HP every 4 seconds
+
+Heal++
+Recover 10 HP every 4 seconds
+
+Repair
+Recover 1 Dur every 8 second
+
+Repair+
+Recover 1 Dur every 4 seconds
+
+Repair++
+Recover 1 Dur every 2 seconds
+
+Costdown
+Small reduction for Special Skills
+
+Costdown+
+Medium reduction for Special Skills
+
+Costdown++
+Large reduction for Special Skills
+
+Luck
++5% chance for enemy to drop items
+
+Luck+
++10% chance for enemy to drop items
+
+Luck++
++15% chance for enemy to drop items
+
+Knock Back
+Attacks knock the enemies back
+
+Tec Up
+Tec increases a bit faster
+
+Thrust Down
+In mid-air, Down + A to attack below
+
+Pierce
+Normal attacks hit multiple targets
+
+Quick Hit
+Attack Speed is slightly increased
+
+J Guard Up
+Just Guards happen more often
+
+Critical
+Criticals happen more often
+
+Critical/Survival Power
+In a critical state, increases atk
+
+Critical Defense
+In a critical state, increases def
+
+Paralyze
+Adds a chance to cause Paralyze
+
+Sleep
+Adds a chance to cause Sleep
+
+Poison
+Adds a chance to cause Poison
+
+Rust
+Adds a chance to cause Rust

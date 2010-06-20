@@ -1,0 +1,4905 @@
+---Day 2---
+
+[Rufeel]:
+どうしましょう！？
+
+What should we do!?
+
+
+[Ritchburn]:
+どうって…？
+
+What do you mean...?
+
+
+[Rufeel]:
+これから村長さんおところに
+あいさつに行くって
+親方さんが言いに来たじゃないか
+
+だから、ちゃんとした格好しないと
+絶対にダメですよね？
+
+Didn't Master say we'll go
+greet the Chief just now?
+
+So if we don't make ourselves presentable,
+it'll cause us problems
+
+
+[Ritchburn]:
+ちゃんとした格好って…
+別にそのままで大丈夫だろ？
+
+Make ourselves presentable...
+Isn't it fine the way we are right now?
+
+
+[Rufeel]:
+そんな無責任な…
+ちゃんとしていかないと
+村長さんにきらわれて
+
+この村を追い出されしまうかも
+しれませんわ…！？
+
+How irresponsible...
+If we don't, we might leave a bad
+impression to the Chief
+
+and he might force us out of
+this village, you know!
+
+
+[Ritchburn]:
+大丈夫だって
+村長さんはそんな人じゃないよ
+
+It'll be fine.
+The Chief isn't a person like that.
+
+
+[Rufeel]:
+そう言われても…
+そう言えばあなたはその格好で
+行くんですか…？
+
+Even if you say that...
+By the way, are you planning to
+go like this...?
+
+
+[Ritchburn]:
+そうだけど
+
+Yea.
+
+
+[Rufeel]:
+だったら私もこのままで
+十分なのかしら…
+
+Then I guess I'll be fine this way too...
+
+
+[Ritchburn]:
+なんか、ひっかかるな…
+
+Somehow, I feel cheated...
+
+
+[Rufeel]:
+うう～ん…
+
+そうだ！
+ミューノ様はどうされるでしょう？
+私、聞いてきますわ
+
+Uh...
+
+That's right!
+I wonder how Murno-sama is doing...
+I'll go take a look.
+
+
+[Ritchburn]:
+あ、ちょっと…
+
+Ah, wait...
+
+
+-Rufeel leaves-
+
+
+[Ritchburn]:
+行っちゃった…
+やっぱりミューノといっしょに
+いたいんだろうな…
+
+ミューノは上の部屋に
+いるんだよな…
+オレはどうしようかな…
+
+She's gone...
+I guess she really wants to
+be with Murno...
+
+Murno's is in the room upstairs...
+I wonder what I should do...
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When trying to exit the room-
+
+
+[Rufeel]:
+あの…ちょっと…！
+私、ミューノ様に相談が…
+
+Ah... Just a bit...!
+I want to ask Murno-sama something...
+
+
+[V.E]:
+あー！
+それはわかったから
+
+Ah!
+I get that.
+
+
+[Ritchburn]:
+あ、親方
+ルフィールも
+
+Ah, Master.
+Rufeel too.
+
+
+[V.E]:
+もしかして…
+アンタもミューノのところに
+行くつもりだった？
+
+Were you perhaps...
+also thinking of going to Murno's place?
+
+
+[Ritchburn]:
+オレは…
+
+I...
+
+
+------------------ CHOICE 2.1 --------------------
+
+
+A. ミューノのところに行くつもりだった
+
+A. I was thinking of going to Murno's place.
+
+
+B. そんな気さらさらありません
+
+B. I had no intention to do that.
+
+
+------------------- CHOICE A ---------------------
+
+
+[Ritchburn]:
+みんな帰ってこないし
+なにやってンのかなって…
+
+Since no one was coming back,
+I was wondering what everyone was doing...
+
+
+[V.E]:
+なるほど、つまり
+ミューノのこと心配だったと！
+へ～…、そ～なんだ～…
+
+I see. In other words, you were
+worried about Murno!
+Aw... How sweet...
+
+
+------------------- CHOICE B ---------------------
+
+
+[Ritchburn]:
+用意できたから
+玄関で待ってようかなって
+思っただけで…
+
+The preparations were done so I was
+only thinking of waiting by the entrance...
+
+[V.E]:
+はいはい
+そういうことにしといてあげるよ
+アタシってばやさしいだろ？
+
+Ok ok, let's leave it at that.
+I'm quite kind, am I not?
+
+
+--------------------------------------------------
+
+
+[Ritchburn]:
+な、なんだよ！
+オレは別に…！
+
+What, what do you mean!
+I didn't especially...!
+
+
+[V.E]:
+まあまあ
+アンタたちには悪いけど
+お姫さまはまだユメの中だよ
+
+よっぼど疲れてたんだろうね
+もう少し寝かしといてやんな
+
+Anyway, I'm sorry for you guys but our
+princess is still in her dreams.
+
+She was probably really tired so let's
+let her sleep a bit longer.
+
+
+[Ritchburn]:
+そっか
+わかった
+
+I see.
+
+
+[Rufeel]:
+ミューノ様がまだ寝ているなら
+私は部屋で護衛を…
+
+If Murno-sama is sleeping, then
+I'll go guard her room...
+
+
+[V.E]:
+だ～か～ら！
+そんなことしてるヒマがあったら
+修行の続きだって行ってるだろ！？
+
+STAY RIGHT THERE!
+We don't have the time for that,
+We have to continue our training, don't we!?
+
+
+[Ritchburn]:
+今から！？
+
+Right now!?
+
+
+[V.E]:
+アンタもそんなこと言うか！？
+この親方不幸弟子！
+
+はやく修理の仕事ができるくらい
+使い物になってもらわないと
+ホント困るンだよ！　お金とか！
+
+How can you say that!?
+You useless apprentice!
+
+We'll be really troubled if you two can't at
+least get to the level of doing repairs!
+Troubles like for money!
+
+
+[Ritchburn]:
+うわ～
+現実的だ～
+
+Uwah...
+How realistic...
+
+
+[V.E]:
+きびしい現実がわかったら
+少しでも修行しな！
+
+If you understand the harsh reality,
+then do some training already!
+
+
+[Ritchburn]:
+はい
+
+I get it.
+
+
+[V.E]:
+ルフィールも！
+
+Rufeel too!
+
+
+[Rufeel]:
+わかりましたわ
+
+I understand.
+
+
+[V.E]:
+じゃあ今日は
+武器を解体してみな
+
+Then today, try to break a weapon.
+
+
+[Ritchburn]:
+解体か…
+
+Break...
+
+
+[Ritchburn]:
+よし、やってみよう
+たのむぜ、ルフィール
+
+Alright, let's do it.
+I'm counting on you, Rufeel.
+
+[Rufeel]:
+はい
+
+I understand.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-after breaking the weapon-
+
+
+[Ritchburn]:
+武器の解体、できました
+
+We're done breaking the weapon.
+
+
+[V.E]:
+じゃあ、そいつを材料にして
+ルフィールとふたりで
+新しい武器を作ってみな
+
+Then use that as material and try to
+craft a new weapon together with Rufeel.
+
+
+[Ritchburn]:
+ルフィールと武器を…
+
+A weapon with Rufeel...
+
+
+[Rufeel]:
+…
+
+...
+
+
+[V.E]:
+昨日、あんたに練習しただろ？
+とにかく、やってみな！
+
+You've practiced yesterday, didn't you?
+Anyway, try to do it!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-after crafting the weapon-
+
+
+[Ritchburn]:
+できた…
+
+It's done...
+
+
+[V.E]:
+どうだい？
+
+How is it?
+
+
+[Ritchburn]:
+これは…
+
+This is...
+
+
+[Rufeel]:
+な、なんですか…？
+
+Wh, what is it...?
+
+
+[Ritchburn]:
+すげぇ…！
+オレひとりで作ったのより
+全然よくなってる…！
+
+すげぇよ、ルフィール！
+見てみろよ！
+カッコイイぜ！
+
+Incredible...!
+It is much better than the one
+I've crafted alone...!
+
+It's incredible, Rufeel!
+Take a look!
+It's so cool!
+
+
+[Rufeel]:
+本当ですか！
+うれしいですわ
+
+Is that true?!
+I'm so happy.
+
+
+[Ritchburn]:
+昨日はあんたに
+ハンマーこわがってたのにな
+よくがんばったよ
+
+Even though you were afraid of the hammer
+yesterday, you've done quite well.
+
+
+[Rufeel]:
+なんですって
+私がハンマーをこわかった！？
+いいがかりはよしてください
+
+What did you say?
+I was afraid of the hammer!?
+Please stop making false accusations.
+
+
+[Ritchburn]:
+いいがかりって…
+昨日はキャーキャー言ってただろ
+
+False accusations you say...
+But yesterday, you were all "Kya! Kya!",
+weren't you?
+
+
+[Rufeel]:
+アレはこわがってたんじゃありませんわ
+なんというか…
+うれしい？
+
+そう、うれしいひめいです
+
+That wasn't being afraid...
+How to say it...
+Happiness?
+
+Right, those were shrieks of happiness.
+
+
+[Ritchburn]:
+本当かなあ…
+
+I really wonder about that...
+
+
+[V.E]:
+ははは…
+まあいいじゃないか！
+どれ、見せてみな
+
+Hahaha...
+Isn't it fine like that?
+Anyway, let me take a look.
+
+
+[Ritchburn]:
+はい
+
+Here you go.
+
+
+[V.E]:
+ふ～ん…
+
+Hm...
+
+
+[Ritchburn]:
+どう？
+
+How is it?
+
+
+[V.E]:
+まあまあだね
+
+Average I guess.
+
+
+[Ritchburn]:
+まあまあか～…
+
+Average is it...
+
+
+[V.E]:
+これでアンタも武器作りに
+どれだけパートナーが大切か
+わかっただろ？
+
+お互いの心が通じ合えば
+武器の強さはそれこそ
+無限大だ！
+
+Do you now understand how important
+a partner is to weapon crafting?
+
+If your hearts are able to communicate
+with each other, the weapon's strength
+will become infinitly strong!
+
+
+[Ritchburn]:
+無限大！
+カッコイイ！
+
+Infinitely strong!
+How cool!
+
+
+[V.E]:
+しかし、今のアンタたちを見てると
+アタシもロブと出会ったころを
+思い出すね…
+
+But seeing the two of you now makes me
+remember the time around my meeting with Rob...
+ 
+
+[V.E <3]:
+鍛冶のことなんて何もわからない
+わたしにロブはやさしく
+手取り足取り…
+
+I didn't understand anything about crafting
+but Rob taught me so kindly, so attentively...
+
+
+[Ritchburn]:
+あぁ…
+またはじまった…
+
+Ah...
+It started again...
+
+
+[Rufeel]:
+武器もできましたし
+修行も終わりですね？
+
+Now that the weapon has been crafted,
+today's training is finished, right?
+
+
+[V.E]:
+なんだい？
+アンタ、ミューノが
+気になるのかい？
+
+What is it?
+You are worried about Murno?
+
+
+[Rufeel]:
+はい！
+それはもう！
+
+Yes!
+Of course!
+
+
+[V.E]:
+まったく、仕方ないね…
+まあ、そろそろいい時間だし
+起きてきてもらわないとな
+
+Geezus, it can't be helped I guess...
+I guess it's a good time to wake her up.
+
+
+[Rufeel]:
+では私が
+起こしにまいりますわ
+
+Then I will go wake her up.
+
+
+[V.E]:
+リッチー
+アンタも行ってやりな
+
+Ritchie, you should also go.
+
+
+[Ritchburn]:
+オレも！？
+
+Me too!?
+
+
+[Rufeel]:
+けっこうですわ
+
+I'll be fine alone.
+
+
+[V.E]:
+アンタたちふたりが
+上手くやってるトコを見せてやった方が
+あの子も安心すると思うんだけどね
+
+I think that child will feel more relieved
+if she sees the two of you being friendly
+to each other.
+
+
+[Ritchburn]:
+そっか…
+
+I see...
+
+
+[Rufeel]:
+なるほど…
+そういうことなら
+仕方ありませんわ
+
+I understand...
+If that's the case then it can't be helped.
+
+
+[V.E]:
+あ、リッチー
+女の子の部屋なんだ
+勝手に入るんじゃないよ
+
+ちゃんと声かけるんだよ
+わかった？
+
+Ah, Ritchie.
+It's a girl's room so don't get
+in without any notice.
+
+Ask her properly, do you understand?
+
+
+[Ritchburn]:
+はいはい
+
+I understand, I understand.
+
+
+[V.E]:
+「はい」は一回！
+
+Once is enough!
+
+
+[Ritchburn]:
+はい！
+ミューノを呼びに行ってきます！
+
+I understand!
+We'll now go wake up Murno!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-At the stairs-
+
+[Ritchburn]:
+おーい
+ミューノ
+起きてるか？
+
+Oi!
+Murno, are you awake?
+
+
+[Ritchburn]:
+あの
+もうそろそろ村長の家に
+いかないと…
+
+It's almost time, if we don't leave
+for the Chief's place soon...
+
+
+[Rufeel]:
+どうしたんですか？
+ミューノ様あ？
+
+Is there something wrong?
+Murno-sama?
+
+
+[Ritchburn]:
+ちょっと待てよ
+もう…
+
+Ah, wait a sec!
+Geezus...
+
+
+[Rufeel]:
+ど、どうしたんですか！
+ミューノ様ぁ！
+
+Wh, what's wrong!?
+Murno-sama!
+
+
+[Ritchburn]:
+なんだよ！？
+
+What is it!?
+
+
+-Ritchie climbs the stairs-
+
+
+[END OF SCENE]
+
+-------------
+
+
+[Ritchburn]:
+入るぞ
+ミューノ…
+
+I'm coming in, Murno...
+
+
+[Ritchburn]:
+ミューノ！？
+どうしたんだ？
+
+Murno!?
+What's wrong?
+
+
+[Murno]:
+大丈夫…
+ちょっと、クラっとしただけで
+
+I'm fine...
+I'm just just feeling a bit dizzy...
+
+
+[Rufeel]:
+どうしましょう
+ミューノ様、すごい熱です！
+
+What shoul we do!?
+Murno-sama's body is
+incredibly hot!
+
+
+[Ritchburn]:
+熱って…
+じゃあ、寝てなくちゃ！
+親方呼んでくれるよ！
+
+Hot you say...
+Then let her rest!
+I'll go call Master!
+
+
+-V.E arrives at the scene-
+
+
+[V.E]:
+ホントだ
+熱があるね…
+
+It looks like she really
+has a fever, doesn't it?
+
+
+[Rufeel]:
+どうしましょう？
+はやくなんとかしないと…！
+
+そうだ！
+私がミューノ様の体を
+あたためて…
+
+What should we do?
+If we don't do something quickly...!
+
+I know!
+I'll warm up Murno-sama's body.
+
+
+[V.E]:
+そんなことしなくていいから
+
+It'll be fine even if
+you don't do that.
+
+
+[Rufeel]:
+では、どうすれば
+ミューノ様を元気にすることが
+できるのですか？
+
+Then, what should we do?
+Is there anything we can do to make
+Murno-sama feel better?
+
+
+[V.E]:
+今のアンタにできることはひとつ
+おとなしくしてることだけだよ
+
+The only thing you can do now
+is to be quiet.
+
+
+[Rufeel]:
+そうなんですか…
+
+Is that so...
+
+
+[Ritchburn]:
+でも
+急に熱だなんて…
+
+But why did she suddenly get a fever...
+
+
+[V.E]:
+この子、こんな小さな体でここまで
+相当ムリしてきたみたいだからね…
+安心したら一気にきたんだろうね
+
+ゆっくり休むのが一番だよ
+今はそっとしておいてやりな
+
+This child, with such a small body, made it
+this far by really overdoing herself, didn't she?
+That's why it all came to her at once when she
+could rest assure.
+
+To rest now is the best thing to do.
+We should just leave her here.
+
+
+[Ritchburn]:
+そうだね
+わかった
+
+I guess you're right.
+I understand.
+
+
+[V.E]:
+じゃ、ここはアタシにまかせて
+アンタはルフィールだけでも
+村長に紹介しといで
+
+近ごろはぐれもふえてきたし
+まちがわれないようにしなきゃね
+
+Then, leave here to me.
+You go introduce Rufeel to the Chief.
+
+Because the amount of strays has increased
+recently, do it without doing any mistakes, okay?
+
+
+[Ritchburn]:
+でも、紹介って
+なんて言ったらいいんだろ？
+
+But what should I say for an introduction?
+
+
+[V.E]:
+鍛冶師の相方ってことで
+アタシに召喚石をもらったとか
+そんな感じでいいんじゃない？
+
+That it's your partner and that
+you got the summon stone from me.
+Isn't something like that fine?
+
+
+[Ritchburn]:
+そんな感じでって…
+
+Something like that you say...
+
+
+[Rufeel]:
+そんな…
+私、本当は
+ミューノ様の召喚獣で…
+
+But...
+The truth is that I'm
+Murno-sama's summoned creature...
+
+
+[V.E]:
+本当のことを伝えた方が
+いいのかい？
+ミューノはワケありなんだろ？
+
+Are you fine with telling the truth?
+There's also Murno's situation, right?
+
+
+[Rufeel]:
+たしかに…
+そうですわ…
+
+It certainly... seems so...
+
+
+[Ritchburn]:
+そうだね
+わかったよ、親方
+行こう、ルフィール
+
+I guess that's true.
+I understand, Master.
+Then let's go, Rufeel.
+
+
+[Rufeel]:
+あの…
+ミューノ様は親方さんが
+ひとりでみているのですか？
+
+Uh...
+Is Murno-sama going to be watched over
+by Master-san alone?
+
+
+[V.E]:
+そうだよ
+ちゃんとアタシがついてるからさ
+安心しな
+
+That's right.
+I'll follow up properly so rest assured.
+
+
+[Rufeel]:
+…
+
+心配ですわ…
+
+...
+
+I'm worried...
+
+
+[V.E]:
+なんだって！
+
+WHAT DID YOU SAY!
+
+
+[Ritchburn]:
+お、親方！？
+ちょっとしずかに！
+
+M, Master!?
+Be little quiet!
+
+
+[Murno]:
+うう…
+
+Ugh...
+
+
+[V.E]:
+あ、ごめん
+
+Ah, I'm sorry.
+
+
+[Rufeel]:
+…
+
+
+...
+
+
+[V.E]:
+なんだよ、その目は
+さっきはアンタが変なこというから
+ついカッとなっちゃまって…
+
+What's with that look?
+It's because you said something
+weird that I screamed...
+
+
+[Rufeel]:
+やっぱり心配ですわ…
+
+As I thought, I'm worried...
+
+
+[V.E]:
+なんだって！？
+
+WHAT DID YOU SAY!?
+
+
+[Ritchburn]:
+だから親方…！
+
+Master...!
+
+
+[V.E]:
+…とにかく
+アンタ、ジャマだから
+村長のところに行ってくれないか
+
+そうすればミューノもじき
+よくなるから、ね
+
+...Anyway.
+You are a bother so why don't you
+go to the Chief's place already?
+
+If you do that, Murno will also get better, okay?
+
+
+[Rufeel]:
+私が、ジャマ…
+
+I, I am a bother...
+
+
+[V.E]:
+村長へのあいさつ以外にも
+アンタたちには修行があるだろ
+鍛冶師ってのはヒマじゃないよ
+
+After greeting the Chief, you guys also
+have training to do, don't you?
+It's not easy being a Kajishi.
+
+
+[Ritchburn]:
+うん、わかったよ、親方
+とりあえず村長のところにいこう
+な、ルフィール
+
+Ok, I understand, Master.
+Then let's go to the Chief's place to begin with.
+Ok, Rufeel?
+
+
+[Rufeel]:
+仕方ありませんわ…
+わかりました…
+
+It can't be helped...
+I understand...
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When passing in front of rival's forge-
+
+
+[Ritchburn]:
+何か用？
+
+Do you need anything?
+
+
+[Guy]:
+別に？
+
+Not really.
+
+
+-Guy goes back inside-
+
+
+[Rufeel]:
+あれは、昨日の…
+
+That was yesterday's...
+
+
+[Ritchburn]:
+ここの工房の連中は
+オレたちがキライみたいでさ
+いつもからんでくるんだ
+
+ルフィールも気をつけろよ
+
+The people from this forge seems to hate us,
+they always try to pick quarrels with us.
+
+Rufeel should be careful of them too.
+
+
+[Rufeel]:
+わかりましたわ
+
+I understand.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When talking to the Chief-
+
+[Chief]:
+お？
+どうしたんだ、リッチー？
+その召喚獣
+
+Oh?
+What is it, Ritchie?
+That summoned creature...
+
+
+[Ritchburn]:
+えと、ルフィールです！
+オレのパートナー
+いっしょに鍛冶をするんだ！
+
+Uh... This is Rufeel, my partner!
+We're doing crafting together!
+
+
+[Chief]:
+するんだ…って
+どこで手に入れたんだ？
+
+'Doing crafting' you say...
+Where did you get your hands on it?
+
+
+[Ritchburn]:
+え～っと…
+
+親方に召喚石をもらったんだ、昨日
+オレもそろそろ鍛冶師として
+パートナーが必要だなって
+
+Uh...
+
+I got the summon stone from Master yesterday.
+As a Kajishi, it's about time that I
+need to have a partner.
+
+
+[Chief]:
+突然だなぁ
+
+So suddenly, huh?
+
+
+[Ritchburn]:
+突然ですね
+
+Isn't it?
+
+
+[Chief]:
+でもよかったじゃないか！
+幻獣界メイトルバの召喚獣だろ
+なかなかカワイイじゃないか
+
+But isn't it great?!
+It's a summon creature from Maetropa,
+the world of phantom beasts. It's quite cute too,
+don't you think?
+
+
+[Rufeel]:
+それに強いんですのよ
+
+And strong too.
+
+
+[Chief]:
+へー
+それはたのもしいねぇ
+
+Eh...
+That sounds so reliable, doesn't it?
+
+
+[Rufeel]:
+村長さん…
+私が強いとうことを
+信用していませんわね？
+
+Chief-san...
+You don't believe me when I say
+that I'm strong, do you?
+
+
+[Chief]:
+そんなことないよ
+おじょうちゃん
+
+I didn't say that,
+little lady.
+
+
+[Rufeel]:
+やっぱり…
+ここはひとつ
+私の真の強さをお見せに…
+
+As I thought...
+Then I'll show some of my
+real strength right here...
+
+
+[Ritchburn]:
+なにやってんだよ…
+おとなしくしてればいいんだって！
+
+お前が問題起こすと
+ミューノまで困るんだぞ！
+
+What are you doing...
+Isn't it fine if you remain quiet?
+
+If you start some trouble,
+it'll be a problem for Murno afterwards.
+
+
+
+[Rufeel]:
+はっ…！
+そうでしたわ
+
+Ah...!
+That's true, isn't it?
+
+
+[Chief]:
+どうしたんだい？
+真の強さを見せておくれよ
+
+What's wrong?
+Show me your real strength.
+
+
+[Rufeel]:
+お、おほほほほ…
+そうですわね
+
+O, ohohohoho...
+That's right, isn't it?
+
+
+-Rufeel does some sort... dance?-
+
+
+[Rufeel]:
+え～い
+とか言ったりして～
+
+E~i
+Just as I said~
+
+
+[Chief]:
+お～
+なｋなか強そうだね～
+
+Oh~
+You really are quite strong~
+
+
+[Rufeel]:
+うう…
+なさけないですわ
+
+Ugh...
+How shameful...
+
+
+[Chief]:
+ま、みんなには連絡しておくから
+これからも修行がんばれよ！
+
+Anyway, I'll tell everyone about it
+so do your best at training from now on too.
+
+
+[Ritchburn]:
+はい！
+
+I'll do my best!
+
+
+[Ritchburn]:
+意外とカンダンにすんだな…
+よかった
+
+すぐに帰ってもジャマだろうから
+修行でもするか！
+親方にもいわれたしな
+
+It was unexpectedly easy, wasn't it?
+What a relief.
+
+We'll be in the way if we go straight home
+so let's go training!
+Master said that too.
+
+
+[Rufeel]:
+あれれ？
+修行じゃ工房でするのでは
+ありませんか？
+
+Eh?
+Training isn't done at the forge?
+
+
+[Ritchburn]:
+まず材料をあつめないと
+なにもできないからね
+マニグ採掘場へ行こう
+
+If we don't gather materials first,
+we won't be able to do anything, won't we?
+Let's go to the Manig Mine.
+
+
+[Rufeel]:
+マニグ採掘場、ですか？
+
+Manig Mine, is it?
+
+
+[Ritchburn]:
+いつもオレが修行してるところさ
+武器の材料になるものが
+けっこう落ちるんだぜ
+
+お前の召喚石もそこで捨ったし
+
+It's the place I go to usually.
+Lots of crafting materials are
+often dropped there.
+
+Your summon stone was also dropped there.
+
+
+[Rufeel]:
+私の召喚石は
+武器の材料なんかじゃ
+ありません！
+
+My summon stone is not crafting material!
+
+
+[Chief]:
+んん？
+どうかしたのか？
+
+Hm?
+Is there something wrong?
+
+
+[Ritchburn]:
+ああ、いや、なんでもないです！
+
+とにかくマニグ採掘場へ行こう！
+
+Ah, no, it's nothing!
+
+Anyway, let's go to Manig Mine!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When leaving the house-
+
+[???]:
+うわっ！
+
+Uwah!
+
+
+[Ritchburn]:
+なんだよ！？
+
+What was that!?
+
+
+-Moves towards Zakk-
+
+
+[Ritchburn]:
+おい
+大丈夫が！？
+
+Oi, are you alright!?
+
+
+[Zakk]:
+だいじょうぶです
+ありがとう…
+
+…ってお前、はぐれの弟子！？
+召喚獣まで！？
+
+I'm fine, thanks for worrying...
+
+Geh... You, the stray's disciple!?
+And with a summoned creature!?
+
+
+[Ritchburn]:
+オレはリッチバーンだ！
+はぐれって言うなよ
+景気わる男の子分！
+
+I am Ritchburn!
+Don't call me stray's disciple,
+henchman of the guy that looked horrible!
+
+
+[Zakk]:
+けいきわる…って
+レミィさんのことか！
+ふぜけンな！
+
+レミィさんは景気悪くないぞ！
+むしろ景気いいぞ！
+
+Looked horrible you say...
+You mean Lemmy-san!
+Don't screw with me!
+
+Lemmy-san doesn't look horrible!
+Rather, he's good looking!
+
+
+[Ritchburn]:
+はいはい、そーですかー
+ごめんなさいね～
+
+Yes, yes, I get it~
+I'm so sorry~
+
+
+[Zakk]:
+なんだよ、それ！
+けんかうってんの…
+
+What's with that!
+Are you looking for a fight...
+
+
+[Rufeel]:
+…
+
+...
+
+
+[Zakk]:
+あ…
+あの…？
+その召喚獣は…？
+
+Ah...
+Uh...?
+That summoned creature is...?
+
+
+[Ritchburn]:
+ああ
+こいつ、オレのパートナーの
+ルフィール
+
+Ah, this is my partner, Rufeel.
+
+
+[Zakk]:
+へえ、すごいなぁ
+召喚獣をもってるなんて
+オイラもおこがれるよなぁ…
+
+…って、ちかう！
+なにやってるんだ、オイラは！
+
+Heh, isn't that great?
+You even have a summoned creature,
+I might look up to you too...
+
+Geh... I didn't mean that!
+What am I saying!?
+
+
+[Ritchburn]:
+知るかよ
+勝手にコケてたんだよ
+
+As if I know,
+you've messed up on your own.
+
+
+[Zakk]:
+うっ！　うるさい！
+もう行くからな！
+駅でレミィさんがまってるんだ
+
+Ugh... Shut up!
+I have to go!
+Lemmy-san is waiting for me by the station.
+
+
+[Ritchburn]:
+いそがしいヤツだな
+
+What a busy guy...
+
+
+[Rufeel]:
+これ…
+さっきの少年の落とし物では
+ないですか？
+
+This...
+Wasn't it just dropped by that
+young man just now?
+
+
+[Ritchburn]:
+おいおい…
+これ、ハンマーじゃないか
+
+なにやってんだ、アイツ
+鍛冶職人の命のハンマーを
+落とすなんて…
+
+Oi, oi...
+Isn't that a hammer?
+
+What is he doing, that guy...
+Dropping the hammer that is the
+life of a blacksmith...
+
+
+------------------ CHOICE 2.2 --------------------
+
+
+A. ザックにハンマーを届けよう
+A. Let's take the hammer back to Zakk.
+
+B. 他人の落とし物なんて関係ない
+B. Things that other people drop have nothing to
+   do with me.
+
+
+------------------- CHOICE A ---------------------
+
+
+[Ritchburn]:
+しかたない
+届けてやるか！
+
+It can't be helped,
+let's take it to him!
+
+
+[Rufeel]:
+わざわざどうしてですか？
+あの子、あなたのこと
+嫌ってるみたいでしたが
+
+Why bother going out of your way just to do that?
+That child also seems to hate you, doesn't he?
+
+
+[Ritchburn]:
+まあね
+でも、ハンマーだし
+放っておくわけにはいかないよ
+
+Well, yea.
+But we can't just leave
+the hammer like this.
+
+
+[???]:
+よく言った！
+
+Well said!
+
+
+[Ritchburn]:
+村長！？
+いつからそこに？
+
+Chief!?
+Since when were you...?
+
+
+[Chief]:
+今のお前
+かっこよかったぞ！
+
+これからもその心
+忘れないようにしな！
+
+You were quite cool just now!
+
+Do not ever forget that heart just now!
+
+
+[Ritchburn]:
+ありがとう、村長
+
+Thank you, Chief.
+
+
+------------------- CHOICE B ---------------------
+
+
+[Ritchburn]:
+あいつのハンマーなんて
+オレの知ったことじゃ…
+
+I have nothing to do with
+the hammer of a person like him...
+
+
+[Chief]:
+…
+
+...
+
+
+[Ritchburn]:
+うおっ、村長！？
+いつからそこに！？
+
+Uwoh, Chief!?
+Since when were you...!?
+
+
+[Chief]:
+目を閉じてみろ
+リッチー
+
+Close you eyes, Ritchie.
+
+
+[Ritchburn]:
+は？
+
+Huh?
+
+
+[Chief]:
+いいから目を閉じて
+ヴィーねさんの顔を
+思い出してみろ！
+
+Don't worry about it and
+just close your eyes!
+Think of V.E-nee-chan!
+
+
+[Ritchburn]:
+あ…、　はい！
+
+Ah... Yes!
+
+
+[V.E]:
+アンタねぇ…
+いつも言ってるだろ
+カッコワルイことすんじゃないよ…
+
+Don't you always say to not
+do uncool things?
+
+
+[Ritchburn]:
+…
+
+...
+
+
+[Chief]:
+どうだ、わかったか？
+お前がどうするべきか…
+
+So, do you understand?
+What you need to do right now...
+
+
+[Ritchburn]:
+…うん
+ゴメン、親方…
+オレ、カッコワルイかったよ…
+
+... Yes.
+I'm sorry, Master...
+I was uncool...
+
+
+[Chief]:
+うむ…
+わかったようなだな
+
+Hm...
+It looks like you understood
+
+[Ritchburn]:
+はい！
+ありがとう村長！
+
+Yes!
+Thank you very much, Chief!
+
+
+--------------------------------------------------
+
+
+[Chief]:
+いいってことよ！
+じゃあな！
+
+Don't worry about it!
+See you!
+
+
+[Ritchburn]:
+よし！
+あいつに届けにいくぞ
+
+Yosh!
+Let's bring it back to him!
+
+
+[Rufeel]:
+そうですね
+行きましょう
+
+Okay, let's go.
+
+
+[Ritchburn]:
+あれ、どうしたの？
+なんかうれしそうだけど
+
+Eh? What is it?
+You seem happy for some reason...
+
+
+[Rufeel]:
+いいえ
+なんでもないですわ
+
+No, it's nothing.
+
+
+[Ritchburn]:
+ま、いいか
+行こう！
+
+If you say so.
+Let's go!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-At the station-
+
+[Ritchburn]:
+おい
+どうかしたのかよ？
+
+Hey, what's wrong?
+
+
+[Zakk]:
+それが…
+レミィさんが…！
+
+That is...
+Lemmy-san is...!
+
+
+[Lemmy]:
+君には関係ないよ
+
+It has nothing to do with you.
+
+
+[Ritchburn]:
+な…！
+
+く…
+そうだな
+関係ないな
+
+Wh...!
+
+Gr...
+That's right, it has nothing to do with me.
+
+
+[Lemmy]:
+じゃあ早く
+どこかへ行ってくれないかな
+ジャマなんだけど
+
+Then would you go somewhere else already?
+You're a bother.
+
+
+[Ritchburn]:
+悪かったな！
+でも、コレを届けにきたんだよ
+
+I'm so sorry for that!
+But I came to bring this back.
+
+
+-Zakk's Hammer has been returned-
+
+
+[Zakk]:
+あ！　これって…
+オイラのハンマー！？
+さっきコケたときに…！
+
+Ah! This is...
+my hammer!?
+Back then when I messed up...
+
+
+[Ritchburn]:
+こんな大事なもん
+2度と落とすなよ！
+
+Don't drop something this important a second time!
+
+
+[Zakk]:
+ありがとう！
+
+…じゃないけど
+あの…
+
+Thanks!
+
+...or not.
+Uh...
+
+
+[Ritchburn]:
+見つけたのはオレじゃなくて
+ルフィールだから
+礼ならルフィールに言ってくれよ
+
+The one that found it wasn't me but Rufeel.
+So save your thanks to Rufeel.
+
+
+[Zakk]:
+そうなんだ
+ありがとう
+
+Ah, that's how it is.
+Thanks.
+
+
+[Rufeel]:
+そんな
+お礼なんていいですわ
+
+It's fine,
+you don't really have to.
+
+
+[Zakk]:
+やさしいんだね
+
+…ってちがう！
+
+You're kind, aren't you?
+
+...Geh, I didn't mean that!
+
+
+[Lemmy]:
+用事が済んだなら
+さっさと帰ってもらえないかな？
+
+If you're done with your business,
+won't you leave already?
+
+
+[Zakk]:
+レミィさん…
+
+Lemmy-san...
+
+
+[Ritchburn]:
+そうだったな
+じゃ、修行に行こうぜ
+ルフィール
+
+I guess you're right.
+Then, let's go training, Rufeel.
+
+
+[Rufeel]:
+わかりましたわ
+
+I understand.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-A little further from the mine's entrance-
+
+
+[Ritchburn]:
+じゃあ、武器の材料を
+あつめようか！
+
+この辺りは、はぐれも多いから
+気をつけるんだぞ
+
+Then, let's gather some
+material for crafting!
+
+There are many strays around
+this place so be careful.
+
+
+[Rufeel]:
+わかりましたわ
+十分気をつけます！
+
+I understand,
+I'll be careful.
+
+
+[Ritchburn]:
+大丈夫だよ
+オレがついてるし
+
+It'll be fine since
+I'll be with you.
+
+
+[Rufeel]:
+な、何を言ってるんですか！？
+私がついているから
+大丈夫なんですわ！
+
+Wh, what are you saying!?
+It's because I'll be with you
+that it'll be fine!
+
+
+[Ritchburn]:
+なんかカッコイイな！
+んじゃ、今日はふたりだし
+いつもより奥まで行ってみるか！
+
+It's kinda cool!
+Then, since we're two today
+let's go deeper than usual!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When near the bridges-
+
+
+[Ritchburn]:
+ん？
+どうした？
+
+Hm?
+What is it?
+
+
+[Rufeel]:
+あのですね…
+
+この橋…
+イヤな予感がしますわ…
+絶対なにかありますよ
+
+You know...
+
+This bridge...
+I get a bad feeling from it...
+There definately is something.
+
+
+[Ritchburn]:
+ホントに？
+オレにはどっちの橋も
+かわらないように見えるぜ
+
+For real?
+To me, either bridge don't
+look any different.
+
+
+[END OF SCENE]
+
+-------------
+
+
+******If you choose to cross the top bridge*******
+
+
+[Rufeel]:
+ダメです！
+これ以上進むと
+絶対に橋が落ちます
+
+Stop!
+If you continue any further,
+the bridge will fall for sure.
+
+
+[Ritchburn]:
+そっか？
+じゃあ…
+
+If that so?
+Then...
+
+
+-Bridge breaks-
+
+
+[Ritchburn]:
+うっわあっ！？
+
+UUWAAH!?
+
+
+-Ritchie falls-
+
+
+[Ritchburn]:
+いっわ～…
+ビックリしたぁ…
+
+Uwah~...
+That startled me...
+
+
+[Rufeel]:
+無事ですか～？
+
+Are you alright~?
+
+
+[Ritchburn]:
+ああ、大丈夫
+すぐもどるよ
+
+Ah, I'm fine.
+I'll come back right away.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When Ritchie leaves the cave-
+
+
+[Ritchburn]:
+悪い悪い
+
+I'm sorry, I'm sorry.
+
+
+[Rufeel]:
+だから言ったじゃないですか！
+私の言葉を
+信じていなかったのですね？
+
+That's why I told you!
+You didn't believe me, didn't you?
+
+
+[Ritchburn]:
+そんなつもりはないけど
+オレには橋のちがいが
+わからなかったからさ…
+
+I didn't mean it that way.
+I couldn't tell the difference
+between the bridges...
+
+
+[Rufeel]:
+しかたないですね…
+しょせん人間のカンは
+そんなものですから
+
+It can't be helped...
+Because human's intuition is only
+at that level afterall.
+
+
+[Ritchburn]:
+え…
+ルフィール、カンなの！？
+
+Eh...
+Rufeel, that was intuition!?
+
+
+*****If you choose to cross the bottom bridge*****
+
+
+[Ritchburn]:
+お、ホントだ
+あっちが落ちた！
+あぶねー…
+
+Ah, it's true.
+It really did fell!
+How dangerous...
+
+
+[Rufeel]:
+もしかして…、私の言葉を
+信じてなかったのですか？
+
+Did you perhaps not believe my words?
+
+
+[Ritchburn]:
+そんなつもりはないけど
+オレには橋のちがいが
+わからなかったからさ…
+
+I didn't mean it that way.
+I couldn't tell the difference
+between the bridges...
+
+
+[Rufeel]:
+まあ、仕方ないですわ
+私のカンが
+スルドすぎますから
+
+Well, it can't be helped
+since my intuition is just too sharp.
+
+
+[Ritchburn]:
+カンなの！？
+
+That was intuition!?
+
+
+**************Common for both route***************
+
+
+[Rufeel]:
+今、私のカンを
+バカにしましたね？
+
+今まで私が生きのびてこれたのは
+このカンにしたがったおかげ
+なんですよ！
+
+Just now, you were making fun of my
+intuition, didn't you?
+
+It's all thanks to my intuition that
+I've managed to survive up until now!
+
+
+[Ritchburn]:
+いや…
+そんなに怒らなくても…
+
+Well, you don't need to get this mad...
+
+
+[Rufeel]:
+私のカンが信用できないのなら
+どうなっても知りませんから
+どうぞ、好きにするといいですわ
+
+If you can't trust my intuition,
+I can't tell what will become of you.
+Feel free to do as you please.
+
+
+[Ritchburn]:
+なんだよ、もう…
+
+もういい！
+行くぞ！
+
+What's with that, geezus...
+
+It's fine!
+Let's go!
+
+
+-Monster appears-
+
+
+[Ritchburn]:
+ルフィール！？
+あぶない！
+
+Rufeel!?
+It's dangerous!
+
+
+-Rufeel gets into a battle-
+
+
+[Ritchburn]:
+ルフィールの攻撃がきかない
+はぐれなんて…
+大丈夫、ルフィール？
+
+A stray that Rufeel's attacks had no effect on...
+Are you alright, Rufeel?
+
+
+[Rufeel]:
+はい…、大丈夫です
+本当にありがとうございます
+あなたがいなかったら、私…
+
+Yes... I'm fine.
+Thank you very much,
+If you weren't here, I would have...
+
+
+[Ritchburn]:
+そんな、いいよ…！
+お前とはパートナーなんだし
+助け合うのは当然だろ！
+
+Don't worry about it, it's fine...!
+Since we're partners, helping each other
+is something natural to do!
+
+
+[Rufeel]:
+パートナー、ですね
+
+Partners, is it?
+
+
+[Ritchburn]:
+それに
+お前にけがさせたら
+あの子も悲しむだろ？
+
+And also, if you are to get injured,
+that child would also be sad, right?
+
+
+[Rufeel]:
+あの子？
+それって…
+
+That child?
+That is...
+
+
+[Ritchburn]:
+いいから行こうぜ！
+
+It's fine so let's move on!
+
+
+[Rufeel]:
+あ、はい…
+リッチー、さん…
+
+Ah, I understand...
+Ritchie, -san...
+
+
+[???]:
+うわあ！
+
+Uwah!
+
+
+[Ritchburn]:
+何だ！？
+誰かが橋から落ちたぞ！？
+
+What was that!?
+Someone fell from the bridge!?
+
+
+[Rufeel]:
+今の声
+絶対にザックって少年ですわ
+
+That voice just now,
+it was definately young man called Zakk.
+
+
+[Ritchburn]:
+行ってみよう
+
+Let's go take a look.
+
+
+[Ritchburn]:
+あれ…
+
+橋はもう、くずれいたハズ
+それなのに落ちたのか！？
+
+Eh...
+
+The bridge should have already collapsed,
+he still managed to fall with that!?
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When you meet up with Zakk down there-
+
+
+[Ritchburn]:
+おい、お前
+大丈夫かよ？
+
+Hey, are you alright?
+
+
+[Zakk]:
+あ、その、落っこちちゃって
+ちょっとイタイけど大丈夫です
+ありがとう…
+
+…じゃなかった！
+お前たちか！
+
+Ah, uh, I've fell and it hurts
+a bit but I'm fine.
+Thanks...
+
+...or not!
+It's you guys!
+
+
+[Ritchburn]:
+…って言うかさ
+あの橋、穴が空いてただろ？
+なんて落ちるんだよ！？
+
+...Rather than that,
+There was a huge hole in that bridge, wasn't it?
+Why did you fall!?
+
+
+[Zakk]:
+う…うるさい！
+いぞいでたから見えなかったんだ！
+
+Sh... Shut up!
+I was in a hurry so I didn't see it!
+
+
+[Ritchburn]:
+そんなに急いで
+どうしたんだよ
+
+Why were you in such a hurry?
+
+
+[Zakk]:
+オイラ…
+この森の奥にある
+キッカの実を取りに来たんだ！
+
+I... came here to gather Kicker
+Fruits that are deep into this forest.
+
+
+[Ritchburn]:
+キッカの実？
+わざわざ果物を取りに
+はぐれのいるの森の奥まで？
+
+よっぽど好きなんだな
+
+Kicker Fruit?
+You're going deep within the forest
+where there are strays only to gather fruits?
+
+
+[Zakk]:
+そんなんじゃないよ！
+オイラ、キッカの実をあつめて
+クスリを作ってもらおうと…
+
+That's not it!
+I'm gather Kicker Fruits to
+make medicine...
+
+
+[Ritchburn]:
+薬？
+
+Medicine?
+
+
+[Zakk]:
+知らないのか？
+キッカの実を材料にすれば
+元気になる薬ができるんだぞ
+
+You don't know about it?
+If you use Kicker Fruits as ingredients,
+you can make medicine that makes you healthy.
+
+
+[Ritchburn]:
+元気になる薬って
+お前、すっごい元気じゃないか
+そんなもんどうする…
+
+…って、あいつのためか？
+なんか調子悪そうだったし
+
+Medicine that makes you healthy you say.
+You're plenty healthy already, aren't you?
+What are you gonna do with that...
+
+...it's for that guy?
+He looks like he's kinda not feeling well.
+
+
+[Zakk]:
+うん…
+レミィさん調子悪くて…
+熱もあるんだよ
+
+それなのに、だまってて…
+親方に心配かけないようにって
+ムリしてはたらいて…
+
+Yes...
+Lemmy-san is not feeling well,
+he even has a fever.
+
+But even if that's the case, he remains quiet...
+He pushes himself to not worry Master...
+
+
+[Ritchburn]:
+へえ…
+あんなカオしてるけど
+あいつも結構やるもんだな
+
+Heh...
+He makes such a face but
+he's quite good, isn't he?
+
+
+[Zakk]:
+あんなカオってなんだよ！
+お前、知らないのか？
+レミィさんはスゴイんだぞ！
+
+すごい武器を作るし
+戦いだってすごく強いんだ！
+お前たちなんて目じゃないよ！
+
+What do you mean such a face!?
+You don't know anything, do you?
+Lemmy-san is incredible!
+
+He crafts great weapons and
+he's incredibly good at fighting!
+You guys are no where near his level!
+
+
+[Ritchburn]:
+へえ…
+あいつ、そんなに強いのか…
+
+Heh...
+That guy, he's that strong...
+
+
+[Zakk]:
+そうだよ！
+レミィさんはオイラのあこがれで
+もくひょうさ！
+
+だからオイラははやく
+キッカの実を手に入れて
+レミィさんを元気にしたいんだ！
+
+That's right!
+Lemmy-san is the person I admire
+and also my goal!
+
+That's why I have to obtain Kicker
+Fruits quickly to make Lemmy-san healthy!
+
+
+[Ritchburn]:
+そっか…
+
+I see...
+
+
+[Rufeel]:
+あの…
+その実で作った薬を使えば
+熱が下がるんですか？
+
+Uh...
+Is the medicine made from that fruit
+effective with fevers?
+
+
+[Zakk]:
+え？　そうだけど…
+もしかしてあんたたちも
+キッカの実がほしいとか？
+
+Eh? It is but...
+Do you guys also want Kicker
+Fruits perhaps?
+
+
+[Rufeel]:
+熱に効くのなら
+ぜひ！
+
+If it's effective with fevers,
+then gladly!
+
+
+[Ritchburn]:
+ルフィール…
+
+Rufeel...
+
+
+[Zakk]:
+そうなのかよ！
+じゃ、あんたたちに取られないように
+急がなきゃ！
+
+So that was it!
+Then, I have to hurry in order to not have
+them taken away by you guys!
+
+
+-Zakk leaves the cave hurrily-
+
+
+[Ritchburn]:
+あ…おい…！
+大丈夫か！？
+この先ははぐれ召喚獣も…
+
+…って、行っちゃった
+
+Ah... Hey...!
+Will you be alright!?
+There are strays ahead of here too..
+
+...He left...
+
+
+[Rufeel]:
+私たちも急ぎましょう
+
+We should also hurry.
+
+
+[Ritchburn]:
+元気が出る薬ってやつを
+ミューノにあげたいってことだよな
+ルフィール？
+
+You want to give the medicine
+to Murno, Rufeel?
+
+
+[Rufeel]:
+そのとおりですわ
+
+Exactly.
+
+
+[Ritchburn]:
+そっか
+じゃあ行こうか！
+
+I see, then let's go!
+
+
+[Rufeel]:
+はい！
+
+Okay!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When you meet Zakk near the bridges-
+
+
+[Ritchburn]:
+あれ…？
+今度はどうしたんだ？
+
+Huh...?
+What is it this time?
+
+
+[Zakk]:
+だってさ…
+さっきの橋、かたっぽこわれてただろ
+だから、もしかして、また…
+
+Well, you know...
+The bridges just now, there was one
+side that collapsed... That's why,
+maybe, again...
+
+
+[Ritchburn]:
+今回はシンチョーなんだな
+さっきは最初っからくずれてる橋に
+落ちたのに
+
+So this time you're prudent, huh?
+Though the bridge just now was
+already broken.
+
+
+[Zakk]:
+う、うるさいな！
+
+Sh, shut up!
+
+
+[Ritchburn]:
+どうだ、ルフィール
+今度もわかるか？
+
+How is it, Rufeel?
+Can you tell this time too?
+
+
+[Rufeel]:
+今回は両方とも大丈夫ですわ！
+
+Both side will be fine this time!
+
+
+[Zakk]:
+わかった！
+じゃ、お先に！
+
+I understand!
+Then, I'll go first!
+
+
+[Ritchburn]:
+あ、おい
+ちょっと！
+
+Ah, hey!
+Wait a bit!
+
+
+-Bridge breaks-
+
+
+[Zakk]:
+あぅわっ！？
+
+Awah!?
+
+
+-Zakk falls-
+
+
+[Ritchburn]:
+落ちた！
+
+だ…
+大丈夫か！？
+
+It collapsed!
+
+Are...
+Are you alright!?
+
+
+[Zakk]:
+へいきー！
+
+I'm fine!
+
+
+[Ritchburn]:
+よかった…
+
+どういうことだよ！
+大丈夫なんじゃなかったのか！？
+
+I'm glad...
+
+What's with this!
+Didn't you say it'll be fine!?
+
+
+[Rufeel]:
+そんな…
+私のカンは絶対あたるんです…
+そうですわ…
+
+きっと私たちが渡っていたら
+落ちなかったんですわ
+あの子がなにか…
+
+But that's...
+My intuition is always correct...
+That's it...
+
+If it was us crossing then it would
+have not collapsed...
+That child must have...
+
+
+[Ritchburn]:
+言い訳かよ！
+カッコワルイな！
+
+An excuse!?
+So uncool!
+
+
+[Rufeel]:
+か、かっこわるいですって！？
+そんな…
+
+Un, uncool you say!?
+But it's not...
+
+
+[Ritchburn]:
+あいつはお前の言葉を信じてたんだ
+それなのに、なんだよ…
+
+He believed in your words.
+But despite that, what's with you...
+
+
+[Rufeel]:
+…
+
+...
+
+
+[Ritchburn]:
+あー！
+もういい！
+あいつのトコへ行くぞ！
+
+Ah...!
+I've had enough!
+Let's go to where he is!
+
+
+-Stray appears!-
+
+
+[Ritchburn]:
+うわっ！
+
+Uwah!
+
+
+-After the battle-
+
+
+[Ritchburn]:
+あぶなかった…
+
+ルフィールがいなかったら
+いまごろオレは…
+
+ありがとう、ルフィール
+
+That was so close...
+
+If Rufeel wasn't here,
+by now, I would have been...
+
+Thank you, Rufeel.
+
+
+[Rufeel]:
+お礼なんて、いいですよ
+助け合うのがパートナー
+なんですよね
+
+It's alright, you don't need to thank me.
+To help each other is what makes
+us partners, right?
+
+
+[Ritchburn]:
+そっか…
+ありがとう、ルフィール
+
+I see...
+Thank you, Rufeel.
+
+
+[Rufeel]:
+あらあら
+またお礼なんですわ
+
+Ah, you've thanked me again.
+
+
+-Zakk shows up-
+
+
+[Zakk]:
+あー、ビックリした
+その橋の下も、またさっきの洞窟に
+つなかってたんだよ！
+
+Ah, that starkled me.
+Under that bridge too was connected
+to the cave earlier!
+
+
+[Ritchburn]:
+だからあっちから来たのか…
+それにしても本当に
+ブジでよかったぜ
+
+ザック
+さっきは本当に…
+
+That's why you came from there...
+Anyway, I'm glad, it seems like
+you're fine.
+
+Zakk, about what happenned just now,
+I...
+
+
+[Rufeel]:
+すみませんでしたわ
+
+I am truly sorry.
+
+
+[Ritchburn]:
+ルフィール…！？
+
+Rufeel...!?
+
+
+[Rufeel]:
+私のせいであなたに
+あんな目にあわせてしまうなんて
+
+It's my fault that something
+like happenned to you...
+
+
+[Zakk]:
+本当にカンベンしてくれよな
+
+Please give me a break already!
+
+
+[Ritchburn]:
+悪かったな
+
+I'm sorry.
+
+
+[Rufeel]:
+どうしてです…？
+あなたがあやまる必要なんて…
+
+Why...?
+There is no need for you to apologize...
+
+
+[Ritchburn]:
+パートナーの失敗は
+オレの失敗でもあるんだ
+いっしょにあやまらなきゃな
+
+My partner's miss is my miss.
+That's why we have to to apologize together.
+
+
+[Rufeel]:
+そうなんですか
+
+Is that so?
+
+
+[Zakk]:
+もういいってば
+それより、もう一つの橋なら
+大丈夫よね
+
+じゃあ、お先に！
+
+It's fine already.
+Rather than that, the other bridge
+is fine, right?
+
+Then I'll be going ahead.
+
+
+-Zakk leaves-
+
+
+[Ritchburn]:
+今度は落ちないみたいだ
+
+It seems like it didn't fall this time.
+
+
+[Rufeel]:
+よかったですわ
+
+I'm glad it didn't.
+
+
+[Ritchburn]:
+よし！
+俺たちも行こう！
+
+Alright!
+Let us move on too!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-While walking towards the forest section-
+
+
+[Ritchburn]:
+ヘンだな…？
+この辺りだけ草が枯れてるぞ？
+
+Isn't it weird...?
+Only the grass around here has dried up.
+
+
+
+[Rufeel]:
+そんな…
+キッカの実は…！？
+
+That can't be...
+Then the Kicker Fruits...!?
+
+
+[Ritchburn]:
+あ…
+あれ…！
+
+Ah...
+That is...!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-Meets up with Zakk-
+
+
+[Zakk]:
+どうしよう…
+あいつのせいで
+木がかれちゃったみたいだ…
+
+これじゃ、キッカの実が…
+せっかくココまできたのに…
+
+What should I do...
+Because of him, it seems like
+the trees have withered away...
+
+Then, the Kicker Fruits must have...
+And we finally made it here...
+
+
+[Ritchburn]:
+あきらめるのは早いぞ
+きっとまだどこかに
+残ってるはずだ！
+
+It's too early to give up!
+There must be some remaining somewhere!
+
+
+[Zakk]:
+でも…
+はぐれ召喚獣がいるし…
+
+But...
+There's a stray here...
+
+
+[Ritchburn]:
+大丈夫
+オレたちが追っ払ってやる
+
+It'll be fine.
+We'll chase it away.
+
+
+[Zakk]:
+そんな！？
+強そうだよ！
+
+What are you saying!?
+It seems strong!
+
+
+[Ritchburn]:
+大丈夫だ
+鍛冶師は強くなきゃいけないからな！
+
+It'll be fine because it's not
+acceptable for Kajishi to not be strong!
+
+
+[Zakk]:
+お前…
+
+You...
+
+
+[Ritchburn]:
+よし！　いくぞ
+ルフィール！
+
+Alright! Let's go, Rufeel!
+
+
+[Rufeel]:
+私の強さにビックリしないで
+くださいね！
+
+Please do not be surprised by my strength!
+
+
+-After the fight-
+
+
+[Zakk]:
+すっけー！
+おっぱらっちゃった！
+
+Awesome!
+You've chased it away!
+
+
+[Ritchburn]:
+どうだ！
+オレたちの強さ、思い知ったか！
+な、ルフィール！
+
+How's that!
+Did you realize our strength!
+Right, Rufeel!?
+
+
+[Rufeel]:
+ふたりで力を合わせれば
+コワイものなんてありませんわ！
+
+If we combine our strength,
+there is nothing to be afraid of!
+
+
+[Zakk]:
+…
+ありがとう
+
+...
+Thanks.
+
+
+[Ritchburn]:
+いいってことよ…
+
+あれ？
+オレたちなんかにお礼とか言って
+いいのかよ？
+
+Don't worry about it...
+
+Huh?
+Is it fine for you to thank us?
+
+
+[Zakk]:
+いいよ
+ありがとう
+リッチバーン、ルフィール
+
+It's fine.
+Thank you Ritchburn, Rufeel.
+
+
+[Ritchburn]:
+あ…、どうも…
+オレのことは
+リッチーでいいって…
+
+Ah... You're welcome.
+For me, Ritchie will do.
+
+
+[Rufeel]:
+お話はそれくらいにして
+早くキッカの実をさがしましょう
+
+Let's stop the conversation around there
+and start looking for Kicker Fruits.
+
+
+[Ritchburn]:
+あ、そうだった！
+じゃ、キッカの実をさがそう！
+
+Ah, that's right!
+Then, let's look for Kicker Fruits!
+
+
+[END OF SCENE]
+
+-------------
+
+
+-Obtained Kicker Fruit-
+
+
+[Ritchburn]:
+あった！
+あったぞ、キッカの実！
+
+It's there!
+It's there, the Kicker Fruit!
+
+
+[Rufeel]:
+これで薬を作れば
+ミューノ様の熱も…
+
+If we make medicine with this,
+Murno-sama's fever will...
+
+
+[Zakk]:
+オイラも見つけた！
+
+I've also found some!
+
+
+[Ritchburn]:
+よかったな
+
+Aren't you glad?
+
+
+[Zakk]:
+あのさ、オイラ
+道具屋にカオがきくんだ
+
+You know, I have quite a bit
+of influence at the item shop.
+
+
+[Ritchburn]:
+は？
+それで？
+
+Huh?
+And?
+
+
+[Zakk]:
+だから、お前の…
+リッチーの分の薬も
+作ってもらってきてやるよ
+
+That's why, I'll go make your...
+Ritchie's share of medicine too.
+
+
+[Ritchburn]:
+本当か？
+いいのか？
+
+For real?
+Is that okay?
+
+
+[Zakk]:
+うん…　さっき
+はぐれをおっぱらってもらっただろ
+そのお礼だよ
+
+Yes... As thanks for chasing the
+stray away earlier.
+
+
+[Ritchburn]:
+そっか…
+ありがとな
+うれしいよ！
+
+I see...
+Thanks, it makes me happy!
+
+
+[Zakk]:
+でも、お前たちに会ってるとこ
+みんなに見られたくないから…
+
+But, I don't want to be seen by
+everyone with you so...
+
+
+[Ritchburn]:
+はは…
+
+Haha...
+
+
+[Zakk]:
+駅でまっててよ
+薬、もってくからさ！
+
+Wait for me at the station because
+I'll be going there with the medicine!
+
+
+[Ritchburn]:
+おう！
+たのんだぜ！
+
+Ah!
+I'm counting on you!
+
+
+[Zakk]:
+まかせといて！
+
+Leave it to me!
+
+
+-Kicker Fruit has been handed over-
+
+
+-Zakk leaves-
+
+
+[Rufeel]:
+よかったですわね
+
+You're glad, aren't you?
+
+
+[Ritchburn]:
+うん
+助かったよ
+
+Yes, that really helped.
+
+
+[Rufeel]:
+でも、彼は少しドジですから
+また何かおかしなことにならなければ
+いいんですか…
+
+But, since he's a little clumsy,
+I hope something weird doesn't
+happen to him...
+
+
+[Ritchburn]:
+そう言われると
+なんか心配になってくるな…
+
+とにかく駅に行こう
+
+When you say it like that,
+I feel somehow worried...
+
+Anyway, let's go to the station.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When arriving at the station-
+
+
+[Zakk]:
+あ、リッチー！
+おそいよ！
+
+Ah, Ritchie!
+You're late!
+
+
+[Ritchburn]:
+ああ、悪い悪い
+
+Ah, I'm sorry, I'm sorry.
+
+
+[Zakk]:
+えっと…
+リッチーの分の薬は…
+
+Uh...
+Ritchie's share of medicine is...
+
+
+-Lemmy appears-
+
+
+[Zakk]:
+レ、レミィさん…
+なにしてるんです
+ねてなきゃダメじゃないですか！？
+
+Le, Lemmy-san...
+What are you doing?
+Don't you have to rest!?
+
+
+[Lemmy]:
+何をしてる、だって…？
+君こそ何してのかな？
+そんな人たちと…
+
+What are you doing, you say...?
+I could ask you the same thing,
+what could you be doing? With those
+kind of people...
+
+
+[Zakk]:
+これはその…！
+ちがうんです、レミィさん！
+
+That is...!
+That is a misunderstanding, Lemmy-san!
+
+
+[Lemmy]:
+ちがうって何が？
+
+Misunderstanding you say, what is?
+
+
+[Ritchburn]:
+そうそう、オレだって
+好きでコイツに会ってだんじゃないぞ
+薬をうけとりに来ただけだよ
+
+That's right, that's right. Even I am
+not meeting him because I want to.
+I've only come to pick up the medicine.
+
+
+[Lemmy]:
+薬？
+
+Medicine?
+
+
+[Zakk]:
+そうです
+キッカ薬
+
+That's right.
+Kicker Potion.
+
+
+[Lemmy]:
+そんなもの
+どうしてザックが
+あの人なんかに…？
+
+That kind of thing, why would Zakk
+give to that kind of person...?
+
+
+[Zakk]:
+それは…その…
+オイラ、キッカの実をとりに
+いったとき
+
+あの、リッチーたちに
+いろいろ助けてもらっちゃって
+そのお礼に薬を…
+
+That is... you see...
+When I went to gather Kicker Fruits,
+
+uh, Ritchie helped me out with many things
+so as thanks, that medicine...
+
+
+[Lemmy]:
+リッチーたち、か…
+いつの間にかそんなに
+仲がよくなっていたとはね
+
+Ritchie, is it...?
+When you've become so friendly, I wonder.
+
+
+[Zakk]:
+そんな…
+
+It's not like that...
+
+
+[Ritchburn]:
+あーあー…
+別にどーだっていいだろ
+そんなこと
+
+Ah...
+Does that kind of thing even matter?
+
+
+[Lemmy]:
+…
+
+...
+
+
+[Ritchburn]:
+とにかくザックがお前のために
+がんばって材料さがして
+薬を作ったんだ
+
+お前はそれを
+ありがとう、とか言って
+うけとればいいんだよ
+
+Anyway, Zakk did his best to look for
+ingredients to make that medicine
+for your sake.
+
+You should just say thanks and take it.
+
+
+[Lemmy]:
+僕のために…
+
+For my sake...
+
+
+[Zakk]:
+あの…、レミィさん
+調子悪そうだったから
+この薬で元気になるかなって…
+
+Uh... Since Lemmy-san didn't look too good,
+will he get better with this I thought...
+
+
+[Lemmy]:
+いらない
+
+I don't want it.
+
+
+[Zakk]:
+え？
+
+Eh?
+
+
+[Ritchburn]:
+なんでだよ！？
+お前、熱あったんだろ！？
+
+おとなしくもらってやれば
+いいだろ！
+
+Why!?
+You have a fever, don't you!?
+
+Isn't it fine to just take it like
+a good child?
+
+
+[Lemmy]:
+もう熱なんてない…
+
+The fever has already passed...
+
+
+[Rufeel]:
+今のは絶対にウソですわ
+カンですけど
+
+This now is definately a lie.
+It's only my intuition though.
+
+
+[Zakk]:
+そんな、レミィさん
+またムリを…！
+
+But that's too reckless, Lemmy-san.
+Doing the impossible again...!
+
+[Lemmy]:
+それに、君の手を借りて
+できた薬なんか
+絶対にいらない…
+
+Besides, medicine that was made with
+your help, I definately don't want it...
+
+
+[Ritchburn]:
+なんだと！
+
+What did you say!
+
+
+[Lemmy]:
+言ったはずだよ
+ボスタフ親方ははぐれ召喚獣に
+大ケガさせらてたんだ…
+
+だから、はぐれ召喚獣は僕の敵だ
+その弟子の君の手を借りてできた
+くすりなんて、いるはずないだろう？
+
+I should have said it already.
+Master Bostaf has been seriously
+injured by a stray...
+
+That's why, strays are my enemies.
+A medicine that has been made with the
+help of a stray's apprentice, there's no
+way I'll want it, is there?
+
+
+[Ritchburn]:
+お前なぁ…
+いわせておけば…！
+
+You...
+If you continue to talk like that...!
+
+
+[Zakk]:
+やめてよ…
+もういいんだ
+オイラがわるかったよ…
+
+勝手に薬なんか作ろうって…
+レミィーさんがいらないって
+言うんなら、もう…
+
+Stop already...
+It's fine, it was my fault...
+
+Making medicine on my own...
+If Lemmy-san says he doesn't want,
+then it's fine...
+
+
+[Ritchburn]:
+だめだ！
+
+I refuse to!
+
+
+[Zakk]:
+でも…！
+
+But...!
+
+
+[Ritchburn]:
+これはもうお前だけの問題じゃない
+こうなったら絶対その薬を
+受け取らせたくなったぜ…
+
+This is no longer your problem alone.
+If it comes to this, I will definately
+make him take the medicine...
+
+
+[Lemmy]:
+力すぐでも
+…ってフンイキだね
+
+いいよ
+ちょうど良い機会だ
+相手してあげるよ
+
+"Even if it requires force"
+... type of ambiance, huh?
+
+It's okay.
+It's a fine opputunity,
+I'll be your opponent.
+
+
+[Zakk]:
+そんな…！
+レミィさんは調子が悪いんでしょ！
+
+But that's too reckless...!
+Lemmy-san isn't feeling well!
+
+
+[Ritchburn]:
+ち…！
+
+Tch...!
+
+
+[Lemmy]:
+なに？
+僕の調子が悪かったら
+君が勝てるとでも思ってるの？
+
+だったら試してみたら？
+
+What?
+Because I'm not feeling well,
+you think you can win?
+
+Then how about giving it a try?
+
+
+[Ritchburn]:
+なんだと…
+
+What did you say...
+
+
+[Lemmy]:
+もちろんそっちの召喚獣も
+いっしょに相手してあげるから
+心配しなくていいよ
+
+Of course, I'll be the opponent
+to the two of you together.
+You don't need to worry.
+
+
+[Rufeel]:
+うぅ…
+すごい自信ですわね…
+
+Ugh...
+What incredible self-confidence, isn't it...
+
+
+[Lemmy]:
+君が僕に勝てたときは、その薬
+ちゃんと受け取ってあげるよ
+
+If you manage to win against me,
+I'll take that medicine properly.
+
+
+[Ritchburn]:
+約束、だからな
+
+It's a promise then.
+
+
+[Lemmy]:
+ああ
+
+じゃあ、君の準備がととのい次第
+勝負してあげるよ
+
+Ah.
+
+Then let's start as soon as
+you're done preparing.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When talking to Lemmy-
+
+
+[Lemmy]:
+僕と勝負する準備は
+できたのかい？
+
+Are you done preparing
+to fight me?
+
+
+------------------ CHOICE 2.3 --------------------
+
+
+A. 勝負の準備はできる
+A. I'm done.
+
+B. まだ準備できてなかった
+B. Not yet.
+
+
+------------------- CHOICE B ---------------------
+
+
+Nothing.
+
+
+------------------- CHOICE A ---------------------
+
+
+[Ritchburn]:
+病人には悪いが、この勝負
+勝たせてもらうぜ
+
+I feel bad for the one sick,
+but I'll be taking the win for this fight.
+
+
+[Lemmy]:
+できるのなら、どうぞ
+
+If you can take it, then feel free to.
+
+
+[Ritchburn]:
+よしっ！
+いくぜ、ルフィール！
+
+Alright!
+Let's do it, Rufeel!
+
+
+[Rufeel]:
+はい！
+かんばりますわ！
+
+Okay!
+I'll do my best!
+
+
+--------------------------------------------------
+
+
+-After the fight-
+
+
+[Ritchburn]:
+まいったか！
+
+Do you admit defeat!?
+
+
+[Lemmy]:
+くっ…
+
+Gr...
+
+
+[Zakk]:
+だいじょうぶですか
+レミィさん？
+
+Are you alright, Lemmy-san?
+
+
+[Lemmy]:
+ああ…
+大丈夫…
+
+Ah...
+I'm fine...
+
+
+[Ritchburn]:
+まけたんだから約束通り
+ザックの薬、受け取れよな！
+
+If you've lost then as promised,
+take Zakk's medicine!
+
+
+[Lemmy]:
+…
+わかった…
+
+...
+I understand...
+
+
+[Zakk]:
+じゃあ、あの…
+レミィさん、これ…
+
+Then, uh...
+Lemmy-san, here...
+
+
+[Lemmy]:
+ああ…
+ありがとう…
+
+Ah...
+Thanks...
+
+
+[Ritchburn]:
+おいおい、その薬には
+ザックの気持ちがこもってるんだ
+大事に使えよ
+
+Hey, hey. That medicine contains
+Zakk's feelings in it.
+Don't waste any of it.
+
+
+[Lemmy]:
+わかってる…
+
+I know...
+
+
+[Ritchburn]:
+…
+
+...
+
+
+[Zakk]:
+ありがとう、リッチー
+はい、これ
+
+Thank you, Ritchie.
+Here yours.
+
+
+[Ritchburn]:
+お、そうだった
+こっちこそありがとな
+ザック
+
+Oh, that's right.
+Thanks to you too, Zakk.
+
+
+-Obtained Kicker Potion-
+
+
+[Zakk]:
+そういえばリッチーたちも
+元気そうだし…
+この薬はダレかにあげるの？
+
+Come to think of it, you two look
+pretty healthy too...
+Is that medicine for someone else?
+
+
+[Ritchburn]:
+まあな
+そういうことだ
+
+Well, yea.
+That's how it is.
+
+
+[Zakk]:
+もしかしてこれって
+リッチーの好きな
+女の子だろ？
+
+Is this perhaps for the
+girl Richie likes?
+
+
+[Ritchburn]:
+なっ…！？
+なんでそんなこと！
+
+Wh...!?
+Why did it come to this!
+
+
+[Zakk]:
+やっぱりそうなんだ！
+じゃあ早く
+持って行ってあげなよ
+
+It really is that!
+Then hurry up and bring it to her.
+
+
+[Ritchburn]:
+言われなくてもわかってるよ！
+行くぞ！
+ルフィール
+
+You don't need to tell me!
+Let's go, Rufeel!
+
+
+[Rufeel]:
+そうですね
+
+Right.
+
+
+[END OF SCENE]
+
+-------------
+
+
+-When talking to V.E-
+
+
+[Ritchburn]:
+親方！
+
+Master!
+
+
+[V.E]:
+しずかにしな！
+ミューノはまだ寝てるんだ
+
+Be quiet!
+Murno is still sleeping.
+
+
+[Murno]:
+うぅ…ん
+
+[Un...]
+
+
+[V.E]:
+ほら…
+ミューノが起きちゃったじゃないか…
+
+See...
+You've woke Murno up.
+
+
+[Rufeel]:
+もう…
+何やってるんですか…？
+
+What do you think you're doing...?
+
+
+[Ritchburn]:
+ごっ…ごめん…
+
+I'm... I'm sorry...
+
+
+[Murno]:
+あ…、いいの…
+悪いのは私なんだし…
+それによく寝たから、もう…
+
+Ah... It's fine...
+It's my fault for being sick...
+I've slept plenty already so...
+
+
+[V.E]:
+なに言ってんだい
+まだ熱っぽいんだからさ
+おとなしくしてな
+
+What are you saying?
+Your fever is still running
+so be good and keep resting.
+
+
+[Rufeel]:
+ミューノ様…
+
+Murno-sama...
+
+
+[V.E]:
+ところでアンタは
+何があったんだい
+ヤケにうれしそうだけど？
+
+By the way, did somethin happenned?
+Because you seemed really happy...
+
+
+[Ritchburn]:
+あ、そうだ
+ほら、これ…
+ミューノの熱にもきくかな？
+
+Ah, that's right.
+See, this...
+Will it have any effect on Murno's fever?
+
+
+-Handed over Kicker Potion-
+
+
+[V.E]:
+これ、キッカ薬じゃないか…
+
+This, isn't this Kicker Potion...?
+
+
+[Ritchburn]:
+ルフィールといっしょにとってきた
+キッカの実で作ったんだぜ
+
+It's made with a Kicker Fruit
+that I've found together with Rufeel.
+
+
+[Rufeel]:
+これでミューノ様も
+絶対元気になりますわよ
+
+With this, Murno-sama will
+definately get better!
+
+
+[V.E]:
+あ…
+ああ！
+元気になるさ！
+
+Ah...
+Yes!
+It'll make her feel better!
+
+
+[Ritchburn]:
+やった！
+
+Hurray!
+
+
+[V.E]:
+よかったね、ミューノ
+じゃ、さっそく飲んでみるかい
+水もってくるよ
+
+Aren't you glad, Murno?
+Then, let's drink this immediately.
+I'll go bring some water.
+
+
+[Murno]:
+あ…、すみません…
+ヴィーさん、ルフィール…
+それから…
+
+リッチバーン…
+
+Ah... I'm sorry...
+V.E-san, Rufeel...
+and...
+
+Ritchburn...
+
+
+[Ritchburn]:
+いや…
+そんな、いいよ…
+それに…
+
+オレのことは
+リッチーでいいから
+
+No, it's okay...
+By the way...
+
+For me, Ritchie is enough...
+
+
+[Murno]:
+じゃあ、その…
+リッチー…
+
+Then, uh...
+Ritchie...
+
+[Ritchburn]:
+えへへ…
+
+Ehehe...
+
+
+[Background]:
+薬のせいかどうかはしらないが
+あれからミューノの熱も下がった
+
+落ち着いたミューノの寝顔を見てたら
+よかったなって思ったけど
+ちょっと心配にもなった…
+
+それは、ミューノがここくるまで
+どんな目にあっているのか
+想像もできなかったからだと思う…
+
+I don't know if it's because of the
+medicine or not but Murno's fever
+has was gone after that.
+
+Looking at the now calmed down sleeping
+face of Murno, I feel a bit relieved but
+also a bit worried...
+
+That was because, before Murno arrived here,
+the things that had happened to her, I
+couldn't even imagine I think...
+
+
+[Ritchburn]:
+まあ、いろいろあったけど
+ミューノが元気になったんなら
+それでいっか…
+
+あれ？
+そこにいるのは…？
+
+Anyway, a lot has happenned but
+Murno has recovered so it's fine...
+
+Huh?
+The one over there is...?
+
+
+------------- Night Conversation 02 --------------
+
+
+A. ミューノ
+A. Murno
+
+B. ルフィール
+B. Rufeel
+
+C. ヴィー
+C. V.E
+
+D. レミィ
+D. Lemmy
+
+
+------------- Night Conversation 02A -------------
+
+
+[Murno]:
+あ、あの…、リッチー…
+
+Uh, um... Ritchie...
+
+
+[Ritchburn]:
+ミューノ…
+もう出歩いていいの？
+
+Murno...
+Is it fine for you to go out already?
+
+
+[Murno]:
+うん
+もう熱は下がったし
+ずっと寝てたから寝付けなくって…
+
+Yes, the fever is already gone
+and I've been sleeping all the time
+so I can't fall asleep...
+
+
+[Ritchburn]:
+ははは…
+でも、本当によかったよ
+元気になって
+
+Hahaha...
+But I'm really glad that
+you're energetic again.
+
+
+[Murno]:
+でもあなたには、薬のこととか
+メイワクかけちゃって…
+本当にごめんなさい…
+
+But I've giving you trouble
+for things like medicine...
+I'm really sorry...
+
+
+[Ritchburn]:
+え？　なんであやまるんだよ
+いいんだよ別に
+好きでやってことなんだから
+
+Eh? Why are you apologizing?
+It's fine, I was only doing the
+thing I like.
+
+
+[Murno]:
+す、好きで…？
+
+Li, like...?
+
+
+[Ritchburn]:
+あ、いや、ほら
+親方が看病してて
+オレたちはジャマだって…
+
+それで色々あって…
+薬ができたのはルフィールや
+ザックのおかげだし…
+
+Ah, no, you see.
+Master was nursing you
+and we were in the way...
+
+And then lots of things happenned...
+It was thanks to Rufeel and Zakk
+that the medecine was completed...
+
+
+[Murno]:
+そうね…
+みんなのおかげね…
+
+That's right, isn't it...?
+It was thanks to everyone, wasn't it...?
+
+
+[Ritchburn]:
+そんなに気にするなって
+ミューノだって熱出るくらい
+大変なことがあったんだろ？
+
+I'm telling you to not worry too much about it.
+Something troublesome like a fever also
+happened to Murno, didn't it?
+
+
+[Murno]:
+それは…
+
+That is...
+
+
+[Ritchburn]:
+こうしてミューノが元気でいればさ
+みんなもよろこぶと思うよ
+
+I think now that Murno is
+feeling better, everyone is happy.
+
+
+[Murno]:
+…
+
+やっぱり…
+ここにくるまでの私の話…
+聞きたい？
+
+...
+
+As I thought...
+The things about me before coming here...
+Do you want to listen?
+
+
+[Ritchburn]:
+え？
+まあ、そりゃ知りたいけど…
+ミューノが話したくなったらでいいよ
+
+Eh?
+Well, yea, I want to know...
+But it's fine if Murno doesn't want
+to talk about it.
+
+
+[Murno]:
+…
+やさしいね…
+
+...
+You're kind, aren't you...
+
+
+[Ritchburn]:
+そ、そんなことないって
+あの、ここにいれば安心なんだろ？
+だから、落ち着いたら…
+
+Th, that's not it.
+Well, when you're here, you feel secured, right?
+Then, until you've calmed down...
+
+
+[Murno]:
+…
+
+...
+
+
+[Background]:
+そのとき
+たしかにミューノは笑ったんだけど
+なぜださびしそうに見えたんだ
+
+At that time, Murno was definately smiling
+but somehow, she seemed lonely.
+
+
+------------- Night Conversation 02B -------------
+
+
+[Rufeel]:
+見つけましたわ
+
+I've found you.
+
+
+[Ritchburn]:
+あ、ルフィール
+
+Ah, Rufeel.
+
+
+[Rufeel]:
+ついさっきミューノ様の目が
+覚めましたわ！
+すっかり元気になったようです
+
+Murno-sama has regained consciousness a while ago!
+She seemed to be perfectly fine now.
+
+
+[Ritchburn]:
+よかったな、ルフィール
+
+Aren't you glad, Rufeel?
+
+
+[Rufeel]:
+本当ですわ
+それもこれもあの薬のおかげです
+ご協力ありがとうございました
+
+Really.
+That is all thanks to the Medicine,
+thank you for your help.
+
+
+[Ritchburn]:
+そんなのいいよ
+オレも好きでやったんだからさ
+
+Don't worry about that,
+I was only doing the things I like.
+
+
+[Rufeel]:
+好きで！？
+
+…と言うことは
+もしかしてあなた
+ミューノ様に好意を…
+
+Like!?
+
+...In other words,
+do you perhaps have feelings for Murno-sama...
+
+
+[Ritchburn]:
+そ、そいういことじゃなくて！
+ほら、親方にジャマっていわれたし
+修行にもなるしさ！
+
+Th, that's not it!
+You see, Master said we were in the way
+and that is also training!
+
+
+[Rufeel]:
+ふーん…
+そうですか…
+
+Hm...
+Is that so...
+
+
+[Ritchburn]:
+それに、薬ができたのは
+親方がミューノをみいててくれたり
+ザックが手伝ってくれたからだぜ
+
+Besides, the medicine could be completed
+thanks to Master watching over Murno
+and to Zakk's help.
+
+
+[Rufeel]:
+たしかに、そうですわね…
+みなさんのおかげですわ
+
+それなのに私ったら
+親方さんをうたがってしまうなんて
+なんてヒドイことを…
+
+That's true...
+It's thanks to everyone.
+
+Despite that, I was doubting Master-san
+and said such terrible things...
+
+
+[Ritchburn]:
+ルフィール…
+お前…
+
+Rufeel...
+You...
+
+
+[Rufeel]:
+こんなことがバレたら
+親方さんにどんな目にあわされるか…
+うぅ…
+
+If such things leak out,
+how should I face Master-san...
+Ugh...
+
+
+[Ritchburn]:
+そっちか！？
+
+まあ、親方のためにもさ
+いっしょに修行をがんばろうぜ
+
+It was about that!?
+
+Anyway, let's do our best at training
+for Master's sake too.
+
+
+[Rufeel]:
+そうですわね…
+
+Okay...
+
+
+[Ritchburn]:
+オレもさ
+ルフィールがいてくれて
+本当に助かってたんだよ！
+
+強い武器も作れるようになったし
+強い相手とも戦えるようになったしね
+
+It was also a great help to me that 
+Rufeel came to our place!
+
+I can now make strong weapons and
+became capable of fighting strong opponents.
+
+
+[Rufeel]:
+本当ですか
+うれしいですわ
+
+Is that true?
+It makes me happy.
+
+
+[Ritchburn]:
+じゃ、これからもよろしくたのむぜ
+ルフィール
+
+Then, I'll be counting on you from
+now on too, Rufeel.
+
+[Rufeel]:
+おまかせください！
+
+Please leave it to me!
+
+
+------------- Night Conversation 02C -------------
+
+
+[V.E]:
+やっぱりアンタはここか
+
+You are here as expected.
+
+
+[Ritchburn]:
+親方…
+
+Master...
+
+
+[V.E]:
+もうミューノは大丈夫だよ
+アンタたちのもってきた
+薬のおかげだね
+
+森の奥まで行ったんだって？
+よくがんばったね
+
+Murno is now fine,
+thanks to the medicine you guys brought.
+
+You've said you went deep within the forest?
+You've tried quite hard, didn't you?
+
+
+[Ritchburn]:
+えへへ…
+まあ、ルフィールもいたしね
+楽勝だったよ！
+
+Ehehe...
+Well, Rufeel was also there
+so it was a piece of cake!
+
+
+[V.E]:
+またアンタはすぐ調子にのる
+でもルフィールとは
+上手くやっていけるみたいだね
+
+You've getting carried away again...
+But it seems to be going quite well
+with Rufeel, doesn't it?
+
+
+[Ritchburn]:
+うーん…
+どうだろ？
+よくわかんないけど
+
+Uh...
+Is that so?
+I'm not really sure.
+
+
+[V.E]:
+なんだい、今度はたよりないねぇ
+それじゃ、アタシが熱出した時は
+薬作ってきてくれそうにないね
+
+What's that, this time, you sound so
+unreliable, you know? With that, when I'll
+have a fever, it looks like you won't go make
+a medicine.
+
+
+[Ritchburn]:
+そ、そんなことないよ！
+絶対持って行くさ！
+看護だってするよ！
+
+Th, that's not true!
+I'll definately bring back some!
+I'll also do the nursing properly!
+
+
+[V.E]:
+ははは…
+ありがとね
+そのときはよろしくたのむよ
+
+Hahaha...
+Thanks then.
+At that time, I'll be counting on you.
+
+
+[Ritchburn]:
+まかせとけって！
+でも、今まで親方が病気なったの
+見たことない…
+
+Leave it to me!
+But, up until now, I've never seen
+Master get sick...
+
+
+-Ritchburn gets knocked-
+
+
+[Ritchburn]:
+いった！
+なんでだよ！？
+
+It hurts!
+What's that for!?
+
+
+[V.E]:
+アンタは一言多いんだよ
+まったく！
+
+You've said one thing too many!
+Geezus!
+
+
+------------- Night Conversation 02D -------------
+
+
+[Lemmy]:
+どうして君が…？
+
+Why are you...?
+
+
+[Lemmy]:
+まさか君がこんなところに
+いるなんて…
+
+I would have never thought you
+would be in this kind of place...
+
+
+[Ritchburn]:
+いいだろ
+ここはオレのお気に入りの
+場所なんだよ
+
+お前こそ、調子悪かったんだろ？
+こんなとこうろうろしてて
+大丈夫なのかよ
+
+Why can't I?
+This is my favorite place afterall.
+
+What about you, you weren't feeling
+well, weren't you? Is it alright for you
+to loiter in this kind of place?
+
+
+[Lemmy]:
+君に心配してもらうことなんて
+何もないよ
+
+There is nothing for you to worry about.
+
+
+[Ritchburn]:
+ま、元気ならいいけどさ
+ちゃんとザックの薬のんだのか？
+約束だぜ？
+
+Well, it's fine if you're feeiling better
+but did you drink Zakk's medicine?
+You've promised, didn't you?
+
+
+[Lemmy]:
+…飲んだよ
+
+...I drank it.
+
+
+[Ritchburn]:
+じゃあ、それが効いたんだな
+ザックもよろこぶぞ
+
+Then, Zakk would also be happy
+that it was effective.
+
+
+[Lemmy]:
+…
+
+...
+
+
+[Ritchburn]:
+でも、たおれるまで仕事とはね
+お前も大変なんだなぁ…
+
+But, to work until you collapsed,
+it must also on hard for you...
+
+
+[Lemmy]:
+君に何がわかる？
+
+What do you understand?
+
+
+[Ritchburn]:
+な、なにって…
+
+Wh, what you say...
+
+
+[Lemmy]:
+僕のこと何も知らないくせに
+勝手なこと言わないで欲しいな
+
+Even though you know nothing about me,
+I would like it if you to not say
+things as you please.
+
+
+[Ritchburn]:
+な…
+なんだよ、その言い方
+知らないから聞いただけだろ？
+
+Wh...
+What's with that, that way of talking...
+It's because I don't know that I'm asking, right?
+
+
+[Lemmy]:
+…
+別に君が知る必要なんて
+ないよ…
+
+...
+It's not like there is no need
+for you to know...
+
+
+-Lemmy leaves-
+
+
+[Ritchburn]:
+ち…ちょっと待てよ…！
+
+なんだよ！
+ハラ立つなぁ！
+
+Wa...Wait a sec...!
+
+What's with him!
+So aggrevating!
+
+
+--------------- Day 02 Complete ------------------

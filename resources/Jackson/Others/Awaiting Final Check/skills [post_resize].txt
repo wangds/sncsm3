@@ -1,0 +1,131 @@
+Thunder Shot
+Fires a small L-ranged Thunder Ball
+
+Thunder Spike
+Fires a large M-ranged Thunder Ball
+
+Thunder Burst
+Creates a S-ranged Thunder Attack
+
+Flame Shot
+Fires a small L-ranged Fire Ball
+
+Flame Blow
+Fires a large M-ranged Fire Ball
+
+Flame Burst
+Creates a S-ranged Fire Attack
+
+Water Shot
+Fires a small L-ranged Water Ball
+
+Water Bash
+Fires a large M-ranged Water Ball
+
+Water Burst
+Creates a S-ranged Water Attack
+
+Aero Shot
+Fires a small L-ranged Wind Ball
+
+Aero Storm
+Fires a large M-ranged Wind Ball
+
+Aero Burst
+Creates a S-ranged Wind Attack
+
+Shine Shot
+Fires a small L-ranged Light Ball
+
+Shine Bash
+Fires a large M-ranged Light Ball
+
+Shine Burst
+Creates a S-ranged Light Attack
+
+2 Hit Combo
+Attacks 2 times consecutively
+
+3 Hit Combo
+Attacks 3 times consecutively
+
+4 Hit Combo
+Attacks 4 times consecutively
+
+5 Hit Combo
+Attacks 5 times consecutively
+
+Fast 3 Hit Combo
+Attacks 3 times consecutively
+
+Fast 5 Hit Combo
+Attacks 5 times consecutively
+
+Vacuum Slash
+Creates a S-ranged Shock Wave
+
+Vibrating Wave
+Creates a S-ranged Violent Tremor
+
+Mach Spin
+A continuous spear spin attack 
+
+Throw
+Throws an enemy
+
+Hundred Fists
+Launches a number of attacks
+
+Drill Hurricane
+Creates a hurricane
+
+Power Shot
+Fires a powerful L-ranged attack
+
+Rapid Shot
+Fires multiple arrows frontward
+
+Arrow Fall
+Fires multiple arrows in the air
+
+Dur Attack
+Damages the opponent's Dur
+
+Trick Attack
+Attacks with all equipped weapons
+
+Leap Attack
+A leaping Upward Attack
+
+Footbash
+Blows the enemy away
+
+Cutbash
+Sends the enemy to the air
+
+Charge
+Amasses Energy for the next attack
+
+Quick Movement
+Moving forward at high speed
+
+Defense Up
+Temporarily boosts def & lowers atk
+
+Attack Up
+Temporarily boosts atk&lowers def
+
+Speed Up
+Temporarily increases Agl
+
+Off DUR Shield
+Attacking uses no DUR temporarily
+
+Def DUR Shield
+Blocking uses no DUR temporarily
+
+Dur Dividing
+Divides DUR with equipped weapons
+
+HP Convert
+Recovers HP as DUR bar depletes

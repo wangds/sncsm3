@@ -1,0 +1,515 @@
+                         [3.5] Item Listing
+
+
+
+      [itm] Item Listing
+      ------------------
+
+      *The following list begins from the top of the inventory. 
+       The description of its appearance is written in the brackets*
+
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | First-Aid (Bandage beginning with F)                       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Stuck onto wounds and recovers a little HP                 |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 200(HP)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Kicker Potion (Red Juice in glass)                         |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Drink this and HP will recover by a little more            |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 350(HP)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Juyu Potion (Yellow Juice in rectangular glass)            |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A delicious drink, recovers HP                             |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 450(HP)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Soft boiled Egg (White and shaped like a "waterdrop") |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | It has an addictive soft texture                           |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 600(HP)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Egg Fried Rice (A grey bowl with yellow patch on top)      |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | So good that you'll eat any amount of it                   |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 800(HP)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Spicy Curry (Grey plate with brownish - white patch)       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | That exciting spicy taste will increase your appetite      |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 1000(HP)                                          |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Recovery Item |
+      ------------------------------------------------------------
+     | Emergency Aid Box (White Box with a red cross)             |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Recovers a large amount of HP, ressurects you if fallen    |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 9999(HP)                                          |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Repair Item |
+      ------------------------------------------------------------
+     | Sharp Stone (Grey rectangular block)                       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Allows doing light repairs on weapons. Recovers DUR        |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 50(DUR)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Repair Item |
+      ------------------------------------------------------------
+     | Grinding Stone (Blue Rectangular Block)                    |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Used to do finishing touches for weapons.                  |
+     | Recovers lots of DUR                                       |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 150(DUR)                                          |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Repair Item |
+      ------------------------------------------------------------
+     | Heavenly Stone (Gold Rectangular Block)                    |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Recovers DUR, makes any weapons like if it was new         |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 300(DUR)                                          |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Special Item |
+      ------------------------------------------------------------
+     | Planning Diary (Red book)                                  |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Allows to save in the current state                        |
+     |                                                            |
+     | Effect:                                                    |
+     | Save anywhere on the map                                   |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Special Item |
+      ------------------------------------------------------------
+     | Portal Stone (A Green eval-like gem/stone)                 |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Warps you out of dungeon back to last visited town         |
+     |                                                            |
+     | Effect:                                                    |
+     | (As described)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Special Item |
+      ------------------------------------------------------------
+     | Protection Amulet (Red round Pendant tied to string)       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Reduces the chance of encountering battles                 |
+     |                                                            |
+     | Effect:                                                    |
+     | (As decribed)                                              |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Special Item |
+      ------------------------------------------------------------
+     | ??? (White Paper with letters on it)                       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Increases the chance of encountering battles               |
+     |                                                            |
+     | Effect:                                                    |
+     | (As decribed)                                              |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Kicker Fruit (Red Tomato like fruit)                       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A slightly sour fruit with a nice fragrance                |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 10(HP)                                            |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Juyu Fruit (Yellow grape-like fruit)                       |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A hard, delightful-tasting fruit                           |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 20(HP)                                            |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | El Fruit (Purple Pear/Fire-shaped fruit)                   |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | An really sweet taste with medical uses                    |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 50(HP)                                            |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Sticky Tree Sap (Grey Iron Pot)                            |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Sticky, Sticky, and Sticky Tree Sap                        |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 1(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Overripe Fruit (Red bell-shaped fruit with two leaves)     |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A tasteless overripe fruit                                 |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 1(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Polishing Stone (Grey Stone Shard)                         |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A Thin soft textured Stone                                 |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 5(DUR)                                            |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Sharpening Stone (Purple Stone Shard)                      |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A Stone Fragment use to repair Weapons                     |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 10(DUR)                                           |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Zasso Leaf (Green Leaf...)                                 |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A leaf that grows anywhere                                 |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 1(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Soft Grass (Three Grass in a patch...)                     |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A very soft grass for medical uses                         |
+     |                                                            |
+     | Effect:                                                    |
+     | Recovers 1(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Quality Paper (Looks like a brown paper bag rolled on top) |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Durable paper, A good material used for books              |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Handy Twig (Brown diagonal cylinder/Stick)                 |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A handy twig that can be held easily                       |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Beautiful Cloth (Looks like a White Roll or Toilet Paper?) |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | An extremely clean pure white cloth                        |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Smelly Onion (An Onion)                                    |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Has a strong smell coming from it but good for the body    |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 5(HP)                                              |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Sweet Nectar (Yellow stuff in a brownish pot)              |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Nectar with a really sweet smell                           |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 5(HP)                                              |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Soft Fur (Diagonal Brown piece sloping left to right)  |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A Well crafted soft piece of fur                           |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Durable Fur (Greyish colour of Soft Fur)                   |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A difficultly crafted piece of durable fur, slightly hard  |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Quality Fur (Yellow version of Soft Fur)                   |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Brilliant piece of quality fur                             |
+     |                                                            |
+     | Effect:                                                    |
+     | None                                                       |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Flamming Spice (A Small White-ish Bag)                     |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Young people won't understand that strong smell of spice   |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 10(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Mystery Powder (bluish bag)                                |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A mysterious white powder                                  |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 20(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Pure Natural Water (Blue Water in a Bottle)                |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | Natural Water that is very clear and very nutricious       |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 10(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Mystery Egg (Brownish Egg)                                 |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | An egg we don't what it's from but often seen              |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 10(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------
+
+
+       | Ingredient Item |
+      ------------------------------------------------------------
+     | Pretty Egg (Gold yellowish Egg)                            |
+      ------------------------------------------------------------
+     |                                                            |
+     | Description:                                               |
+     | A Pretty Egg with a color a bit different                  |
+     |                                                            |
+     | Effect:                                                    |
+     | Recover 20(HP)                                             |
+     |                                                            |
+      ------------------------------------------------------------

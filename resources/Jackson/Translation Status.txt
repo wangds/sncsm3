@@ -1,0 +1,42 @@
+Spells: Complete
+Effects: Complete
+Skills: Complete
+
+Recovery and Etc Items
+Name Translation: Completed
+Description Translation: Completed
+First Name and Description Revision: Completed
+Name and Description Resizing: Not Done
+Final Revision: Not Done
+
+Imbue Items, Weapons
+Name Translation: Kinda Completed with uncertainties
+Description Translation: Not Done
+First Name and Description Revision: Not Done
+Name and Description Resizing: Not Done
+Final Revision: Not Done
+
+Ore Items, Event Items, Monsters, Accessories
+Name Translation: Not Done
+Description Translation: Not Done
+First Name and Description Revision: Not Done
+Name and Description Resizing: Not Done
+Final Revision: Not Done
+
+
+
+
+
+Main Script
+Day 1-2 Rufeel&Ritchie Complete, lacking final Revision done by DragonFistAbysi (and then I reread to see if there are some lines I don't agree with change and discuss with him if necessary)
+
+Day 3 Working on another thread.
+
+Day 4-12 Not started yet.
+Leaf and 3 other GBs variants, not started yet.
+
+
+Credits
+Unknownthing, for helping me find alternatives on awkward parts.
+DragonFistAbysi, for editing my translation
+Net_Wanderer, for helping out translating
