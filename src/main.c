@@ -207,6 +207,69 @@ translate_name_entry_menu(void)
 	patch_2char(0x00bd5612, '~', 'O'); patch_2char(0x00bd5614, '~', 'K');
 }
 
+static void
+translate_main_menu(void)
+{
+	/* First menu. */
+	patch_str(0x000bacf0,  8, "Equip"  );   /* equipment */
+	patch_str(0x000bace4, 12, "Support");
+	patch_str(0x000bacd8, 12, "Item  " );
+	patch_str(0x000bacd0,  8, "Magic"  );
+	patch_str(0x000bacc8,  8, "Weapon" );
+	patch_str(0x000bacbc, 12, "Status" );
+
+	/* Second menu. */
+	patch_str(0x000bad38,  8, "Quest"  );   /* quest items */
+	patch_str(0x000bad2c, 12, "Rank"   );   /* craft rank */
+	patch_str(0x000bad24,  8, "Tech"   );   /* techniques */
+	patch_str(0x000bad1c,  8, "Spec"   );   /* special attack */
+	patch_str(0x000bad10, 12, "Effect" );
+	patch_str(0x000bad04, 12, "Beasts" );   /* bestiary */
+	patch_str(0x000bacf8, 12, "Config" );   /* options */
+
+	/* Rank/Techniques submenu. */
+	patch_str(0x000bad78,  8, "Sword"  );
+	patch_str(0x000bad70,  8, "Axe"    );
+	patch_str(0x000bad68,  8, "Spear"  );
+	patch_str(0x000bad5c, 12, "Knuckle");
+	patch_str(0x000bad54,  8, "Drill"  );
+	patch_str(0x000bad4c,  8, "Bow"    );
+
+	/* Item types. */
+	patch_str(0x000baeb4,  8, "Recovr");    /* recover */
+	patch_str(0x000baeac,  8, "ItmMat");    /* item material */
+	patch_str(0x000baea4,  8, "Spec");      /* special */
+	patch_str(0x000bae9c,  8, "WpnMat");    /* weapon material */
+	patch_str(0x000bae94,  8, "Imbue");     /* imbue material */
+	/* Note: 'equipment' comes from the string at 0x000bacf0. */
+
+	/* Forge. */
+	patch_str(0x000baf1c,  8, "Create");
+	patch_str(0x000baf00,  8, "Strgth");    /* strengthen */
+	/* Note: 'imbue' comes from the string at 0x000bae94. */
+	patch_str(0x000baef8,  8, "Disass");    /* disassemble */
+	patch_str(0x000baee4,  8, "Repair");
+
+	/* Spell types. */
+	patch_str(0x000baf34,  8, "Any");       /* any recover */
+	patch_str(0x000baf24,  8, "Field");     /* field support */
+	patch_str(0x000baf44,  8, "Aux");       /* battle/field support */
+	patch_str(0x000baf2c,  8, "Battle");    /* battle attack/support */
+	patch_str(0x000baf3c,  8, "Attack");    /* battle attack */
+	patch_str(0x000baf4c,  8, "Attack");    /* battle attack */
+
+	/* Equip self/guardian beast. */
+	patch_str(0x000baf5c,  8, "Equip");     /* equipment */
+	patch_str(0x000baf64,  8, "Magic");
+	/* Note: 'item' comes from the string at 0x000bacd8. */
+	patch_str(0x000baf54,  8, "Remove");    /* unequip/remove */
+
+	/* Shop menu. */
+	patch_str(0x000baf7c,  8, "Buy");
+	patch_str(0x000baf74,  8, "Sell");
+	patch_str(0x000baf6c,  8, "Make");
+}
+
 /*--------------------------------------------------------------*/
 
 int
@@ -218,6 +281,7 @@ main(int argc, char *argv[])
 
 	create_font();
 	translate_name_entry_menu();
+	translate_main_menu();
 
 	write_rom("out.gba");
 
