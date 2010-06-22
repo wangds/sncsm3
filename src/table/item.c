@@ -160,6 +160,58 @@ const char * const k_item_name[NUM_ITEMS] = {
 	/* 147 */ , "Ultimate Motor"
 	/* 148 */ , NULL
 	/* 149 */ , NULL
+
+	/*           123456789-123456 */
+	/* 150 */ , "Metal Ring"
+	/* 151 */ , "Katyn Ring"
+	/* 152 */ , "Steel Ring"
+	/* 153 */ , "Slicer Ring"
+	/* 154 */ , "Survival Ring"
+	/* 155 */ , "Shell Ring"
+	/* 156 */ , "Common Ring"
+	/* 157 */ , "Gallia Ring"
+	/* 158 */ , "Celeb Ring"
+	/* 159 */ , "High Ring"
+	/* 160 */ , "Rune Ring"
+	/* 161 */ , "Metal Bracelet"
+	/* 162 */ , "Katyn Bracelet"
+	/* 163 */ , "Steel Bracelet"
+	/* 164 */ , "Slicer Bracelet"
+	/* 165 */ , "SurvivalBracelet"
+	/* 166 */ , "Shell Bracelet"
+	/* 167 */ , "Common Bracelet"
+	/* 168 */ , "Gallia Bracelet"
+	/* 169 */ , "Celeb Bracelet"
+	/* 170 */ , "High Bracelet"
+	/* 171 */ , "Rune Bracelet"
+	/* 172 */ , "Metal Boots"
+	/* 173 */ , "Katyn Boots"
+	/* 174 */ , "Steel Boots"
+	/* 175 */ , "Slicer Boots"
+	/* 176 */ , "Survival Boots"
+	/* 177 */ , "Shell Boots"
+	/* 178 */ , "Common Boots"
+	/* 179 */ , "Gallia Boots"
+	/* 180 */ , "Celeb Boots"
+	/* 181 */ , "High Boots"
+	/* 182 */ , "Rune Boots"
+	/* 183 */ , "Vicious Boots"
+	/* 184 */ , "Escape Boots"
+	/* 185 */ , "Extension Ring"
+	/* 186 */ , "Reextension Ring"
+	/* 187 */ , "Assurance Ring"
+	/* 188 */ , "Speed Bracelet"
+	/* 189 */ , "Guard Bracelet"
+	/* 190 */ , "Attack Bracelet"
+	/* 191 */ , "Ability Ring"
+	/* 192 */ , "Magic Bracelet"
+	/* 193 */ , "Active Ring"
+	/* 194 */ , "Insomnia Ring"
+	/* 195 */ , "Detox Ring"
+	/* 196 */ , "Plated Ring"
+	/* 197 */ , NULL /* unused? */
+	/* 198 */ , NULL /* unused? */
+	/* 199 */ , "Smith Ring"
 };
 
 const char * const k_item_desc[NUM_ITEMS] = {
@@ -318,4 +370,56 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/* 147 */ , NULL
 	/* 148 */ , NULL
 	/* 149 */ , NULL
+
+	/*           123456789-123456789-123456789-123456 */
+	/* 150 */ , NULL
+	/* 151 */ , NULL
+	/* 152 */ , NULL
+	/* 153 */ , NULL
+	/* 154 */ , NULL
+	/* 155 */ , NULL
+	/* 156 */ , NULL
+	/* 157 */ , NULL
+	/* 158 */ , NULL
+	/* 159 */ , NULL
+	/* 160 */ , NULL
+	/* 161 */ , NULL
+	/* 162 */ , NULL
+	/* 163 */ , NULL
+	/* 164 */ , NULL
+	/* 165 */ , NULL
+	/* 166 */ , NULL
+	/* 167 */ , NULL
+	/* 168 */ , NULL
+	/* 169 */ , NULL
+	/* 170 */ , NULL
+	/* 171 */ , NULL
+	/* 172 */ , NULL
+	/* 173 */ , NULL
+	/* 174 */ , NULL
+	/* 175 */ , NULL
+	/* 176 */ , NULL
+	/* 177 */ , NULL
+	/* 178 */ , NULL
+	/* 179 */ , NULL
+	/* 180 */ , NULL
+	/* 181 */ , NULL
+	/* 182 */ , NULL
+	/* 183 */ , NULL
+	/* 184 */ , NULL
+	/* 185 */ , "Extends summon duration briefly"
+	/* 186 */ , "Extends summon duration moderately"
+	/* 187 */ , "Extends summon duration greatly"
+	/* 188 */ , "Enhance the nimbleness of a friend"
+	/* 189 */ , "Enhance the protection of a friend"
+	/* 190 */ , "Enhance the power of a friend"
+	/* 191 */ , NULL
+	/* 192 */ , NULL
+	/* 193 */ , "Provides resistance to paralysis"
+	/* 194 */ , "Provides resistance to sleep"
+	/* 195 */ , "Provides resistance to poison"
+	/* 196 */ , "Provides resistance to rust"
+	/* 197 */ , NULL /* unused? */
+	/* 198 */ , NULL /* unused? */
+	/* 199 */ , NULL
 };
