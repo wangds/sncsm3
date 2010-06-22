@@ -212,6 +212,41 @@ const char * const k_item_name[NUM_ITEMS] = {
 	/* 197 */ , NULL /* unused? */
 	/* 198 */ , NULL /* unused? */
 	/* 199 */ , "Smith Ring"
+
+	/*           123456789-123456 */
+	/* 200 */ , "Fishing Rod"
+	/* 201 */ , "Fine Fishing Rod"
+	/* 202 */ , "Legendary Rod"
+	/* 203 */ , NULL /* unused? */
+	/* 204 */ , NULL /* unused? */
+	/* 205 */ , NULL /* unused? */
+	/* 206 */ , "Member Pass"
+	/* 207 */ , NULL /* unused? */
+	/* 208 */ , NULL /* unused? */
+	/* 209 */ , NULL /* unused? */
+	/* 210 */ , NULL /* unused? */
+	/* 211 */ , NULL /* unused? */
+	/* 212 */ , NULL /* unused? */
+	/* 213 */ , NULL /* unused? */
+	/* 214 */ , NULL /* unused? */
+	/* 215 */ , NULL /* unused? */
+	/* 216 */ , NULL /* unused? */
+	/* 217 */ , NULL /* unused? */
+	/* 218 */ , NULL /* unused? */
+	/* 219 */ , NULL /* unused? */
+	/* 220 */ , NULL /* unused? */
+	/* 221 */ , NULL /* unused? */
+	/* 222 */ , NULL /* unused? */
+	/* 223 */ , NULL /* unused? */
+	/* 224 */ , "Axe Mastery"
+	/* 225 */ , "Knuckle Mastery"
+	/* 226 */ , "Sword Mastery"
+	/* 227 */ , "Bow Mastery"
+	/* 228 */ , "Spear Mastery"
+	/* 229 */ , NULL /* unused? */
+	/* 230 */ , "Drill Mastery"
+	/* 231 */ , NULL /* unused? */
+	/* 232 */ , "AquaDragon Scale"
 };
 
 const char * const k_item_desc[NUM_ITEMS] = {
@@ -422,4 +457,39 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/* 197 */ , NULL /* unused? */
 	/* 198 */ , NULL /* unused? */
 	/* 199 */ , NULL
+
+	/*           123456789-123456789-123456789-123456 */
+	/* 200 */ , NULL
+	/* 201 */ , "Expensive fishing rod"
+	/* 202 */ , "Legendary fishing rod"
+	/* 203 */ , NULL /* unused? */
+	/* 204 */ , NULL /* unused? */
+	/* 205 */ , NULL /* unused? */
+	/* 206 */ , NULL
+	/* 207 */ , NULL /* unused? */
+	/* 208 */ , NULL /* unused? */
+	/* 209 */ , NULL /* unused? */
+	/* 210 */ , NULL /* unused? */
+	/* 211 */ , NULL /* unused? */
+	/* 212 */ , NULL /* unused? */
+	/* 213 */ , NULL /* unused? */
+	/* 214 */ , NULL /* unused? */
+	/* 215 */ , NULL /* unused? */
+	/* 216 */ , NULL /* unused? */
+	/* 217 */ , NULL /* unused? */
+	/* 218 */ , NULL /* unused? */
+	/* 219 */ , NULL /* unused? */
+	/* 220 */ , NULL /* unused? */
+	/* 221 */ , NULL /* unused? */
+	/* 222 */ , NULL /* unused? */
+	/* 223 */ , NULL /* unused? */
+	/* 224 */ , NULL
+	/* 225 */ , NULL
+	/* 226 */ , NULL
+	/* 227 */ , NULL
+	/* 228 */ , NULL
+	/* 229 */ , NULL /* unused? */
+	/* 230 */ , NULL
+	/* 231 */ , NULL /* unused? */
+	/* 232 */ , NULL
 };
