@@ -6,7 +6,8 @@ OBJS := main.o	\
 	rom.o	\
 	table/font.o	\
 	table/item.o	\
-	table/kanji.o
+	table/kanji.o	\
+	table/magic.o
 
 all: sncsm3trans
 
