@@ -5,6 +5,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "rom.h"
+#include "table/beast.h"
 #include "table/effect.h"
 #include "table/item.h"
 #include "table/magic.h"
@@ -310,6 +311,13 @@ translate_effects(void)
 	patch_table(0x00bc9100 + 28, 68, NUM_EFFECTS, 38, k_effect_desc);
 }
 
+static void
+translate_bestiary(void)
+{
+	patch_table(0x00b75114 +  0, 120, NUM_BEASTS, 18, k_beast_name);
+	patch_table(0x00b75114 + 64, 120, NUM_BEASTS, 56, k_beast_desc);
+}
+
 /*--------------------------------------------------------------*/
 
 int
@@ -327,6 +335,7 @@ main(int argc, char *argv[])
 	translate_weapons();
 	translate_specials();
 	translate_effects();
+	translate_bestiary();
 
 	write_rom("out.gba");
 

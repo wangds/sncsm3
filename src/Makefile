@@ -4,6 +4,7 @@ CFLAGS += -W -Wall -Wmissing-prototypes -Wstrict-prototypes
 
 OBJS := main.o	\
 	rom.o	\
+	table/beast.o	\
 	table/font.o	\
 	table/item.o	\
 	table/effect.o	\
