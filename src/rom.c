@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include "rom.h"
 #include "table/font.h"
+#include "table/kanji.h"
 
 static unsigned char *s_rom;
 static int s_char_code[256][256];
@@ -73,13 +74,44 @@ assign_char_code(int code, unsigned char a, unsigned char b)
 	s_char_code[a][b] = code;
 }
 
+static int
+allocate_char_code(void)
+{
+	static int l_lastchar = 0x889f - 1;
+	static int l_remaining = 0;
+	static int l_index = 0;
+
+    while (l_remaining <= 0) {
+        if (k_contiguous_kanji[l_index] == 0) {
+            fprintf(stderr, "Warning: out of space.\n");
+            return -1;
+        }
+        else if (k_contiguous_kanji[l_index] < 0) {
+            l_lastchar += -k_contiguous_kanji[l_index];
+        }
+        else {
+            l_remaining = k_contiguous_kanji[l_index];
+        }
+
+        l_index++;
+    }
+
+    l_remaining--;
+    l_lastchar++;
+    return l_lastchar;
+}
+
 void
 patch_char_code(int code, int i, unsigned char a, unsigned char b)
 {
 	const letter_t *syma = get_symbol(a);
 	const letter_t *symb = get_symbol(b);
 	assert(syma != NULL && symb != NULL);
-	assert(code >= 0);
+
+	if (code <= 0) {
+		code = allocate_char_code();
+		assert(code > 0);
+	}
 
 	assign_char_code(code, a, b);
 	patch_glyph(i, *syma, *symb);
