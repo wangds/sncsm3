@@ -56,6 +56,58 @@ const char * const k_item_name[NUM_ITEMS] = {
 	/*  47 */ , "Rust Bomb"
 	/*  48 */ , "Lucky Ticket"
 	/*  49 */ , NULL
+
+	/*           123456789-123456 */
+	/*  50 */ , "Iron Ore"
+	/*  51 */ , "Slend Gemstone"
+	/*  52 */ , "Katyn Ore"
+	/*  53 */ , "Akineel Ore"
+	/*  54 */ , "Large Ore"
+	/*  55 */ , "Elvin Gem"
+	/*  56 */ , "Wing Fossil"
+	/*  57 */ , "Slicer Ore"
+	/*  58 */ , "Large Iron Ore"
+	/*  59 */ , "Heavy Metal Ore"
+	/*  60 */ , "Ranger Ore"
+	/*  61 */ , "Yuuga Crystal"
+	/*  62 */ , "Cute Gemstone"
+	/*  63 */ , "Shell Fossil"
+	/*  64 */ , "Black Ore"
+	/*  65 */ , "Illusion Ore"
+	/*  66 */ , "Common Gem"
+	/*  67 */ , "Vanish Ore"
+	/*  68 */ , "Sash Ore"
+	/*  69 */ , "Gallia Ore"
+	/*  70 */ , "Kitchen Ore"
+	/*  71 */ , "Iron Edge Stone"
+	/*  72 */ , "Nouvil Gem"
+	/*  73 */ , "Twin-Snake Ore"
+	/*  74 */ , "Splend Crystal"
+	/*  75 */ , "Excel Ore"
+	/*  76 */ , "Tree Fossil"
+	/*  77 */ , "Resist Gem"
+	/*  78 */ , "Yubis Crystal"
+	/*  79 */ , "SecretRune Stone"
+	/*  80 */ , "Wild Ore"
+	/*  81 */ , "Wise Blade Ore"
+	/*  82 */ , "Steel Fang Ore"
+	/*  83 */ , "Gardening Ore"
+	/*  84 */ , "Ninja Ore"
+	/*  85 */ , "Paw Fossil"
+	/*  86 */ , "Mecha Gem"
+	/*  87 */ , "Red Lotus Ore"
+	/*  88 */ , "Cursed Ore"
+	/*  89 */ , "Shining Ore"
+	/*  90 */ , NULL
+	/*  91 */ , NULL
+	/*  92 */ , NULL
+	/*  93 */ , NULL
+	/*  94 */ , NULL
+	/*  95 */ , NULL
+	/*  96 */ , NULL
+	/*  97 */ , NULL
+	/*  98 */ , NULL
+	/*  99 */ , NULL
 };
 
 const char * const k_item_desc[NUM_ITEMS] = {
@@ -110,4 +162,56 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/*  47 */ , NULL
 	/*  48 */ , NULL
 	/*  49 */ , NULL
+
+	/*           123456789-123456789-123456789-123456 */
+	/*  50 */ , "A small clump of iron"
+	/*  51 */ , NULL
+	/*  52 */ , NULL
+	/*  53 */ , NULL
+	/*  54 */ , NULL
+	/*  55 */ , NULL
+	/*  56 */ , NULL
+	/*  57 */ , NULL
+	/*  58 */ , NULL
+	/*  59 */ , "A strong and dense metal"
+	/*  60 */ , NULL
+	/*  61 */ , NULL
+	/*  62 */ , NULL
+	/*  63 */ , NULL
+	/*  64 */ , NULL
+	/*  65 */ , NULL
+	/*  66 */ , NULL
+	/*  67 */ , NULL
+	/*  68 */ , NULL
+	/*  69 */ , NULL
+	/*  70 */ , NULL
+	/*  71 */ , NULL
+	/*  72 */ , NULL
+	/*  73 */ , NULL
+	/*  74 */ , NULL
+	/*  75 */ , NULL
+	/*  76 */ , "Quality tree fossil"
+	/*  77 */ , NULL
+	/*  78 */ , NULL
+	/*  79 */ , NULL
+	/*  80 */ , NULL
+	/*  81 */ , NULL
+	/*  82 */ , NULL
+	/*  83 */ , NULL
+	/*  84 */ , NULL
+	/*  85 */ , NULL
+	/*  86 */ , NULL
+	/*  87 */ , NULL
+	/*  88 */ , NULL
+	/*  89 */ , NULL
+	/*  90 */ , NULL
+	/*  91 */ , NULL
+	/*  92 */ , NULL
+	/*  93 */ , NULL
+	/*  94 */ , NULL
+	/*  95 */ , NULL
+	/*  96 */ , NULL
+	/*  97 */ , NULL
+	/*  98 */ , NULL
+	/*  99 */ , NULL
 };
