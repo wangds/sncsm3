@@ -6,6 +6,7 @@ OBJS := main.o	\
 	rom.o	\
 	table/font.o	\
 	table/item.o	\
+	table/effect.o	\
 	table/kanji.o	\
 	table/magic.o	\
 	table/special.o	\
