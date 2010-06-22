@@ -318,6 +318,26 @@ translate_bestiary(void)
 	patch_table(0x00b75114 + 64, 120, NUM_BEASTS, 56, k_beast_desc);
 }
 
+static void
+translate_dialogue(void)
+{
+	/* Portal areas. */
+	patch_raw(0x01721c17, 0x8740);
+	patch_raw(0x01721c35, 0x8741);
+	patch_raw(0x01721c55, 0x8742);
+	patch_raw(0x01721c75, 0x8743);
+	patch_raw(0x01721c8d, 0x8744);
+	patch_raw(0x01721caf, 0x8745);
+
+	/* Fishing dialogue begins at 0x0172234c. */
+	patch_2char(0x01722439, 'F', 'i');
+	patch_2char(0x0172243c, 's', 'h');
+
+	patch_2char(0x01722450, 'C', 'a');
+	patch_2char(0x01722452, 'n', 'c');
+	patch_2char(0x01722454, 'e', 'l');
+}
+
 /*--------------------------------------------------------------*/
 
 int
@@ -336,6 +356,7 @@ main(int argc, char *argv[])
 	translate_specials();
 	translate_effects();
 	translate_bestiary();
+	translate_dialogue();
 
 	write_rom("out.gba");
 
