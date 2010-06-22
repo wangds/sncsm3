@@ -6,6 +6,126 @@
 
 #include "table/font.h"
 
+const char k_font_space[12][6] = {
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      "
+};
+
+const char k_font_comma[12][6] = {
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	" xx   ",
+	"  x   ",
+	" x    ",
+	"      "
+};
+
+const char k_font_period[12][6] = {
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"      "
+};
+
+const char k_font_semicolon[12][6] = {
+	"      ",
+	"      ",
+	"      ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"      ",
+	"  x   ",
+	"  x   ",
+	" x    ",
+	"      ",
+	"      "
+};
+
+const char k_font_question[12][6] = {
+	"      ",
+	" xxx  ",
+	"x   x ",
+	"x   x ",
+	"   x  ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"      "
+};
+
+const char k_font_exclamation[12][6] = {
+	"      ",
+	"  x   ",
+	"  x   ",
+	"  x   ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"      ",
+	"  x   ",
+	"  x   ",
+	"      ",
+	"      "
+};
+
+const char k_font_apostrophe[12][6] = {
+	" xx   ",
+	"  x   ",
+	" x    ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      "
+};
+
+const char k_font_dash[12][6] = {
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"xxxxx ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      ",
+	"      "
+};
+
 const char k_font_upper_a[12][6] = {
 	"      ",
 	"  x   ",
