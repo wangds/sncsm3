@@ -8,6 +8,7 @@ OBJS := main.o	\
 	table/item.o	\
 	table/kanji.o	\
 	table/magic.o	\
+	table/special.o	\
 	table/weapon.o
 
 all: sncsm3trans

@@ -7,6 +7,7 @@
 #include "rom.h"
 #include "table/item.h"
 #include "table/magic.h"
+#include "table/special.h"
 #include "table/weapon.h"
 
 /*--------------------------------------------------------------*/
@@ -294,6 +295,13 @@ translate_weapons(void)
 	patch_table(0x00bc1e9c + 50, 88, NUM_WEAPONS, 38, k_weapon_desc);
 }
 
+static void
+translate_specials(void)
+{
+	patch_table(0x00bc81dc +  0, 68, NUM_SPECIALS, 18, k_special_name);
+	patch_table(0x00bc81dc + 28, 68, NUM_SPECIALS, 38, k_special_desc);
+}
+
 /*--------------------------------------------------------------*/
 
 int
@@ -309,6 +317,7 @@ main(int argc, char *argv[])
 	translate_items();
 	translate_magics();
 	translate_weapons();
+	translate_specials();
 
 	write_rom("out.gba");
 
