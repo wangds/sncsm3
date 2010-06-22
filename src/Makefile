@@ -5,6 +5,7 @@ CFLAGS += -W -Wall -Wmissing-prototypes -Wstrict-prototypes
 OBJS := main.o	\
 	rom.o	\
 	table/font.o	\
+	table/item.o	\
 	table/kanji.o
 
 all: sncsm3trans

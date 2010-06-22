@@ -5,6 +5,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "rom.h"
+#include "table/item.h"
 
 /*--------------------------------------------------------------*/
 
@@ -270,6 +271,13 @@ translate_main_menu(void)
 	patch_str(0x000baf6c,  8, "Make");
 }
 
+static void
+translate_items(void)
+{
+	patch_table(0x00bbca9c +  0, 84, NUM_ITEMS, 18, k_item_name);
+	patch_table(0x00bbca9c + 44, 84, NUM_ITEMS, 38, k_item_desc);
+}
+
 /*--------------------------------------------------------------*/
 
 int
@@ -282,6 +290,7 @@ main(int argc, char *argv[])
 	create_font();
 	translate_name_entry_menu();
 	translate_main_menu();
+	translate_items();
 
 	write_rom("out.gba");
 
