@@ -108,6 +108,58 @@ const char * const k_item_name[NUM_ITEMS] = {
 	/*  97 */ , NULL
 	/*  98 */ , NULL
 	/*  99 */ , NULL
+
+	/*           123456789-123456 */
+	/* 100 */ , "Battery"
+	/* 101 */ , "Lightning Charm"
+	/* 102 */ , "Thunder Shard"
+	/* 103 */ , "Thunder Crystal"
+	/* 104 */ , "Ignition Device"
+	/* 105 */ , "Flame Charm"
+	/* 106 */ , "Fire Shard"
+	/* 107 */ , "Fire Crystal"
+	/* 108 */ , "Water Tank"
+	/* 109 */ , "Flow Charm"
+	/* 110 */ , "Water Shard"
+	/* 111 */ , "Water Crystal"
+	/* 112 */ , "Ventilator"
+	/* 113 */ , "Gale Charm"
+	/* 114 */ , "Wind Shard"
+	/* 115 */ , "Wind Crystal"
+	/* 116 */ , "Back Light"
+	/* 117 */ , "Flash Amulet"
+	/* 118 */ , "Blood Pump"
+	/* 119 */ , "Dark Sunglasses"
+	/* 120 */ , "Wind-up key"
+	/* 121 */ , "Accelerator"
+	/* 122 */ , "Spirit Headband"
+	/* 123 */ , "Four-Leaf Clover"
+	/* 124 */ , "Spare Switch"
+	/* 125 */ , "Secret Scroll"
+	/* 126 */ , "Combat Scroll"
+	/* 127 */ , "Alteration Guide"
+	/* 128 */ , "Distribution Dev"
+	/* 129 */ , "Switch of Ruin"
+	/* 130 */ , "Paralysis Powder"
+	/* 131 */ , "Poison Powder"
+	/* 132 */ , "Sleeping Powder"
+	/* 133 */ , "Rust Powder"
+	/* 134 */ , "Power Crest"
+	/* 135 */ , "Endurance Crest"
+	/* 136 */ , "Expertise Crest"
+	/* 137 */ , "Legendary Spring"
+	/* 138 */ , "Insight Glasses"
+	/* 139 */ , "Fighting Manual"
+	/* 140 */ , "Lucky Charm"
+	/* 141 */ , "Healthy Sandals"
+	/* 142 */ , "Legendary Bamboo"
+	/* 143 */ , "Old Rubstone"
+	/* 144 */ , "Repair Parts"
+	/* 145 */ , "Legendary Needle"
+	/* 146 */ , "Will of Love"
+	/* 147 */ , "Ultimate Motor"
+	/* 148 */ , NULL
+	/* 149 */ , NULL
 };
 
 const char * const k_item_desc[NUM_ITEMS] = {
@@ -214,4 +266,56 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/*  97 */ , NULL
 	/*  98 */ , NULL
 	/*  99 */ , NULL
+
+	/*           123456789-123456789-123456789-123456 */
+	/* 100 */ , "A box that discharges electricity"
+	/* 101 */ , NULL
+	/* 102 */ , NULL
+	/* 103 */ , NULL
+	/* 104 */ , NULL
+	/* 105 */ , NULL
+	/* 106 */ , NULL
+	/* 107 */ , NULL
+	/* 108 */ , NULL
+	/* 109 */ , NULL
+	/* 110 */ , NULL
+	/* 111 */ , NULL
+	/* 112 */ , NULL
+	/* 113 */ , NULL
+	/* 114 */ , NULL
+	/* 115 */ , NULL
+	/* 116 */ , NULL
+	/* 117 */ , NULL
+	/* 118 */ , NULL
+	/* 119 */ , NULL
+	/* 120 */ , NULL
+	/* 121 */ , NULL
+	/* 122 */ , NULL
+	/* 123 */ , NULL
+	/* 124 */ , NULL
+	/* 125 */ , NULL
+	/* 126 */ , NULL
+	/* 127 */ , NULL
+	/* 128 */ , "Distribution device"
+	/* 129 */ , NULL
+	/* 130 */ , NULL
+	/* 131 */ , NULL
+	/* 132 */ , NULL
+	/* 133 */ , NULL
+	/* 134 */ , NULL
+	/* 135 */ , NULL
+	/* 136 */ , NULL
+	/* 137 */ , NULL
+	/* 138 */ , NULL
+	/* 139 */ , NULL
+	/* 140 */ , NULL
+	/* 141 */ , NULL
+	/* 142 */ , NULL
+	/* 143 */ , NULL
+	/* 144 */ , NULL
+	/* 145 */ , NULL
+	/* 146 */ , NULL
+	/* 147 */ , NULL
+	/* 148 */ , NULL
+	/* 149 */ , NULL
 };
