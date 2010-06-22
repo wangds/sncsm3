@@ -175,6 +175,40 @@ create_font(void)
 
 /*--------------------------------------------------------------*/
 
+static void
+translate_name_entry_menu(void)
+{
+	/* Default Names. */
+	patch_str(0x00bd5744, 12, "~Ritchburn");
+	patch_str(0x00bd5752, 12, "~Rifmonica");
+	patch_str(0x00bd575e, 10, "Rundor");
+	patch_str(0x00bd5768,  8, "Enzi");
+	patch_str(0x00bd5770, 12, "Killfith");
+	patch_str(0x00bd577c, 12, "Rufeel");
+	patch_str(0x00bd57a0, 10, "~Ritchie");
+	patch_str(0x00bd57aa,  6, "~Rif");
+
+	/* Hiragana table. */
+	patch_2char(0x00bd5408, 'K', 'a'); patch_2char(0x00bd540a, 'n', 'a');
+	patch_2char(0x00bd540e, '~', 'E'); patch_2char(0x00bd5410, '~', 'N');
+	patch_2char(0x00bd5414, '~', 'D'); patch_2char(0x00bd5416, 'e', 'l');
+	patch_2char(0x00bd541a, '~', 'O'); patch_2char(0x00bd541c, '~', 'K');
+
+	/* Katakana table. */
+	patch_2char(0x00bd5504, 'G', 'a'); patch_2char(0x00bd5506, 'n', 'a');
+	patch_2char(0x00bd550a, '~', 'E'); patch_2char(0x00bd550c, '~', 'N');
+	patch_2char(0x00bd5510, '~', 'D'); patch_2char(0x00bd5512, 'e', 'l');
+	patch_2char(0x00bd5516, '~', 'O'); patch_2char(0x00bd5518, '~', 'K');
+
+	/* English table. */
+	patch_2char(0x00bd5600, 'G', 'a'); patch_2char(0x00bd5602, 'n', 'a');
+	patch_2char(0x00bd5606, 'K', 'a'); patch_2char(0x00bd5608, 'n', 'a');
+	patch_2char(0x00bd560c, '~', 'D'); patch_2char(0x00bd560e, 'e', 'l');
+	patch_2char(0x00bd5612, '~', 'O'); patch_2char(0x00bd5614, '~', 'K');
+}
+
+/*--------------------------------------------------------------*/
+
 int
 main(int argc, char *argv[])
 {
@@ -183,6 +217,7 @@ main(int argc, char *argv[])
 	read_rom("sncsm3.gba");
 
 	create_font();
+	translate_name_entry_menu();
 
 	write_rom("out.gba");
 
