@@ -5,6 +5,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "rom.h"
+#include "script/day0.h"
 #include "table/beast.h"
 #include "table/effect.h"
 #include "table/item.h"
@@ -360,6 +361,8 @@ translate_bestiary(void)
 {
 	patch_table(0x00b75114 +  0, 120, NUM_BEASTS, 18, k_beast_name);
 	patch_table(0x00b75114 + 64, 120, NUM_BEASTS, 56, k_beast_desc);
+
+	patch_table(0x00b75114 - 120 * 99, 120, NUM_BOSSES, 18, k_boss_name);
 }
 
 static void
@@ -380,6 +383,8 @@ translate_dialogue(void)
 	patch_2char(0x01722450, 'C', 'a');
 	patch_2char(0x01722452, 'n', 'c');
 	patch_2char(0x01722454, 'e', 'l');
+
+	tr_day0();
 }
 
 /*--------------------------------------------------------------*/

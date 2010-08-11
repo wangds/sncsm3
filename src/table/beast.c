@@ -301,3 +301,8 @@ const char * const k_beast_desc[NUM_BEASTS] = {
 	/* 139 */ , NULL
 	/* 140 */ , "There's no  reasoning with  this lunatic"
 };
+
+const char * const k_boss_name[NUM_BOSSES] = {
+	/*           123456789-123456 */
+	/* -99 */   "V.E"
+};
