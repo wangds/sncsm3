@@ -6,7 +6,8 @@ enum {
 };
 
 extern void assign_char_code(int code, unsigned char a, unsigned char b);
-extern void patch_char_code(int code, int i, unsigned char a, unsigned char b);
+extern void patch_char_code_ex(int code, int glyph, unsigned char a, unsigned char b);
+extern void patch_char_code(int code, unsigned char a, unsigned char b);
 
 extern void patch_raw(int offset, int code);
 extern void patch_2char(int offset, unsigned char a, unsigned char b);

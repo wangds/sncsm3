@@ -57,10 +57,66 @@ should_generate_pair(char a, char b)
 }
 
 static void
+create_font_punctuation(int code)
+{
+	char b;
+
+	for (b = 'A'; b <= 'Z'; b++) {
+		patch_char_code(code, ' ', b);
+	}
+
+	for (b = 'a'; b <= 'z'; b++) {
+		patch_char_code(code, ' ', b);
+	}
+
+	for (b = 'a'; b <= 'z'; b++) {
+		patch_char_code(code, '-', b);
+	}
+
+	/* Apostrophes in contractions. */
+	patch_char_code(code, '\'', 'l');
+	patch_char_code(code, '\'', 'r');
+	patch_char_code(code, '\'', 's');
+	patch_char_code(code, '\'', 't');
+
+	/* Special: Four-Leaf Twin-Snake fooled; fishermen; */
+	patch_char_code(code, '-', 'L');
+	patch_char_code(code, '-', 'S');
+	patch_char_code(code, 'd', ';');
+	patch_char_code(code, 'n', ';');
+}
+
+static void
+create_font_upper(int code, const char *as)
+{
+	char b;
+	int i;
+
+	for (i = 0; as[i] != '\0'; i++) {
+		for (b = 'a'; b <= 'z'; b++) {
+			if (should_generate_pair(as[i], b))
+				patch_char_code(code, as[i], b);
+		}
+	}
+}
+
+static void
+create_font_lower(int code, const char *as)
+{
+	static const char *bs = " ,.?!\'-abcdefghijklmnopqrstuvwxyz";
+	int i, j;
+
+	for (i = 0; as[i] != '\0'; i++) {
+		for (j = 0; bs[j] != '\0'; j++) {
+			patch_char_code(code, as[i], bs[j]);
+		}
+	}
+}
+
+static void
 create_font(void)
 {
-	char a, b;
-	int c, i;
+	int i;
 
 	/* Full-width characters. */
 	assign_char_code(0x8140, ' ', ' ');
@@ -88,94 +144,81 @@ create_font(void)
 	}
 
 	/* Q is inevitably followed by u. */
-	patch_char_code(0x8270, 0x0060, 'Q', 'u');
-	patch_char_code(0x8291, 0x007a, 'q', 'u');
+	patch_char_code_ex(0x8270, 0x0060, 'Q', 'u');
+	patch_char_code_ex(0x8291, 0x007a, 'q', 'u');
 
-	/* Kanji start at 0x015f. */
-	c = 0x015f;
+	/* "Case-sensitive letter and bigram frequency counts
+	 *  from large-scale English corpora"
+	 *
+	 * Lower case frequency: etaon isrhl dcumf pgywb vkxzj q
+	 * Upper case frequency: TSAMC INBRP EDHWL OFYGJ UKVQX Z
+	 */
 
-	for (i = 0; i < 26 * 2; i++) {
-		b = (i < 26) ? ('A' + i) : ('a' + i - 26);
+	create_font_punctuation(0x8e00);
 
-		/* space-X, dash-X. */
-		patch_char_code(0, c++, ' ', b);
-		patch_char_code(0, c++, '-', b);
-	}
+	/* Attempt to share second letters:
+	 * [Th][th] (e ) -- the , then, etc.
+	 * [Wh][wh] (en) -- who , when, etc.
+	 */
+	patch_char_code(0x8cfc, 'T','h');
+	patch_char_code(0x89fc, 't','h');
+	patch_char_code(0x90fc, 'W','h');
+	patch_char_code(0x93fc, 'w','h');
+
+	/* Attempt to group capitals into the same few slots. */
+	create_font_upper(0x8c00, "TSAMCIN");
+	create_font_upper(0x9000, "BRPEDHWL");
+	create_font_upper(0x9100, "OFYGJUKVXZ");
+
+	create_font_lower(0x8900, "eta");
+	create_font_lower(0x8a00, "oni");
+	create_font_lower(0x8b00, "srh");
+	create_font_lower(0x8d00, "ldc");
+	create_font_lower(0x8f00, "umf");
+	create_font_lower(0x9200, "pgy");
+	create_font_lower(0x9300, "wbv");
+	create_font_lower(0x9500, "kxz");
+	create_font_lower(0x889f, "j");
 
 	{
-		/* Apostrophes in contractions. */
-		patch_char_code(0, c++, '\'', 'l');
-		patch_char_code(0, c++, '\'', 's');
-		patch_char_code(0, c++, '\'', 't');
-	}
-
-	{
-		/* A-dash. */
-		for (a = 'A'; a <= 'Z'; a++) {
-			patch_char_code(0, c++, a, '-');
-		}
-
 		/* A-space, I-space. */
-		patch_char_code(0, c++, 'A', ' ');
-		patch_char_code(0, c++, 'I', ' ');
+		patch_char_code(0x8c00, 'A', ' ');
+		patch_char_code(0x8c00, 'I', ' ');
+		patch_char_code(0x8c00, 'I','\'');
+		patch_char_code(0x9100, 'O', 'K');
 
 		/* AGL, ATK, DEF, DUR, TEC, HP. */
-		patch_char_code(0, c++, 'A', 'G');
-		patch_char_code(0, c++, 'G', 'L');
-		patch_char_code(0, c++, 'L', ' ');
+		patch_char_code(0x8c00, 'A', 'G');
+		patch_char_code(0x9100, 'G', 'L');
+		patch_char_code(0x9000, 'L', ' ');
 
-		patch_char_code(0, c++, 'A', 'T');
-		patch_char_code(0, c++, 'T', 'K');
-		patch_char_code(0, c++, 'K', ' ');
+		patch_char_code(0x8c00, 'A', 'T');
+		patch_char_code(0x8c00, 'T', 'K');
+		patch_char_code(0x9100, 'K', ' ');
 
-		patch_char_code(0, c++, 'D', 'E');
-		patch_char_code(0, c++, 'E', 'F');
-		patch_char_code(0, c++, 'F', ' ');
+		patch_char_code(0x9000, 'D', 'E');
+		patch_char_code(0x9000, 'E', 'F');
+		patch_char_code(0x9100, 'F', ' ');
 
-		patch_char_code(0, c++, 'D', 'U');
-		patch_char_code(0, c++, 'U', 'R');
-		patch_char_code(0, c++, 'R', ' ');
+		patch_char_code(0x9000, 'D', 'U');
+		patch_char_code(0x9100, 'U', 'R');
+		patch_char_code(0x9000, 'R', ' ');
 
-		patch_char_code(0, c++, 'T', 'E');
-		patch_char_code(0, c++, 'E', 'C');
-		patch_char_code(0, c++, 'C', ' ');
+		patch_char_code(0x8c00, 'T', 'E');
+		patch_char_code(0x9000, 'E', 'C');
+		patch_char_code(0x8c00, 'C', ' ');
 
-		patch_char_code(0, c++, 'H', 'P');
-		patch_char_code(0, c++, 'P', ' ');
-	}
+		patch_char_code(0x9000, 'H', 'P');
+		patch_char_code(0x9000, 'P', ' ');
 
-	for (a = 'a'; a <= 'z'; a++) {
-		/* x-space, x-comma, x-period, etc. */
-		patch_char_code(0, c++, a, ' ');
-		patch_char_code(0, c++, a, ',');
-		patch_char_code(0, c++, a, '.');
-		patch_char_code(0, c++, a, '?');
-		patch_char_code(0, c++, a, '!');
-		patch_char_code(0, c++, a,'\'');
-		patch_char_code(0, c++, a, '-');
-	}
-
-	{
-		/* d-semicolon, n-semicolon. */
-		patch_char_code(0, c++, 'd', ';');
-		patch_char_code(0, c++, 'n', ';');
-	}
-
-	{
 		/* n-M, m-M (ItmMat, WpnMat). */
-		patch_char_code(0, c++, 'n', 'M');
-		patch_char_code(0, c++, 'm', 'M');
-	}
+		patch_char_code(0x8a00, 'n', 'M');
+		patch_char_code(0x8f00, 'm', 'M');
 
-	/* "Aa" and "aa". */
-	for (i = 0; i < 26 * 2; i++) {
-		a = (i < 26) ? ('A' + i) : ('a' + i - 26);
-		for (b = 'a'; b <= 'z'; b++) {
-			if (!should_generate_pair(a, b))
-				continue;
-
-			patch_char_code(0, c++, a, b);
-		}
+		/* V.E. */
+		patch_char_code(0x9100, 'V', '.');
+		patch_char_code(0x9000, 'E', ' ');
+		patch_char_code(0x9000, 'E', ',');
 	}
 }
 

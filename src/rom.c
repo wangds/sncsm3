@@ -15,6 +15,7 @@
 #include "table/kanji.h"
 
 static unsigned char *s_rom;
+static int s_designated_glyph[NUM_CHAR_CODES];
 static int s_char_code[256][256];
 
 /*--------------------------------------------------------------*/
@@ -75,47 +76,64 @@ assign_char_code(int code, unsigned char a, unsigned char b)
 	s_char_code[a][b] = code;
 }
 
-static int
-allocate_char_code(void)
+static void
+initialise_char_codes(void)
 {
-	static int l_lastchar = 0x889f - 1;
-	static int l_remaining = 0;
-	static int l_index = 0;
+	int code = FIRST_CHAR_CODE;
+	int glyph = 0x015f;
+	int remaining;
+	int i;
 
-    while (l_remaining <= 0) {
-        if (k_contiguous_kanji[l_index] == 0) {
-            fprintf(stderr, "Warning: out of space.\n");
-            return -1;
-        }
-        else if (k_contiguous_kanji[l_index] < 0) {
-            l_lastchar += -k_contiguous_kanji[l_index];
-        }
-        else {
-            l_remaining = k_contiguous_kanji[l_index];
-        }
+	for (i = 0; k_contiguous_kanji[i] != 0; i++) {
+		if (k_contiguous_kanji[i] < 0) {
+			code += -k_contiguous_kanji[i];
+			continue;
+		}
 
-        l_index++;
-    }
-
-    l_remaining--;
-    l_lastchar++;
-    return l_lastchar;
+		for (remaining = k_contiguous_kanji[i]; remaining > 0; remaining--) {
+			s_designated_glyph[code - FIRST_CHAR_CODE] = -glyph;
+			code++;
+			glyph++;
+		}
+	}
 }
 
 void
-patch_char_code(int code, int i, unsigned char a, unsigned char b)
+patch_char_code_ex(int code, int glyph, unsigned char a, unsigned char b)
 {
 	const letter_t *syma = get_symbol(a);
 	const letter_t *symb = get_symbol(b);
 	assert(syma != NULL && symb != NULL);
 
-	if (code <= 0) {
-		code = allocate_char_code();
-		assert(code > 0);
+	assign_char_code(code, a, b);
+	patch_glyph(glyph, *syma, *symb);
+}
+
+void
+patch_char_code(int code, unsigned char a, unsigned char b)
+{
+	assert(FIRST_CHAR_CODE <= code && code <= LAST_CHAR_CODE);
+
+	if (s_char_code[a][b] != 0)
+		return;
+
+	/* Search for a free code within the block. */
+	if ((code & 0x00FF) == 0 || (code == FIRST_CHAR_CODE)) {
+		while (s_designated_glyph[code - FIRST_CHAR_CODE] >= 0) {
+			code++;
+
+			if ((code & 0xFF) == 0) {
+				fprintf(stderr, "Warning: out of space in 0x%04x\n",
+						code - 0x0100);
+				assert((code & 0xFF) > 0);
+			}
+		}
 	}
 
-	assign_char_code(code, a, b);
-	patch_glyph(i, *syma, *symb);
+	assert(s_designated_glyph[code - FIRST_CHAR_CODE] < 0);
+	s_designated_glyph[code - FIRST_CHAR_CODE] *= -1;
+
+	patch_char_code_ex(code, s_designated_glyph[code - FIRST_CHAR_CODE], a, b);
 }
 
 /*--------------------------------------------------------------*/
@@ -205,6 +223,8 @@ read_rom(const char *fn)
 	assert(bytes == ROM_SIZE);
 
 	fclose(fp_in);
+
+	initialise_char_codes();
 }
 
 void
