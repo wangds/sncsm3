@@ -1,0 +1,201 @@
+        Summon Night Craft Sword Monogatari: Hajimari no Ishi
+
+                Dialogue Encoding
+
+                    2010-08-08
+
+Contents
+   Introduction
+   Decompression
+   Header
+   Simple Example
+   Complex Example
+   Other Remarks
+
+
+------------------
+-- Introduction --
+------------------
+
+This document deals with the dialogue encryption system used in Summon
+Night Craft Sword Monogatari: Hajimari no Ishi for the GBA.
+
+The first thing to mention is that the characters in Summon Night two
+bytes long, 0xAA 0xBB, where 0xAA >= 0x80, 0xBB >= 0x40.  For example:
+
+    _ = 0x81 0x40 = 81 40 (space)
+    ! = 0x81 0x49 = 81 49
+    A = 0x82 0x60 = 82 60.
+
+A dictionary of symbols mapping can be easily generated.  This is
+sufficient to replace text within the menu, such as item names:
+
+    Iron ore = 93 53 8D 7A 90 CE.
+
+However, one quickly discovers that the dialogue is not stored in such
+an easy manner; it is compressed.  At present, I do not have a full
+grasp of the mechanism.  However, it is sufficient to obtain a script
+dump and perform manipulation (with some manual labour).
+
+
+-------------------
+-- Decompression --
+-------------------
+
+From my observations, the script is stored in the ROM in areas marked
+by ``PSI''.  These are independent scripts to be executed.  For
+example, the introductory words are stored around:
+
+017BCB20 00 00 00 00  00 00 00 00  00 00 00 00  10 0A 11 00 ................
+017BCB30 00 50 53 49  33 0A 11 00  00 82 50 01  3B 03 01 00 .PSI3.....P.;...
+017BCB40 9B 00 07 01  F5 20 0D B0  05 10 07 30  05 0B 00 25 ..... .....0...%
+
+If we look ahead, we find:
+
+017BCB50 30 20 0D 68  44 80 19 30  25 04 00 05  92 62 96 00 0 .hD..0%....b..
+017BCB60 E8 8E 74 82  C6 82 CD 81  02 49 00 00  0C 03 3E 40 ..t.Ƃ.´..I....>@
+
+  92 62 96 (00) E8 8E 74 72 C6 82 CD 81 (02) 49
+
+This is looks very much like the first word (Kajishi!), only there are
+some additional bytes interspersed (in parentheses).
+
+Let us back-track slightly.  What we have is an individually
+compressed script.  This includes details beyond the simple dialogue,
+such as character portaits and animations.  In order to interpret it,
+one first decompresses it into a temporary storage buffer.  This is
+done by reading a single byte, labelled SS, that is interpreted as a
+bit string.
+
+    SS = s1 s2 s3 s4 s5 s6 s7 s8.
+    68 =  0  1  1  0  1  0  0  0.
+
+We examine each bit in sequence (from s1 to s8) and act according to
+the following rules:
+
+    If si=0, read 1 byte and append it to the buffer.
+
+    If si=1, read 2 bytes, with hex values 0xWX 0xYZ respectively.
+    Copy (3+0xW) bytes from the _buffer_ from (1+0xXYZ) bytes ago.
+
+After processing s1 through s8, the process repeats by reading another
+SS byte.  That's all there is to decompression!
+
+
+------------
+-- Header --
+------------
+
+The start of the script section begins a few bytes before the PSI3
+marker:
+
+017BCB20 00 00 00 00  00 00 00 00  00 00 00 00  10 0A 11 00 ................
+                                                ^^
+017BCB30 00 50 53 49  33 0A 11 00  00 82 50 01  3B 03 01 00 .PSI3.....P.;...
+         SS
+017BCB40 9B 00 07 01  F5 20 0D B0  05 10 07 30  05 0B 00 25 ..... .....0...%
+
+The following bytes 0x0A 0x11 indicate the size of the buffer.  It is
+often duplicated twice, though I don't know why.
+
+The first SS byte begins a few bytes after the PSI marker.
+
+Everything else is a mystery at this time.
+
+
+--------------------
+-- Simple Example --
+--------------------
+
+Here we demonstrate how the initial SS byte works.
+
+017BCB50          68  44 80 19 30  25 04 00 05  92 62 96    0 .hD..0%....b..
+                  SS     ^^^^^ ^^^^^^    ^^^^^          
+
+    Buffer >>> ... 92 62 96
+
+
+017BCB50                                                 00 0 .hD..0%....b..
+017BCB60 E8 8E 74 82  C6 82 CD 81                        SS
+
+    Buffer >>> ... 92 62 96 E8 8E 74 82 C6 82 CD 81
+
+
+017BCB60                           02 49 00 00  0C 03 3E 40 ..t.Ƃ.´..I....>@
+017BCB70 55 04                     SS                    ^^ U.....'1...03...
+         ^^
+
+    Buffer >>> ... 92 62 96 E8 8E 74 82 C6 82 CD 81 49 00 00 ...
+
+This is the string for ``Kajishi!''
+
+The extra characters either side presumably are additional formatting
+directives, such as line break and pause.
+
+
+---------------------
+-- Complex Example --
+---------------------
+
+Here we demonstrate the copying from the buffer.
+
+017BCB80 00 03 81 40  81 40 95 90  8A 00 ED 8D  EC 82 E8 82 ...@.@..........
+         SS                           SS
+017BCB90 CC 96 00 BC  8E E8 82 C5  82 A0 82 00  E9 82 C6 93  ̖......ł......Ɠ.
+               SS                           SS
+017BCBA0 AF 8E 9E 82  60 C9 10 1F  50 27 81 40  8C 95 82 05 ....`...P'.@....
+                      SS    ^^^^^  ^^^^^
+
+    Buffer >> 03 81 40 81 40 95 90 8A ED 8D EC 82 E8 82 CC 96
+              BC 8E E8 82 C5 82 A0 82 E9 82 C6 93 AF 8E 9E 82
+              C9
+
+
+We now read (10 1F), that is copy (3+1) bytes from the buffer (1+0x1F)
+bytes ago.
+
+    Buffer >> 03 81 40 81 40 95 90 8A ED 8D EC 82 E8 82 CC 96
+                 20 1f 1e 1d 1c 1b 1a 19 18 17 16 15 14 13 12
+
+              BC 8E E8 82 C5 82 A0 82 E9 82 C6 93 AF 8E 9E 82
+              11 10  f  e  d  c  b  a  9  8  7  6  5  4  3  2
+
+              C9|81 40 81 40
+               1
+
+
+Note that it is perfectly valid to copy more bytes than you backtrack.
+That is, you copy what was recently appended to the buffer, for
+example padding with spaces.
+
+
+-------------------
+-- Other Remarks --
+-------------------
+
+As mentioned earlier, the script actually contains much more than just
+the basic dialogue.  It is in fact very difficult to interpret fully.
+I will not describe the commands in the script as I honestly have no
+idea as to the majority.  Looking at the an annotated script of the
+introduction (day0-kajishi.txt), some structure is evident, though I
+will not say anything concrete.
+
+The most important thing to note, however, is the existance of several
+'goto' commands.  For example, when playing as Ritchie, one would skip
+over Rif's dialogue.  Also, is the teleporter destination menu, the
+current location is skipped.  These addresses must be updated if the
+string lengths are modified.  After formatting the script somewhat,
+and with some intuition, these addresses are not too difficult to
+find.
+
+Here is a (likely incomplete) list, from my own observations:
+
+    02 00 xx xx - conditional jump, for example to Rif's text.
+
+    03 00 xx xx - jump, for example to merge back from story arc.
+
+    07 00 xx xx - Function call, for example to set portaits, etc
+                  Returns from function with 08.
+
+    13 03 xx xx and
+    14 03 xx xx - jump when the menu item is selected.
