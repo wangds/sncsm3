@@ -6,6 +6,7 @@ OBJS := main.o	\
 	dialogue.o	\
 	rom.o		\
 	script/day0.o	\
+	script/minigame.o	\
 	table/beast.o	\
 	table/font.o	\
 	table/item.o	\

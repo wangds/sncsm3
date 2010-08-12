@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include "rom.h"
 #include "script/day0.h"
+#include "script/minigame.h"
 #include "table/beast.h"
 #include "table/effect.h"
 #include "table/item.h"
@@ -376,15 +377,8 @@ translate_dialogue(void)
 	patch_raw(0x01721c8d, 0x8744);
 	patch_raw(0x01721caf, 0x8745);
 
-	/* Fishing dialogue begins at 0x0172234c. */
-	patch_2char(0x01722439, 'F', 'i');
-	patch_2char(0x0172243c, 's', 'h');
-
-	patch_2char(0x01722450, 'C', 'a');
-	patch_2char(0x01722452, 'n', 'c');
-	patch_2char(0x01722454, 'e', 'l');
-
 	tr_day0();
+	tr_minigame();
 }
 
 /*--------------------------------------------------------------*/
