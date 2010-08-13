@@ -7,6 +7,7 @@ OBJS := main.o	\
 	rom.o		\
 	script/day0.o	\
 	script/minigame.o	\
+	script/teleporter.o	\
 	table/beast.o	\
 	table/font.o	\
 	table/item.o	\

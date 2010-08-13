@@ -7,6 +7,7 @@
 #include "rom.h"
 #include "script/day0.h"
 #include "script/minigame.h"
+#include "script/teleporter.h"
 #include "table/beast.h"
 #include "table/effect.h"
 #include "table/item.h"
@@ -369,16 +370,9 @@ translate_bestiary(void)
 static void
 translate_dialogue(void)
 {
-	/* Portal areas. */
-	patch_raw(0x01721c17, 0x8740);
-	patch_raw(0x01721c35, 0x8741);
-	patch_raw(0x01721c55, 0x8742);
-	patch_raw(0x01721c75, 0x8743);
-	patch_raw(0x01721c8d, 0x8744);
-	patch_raw(0x01721caf, 0x8745);
-
 	tr_day0();
 	tr_minigame();
+	tr_teleporter();
 }
 
 /*--------------------------------------------------------------*/
