@@ -3,7 +3,8 @@ CFLAGS := -I.
 CFLAGS += -W -Wall -Wmissing-prototypes -Wstrict-prototypes
 
 OBJS := main.o	\
-	rom.o	\
+	dialogue.o	\
+	rom.o		\
 	table/beast.o	\
 	table/font.o	\
 	table/item.o	\

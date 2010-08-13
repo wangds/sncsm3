@@ -128,6 +128,7 @@ create_font(void)
 	assign_char_code(0x8149, '!', ' ');
 	assign_char_code(0x815e, '/', ' ');
 	assign_char_code(0x8163, '.', '.');
+	assign_char_code(0x8166,'\'', ' ');
 	assign_char_code(0x8169, '(', ' ');
 	assign_char_code(0x816a, ')', ' ');
 	assign_char_code(0x817b, '+', ' ');

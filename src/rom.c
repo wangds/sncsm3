@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "dialogue.h"
 #include "rom.h"
 #include "table/font.h"
 #include "table/kanji.h"
@@ -224,6 +225,19 @@ patch_table(int offset, int stride,
 		if (str[i] != NULL)
 			patch_str(offset + stride * i, length, str[i]);
 	}
+}
+
+void
+patch_dlg(int start, int end, void (*patch)(void))
+{
+	int offset;
+
+	read_dialogue(s_rom, start);
+
+	patch();
+
+	offset = write_dialogue(s_rom, start);
+	assert(offset <= end);
 }
 
 /*--------------------------------------------------------------*/
