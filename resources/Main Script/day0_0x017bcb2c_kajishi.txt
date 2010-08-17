@@ -1,11 +1,12 @@
 Day 0 introduction script translation notes below.
 
 On the left are the original translations by Jackson et al.
-On the right is the cut down version, as it appears in the patch.
+On the right are as they appear in the patch.
 
 ================================================================
 
 50 53 49 33 0a 11 00 00 00 00 00 00 00 00 00 00
+
 3b 03 01 00 9b 00 00 00
       01 00 00 00 00 00
       01 00 00 00 00 00
@@ -81,9 +82,7 @@ On the right is the cut down version, as it appears in the patch.
 07 00 4e 10                                                 | addr @ 0x017bcc90
 07 00 76 0f                                                 | addr @ 0x017bcc95
 02 00 60 02                                        goto rif | addr @ 0x017bcc99
-02 00 82 01                                      reference? | addr @ 0x017bcc9e
-01 00 00 00
-8b 00 00 00
+02 00 82 01 01 00 00 00 8b 00 00 00
 
 08 03 81 63 00 00
 08 03 83 94 83 42 81 5b 81 41 82 cb 82 a6 82 bf 82 e1 82 f1 81 63 00 00
@@ -188,9 +187,7 @@ On the right is the cut down version, as it appears in the patch.
       01 00 20 00 00 00
       01 00 00 00 00 00
 02 00 a8 04                                   goto rif anim | addr @ 0x017bcdcb
-02 00 82 01                                      reference? |
-01 00 00 00
-8b 00 00 00
+02 00 82 01 01 00 00 00 8b 00 00 00
 38 04 01 00 03 00 00 00
       01 00 12 00 00 00
       01 00 04 02 00 00
@@ -245,9 +242,7 @@ On the right is the cut down version, as it appears in the patch.
 07 00 4e 10                                                 | addr @ 0x017bce50 + 12
 07 00 94 0f                                                 | addr @ 0x017bce52
 02 00 00 06                                        goto rif | addr @ 0x017bce56
-02 00 82 01                                      reference? |
-01 00 00 00
-8b 00 00 00
+02 00 82 01 01 00 00 00 8b 00 00 00
 
 08 03 82 bb 82 e8 82 e1 82 bb 82 a4 82 b3 81 49 00 00
     03 00 18 06                               merge (7b 04) | addr @ 0x017bce69
@@ -513,8 +508,7 @@ On the right is the cut down version, as it appears in the patch.
 02 00 4e 0f 02 00 c3 00 01 00 0e 00 8b 00 00 00 01 00 02 00 cb 00 02 00 cb 00 01 00 00 40 8f 00 00 00 03 00 74 0f
 02 00 74 0f 02 00 c3 00 01 00 0f 00 8b 00 00 00 01 00 02 00 cb 00 02 00 cb 00 01 00 00 80 8f 00 00 00 03 00 74 0f
 08 00
-   -- seems to be (02 00 next address) ... (03 00 end address)
-   -- doesn't seem to make a difference though...
+   -- seems to be (02 00 address) (stuff) (03 00 address)
 
 01 03 01 00 02 00 00 00 01 00 04 00 00 00 7e 04 01 00 00 00 00 00 01 00 01 00 00 00
 08 00
