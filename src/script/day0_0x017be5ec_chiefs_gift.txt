@@ -1,0 +1,63 @@
+#
+# Day 0 [0x017be5ec]: Chief's gift
+#
+
+begin 0x017be5ec
+
+# Chief
+seek 0x017be624:Oh! @r
+
+# Ritchie
+seek 0x017be666+2:Oh!
+skip 4:Chief
+
+# Chief
+seek 0x017be6a6+10:Thanks for mending my sword,
+skip 4:it cuts much better now
+
+skip 6:Give my thanks to
+skip 4:V.E nee-san
+
+skip 6:Do your best to become
+skip 4:V.E nee-san's right-hand man
+
+# Ritchie
+seek 0x017be757+8:Yes!
+
+# Chief
+seek 0x017be769:Nice response.
+skip 4:I am in a g~ood m~ood today so
+skip 4:here is something special
+
+# Ritchie (XXX Rif)
+seek 0x017be7d4+5:This is crafting material!
+skip 4:You're giving it to me! ?
+
+skip 8:This is crafting material!
+skip 4:You're giving it to me! ?
+
+# Chief
+seek 0x017be817:It's my own Ore,
+skip 4:not the shop's.
+skip 4:Take it
+
+# Ritchie
+seek 0x017be85c:Chief
+skip 4:You're cool!
+
+# Chief
+seek 0x017be875+10:Thanks.
+skip 4:But this will only happen today.
+skip 4:Keep it a secret from V.E nee-san
+
+# Ritchie (XXX Rif)
+seek 0x017be8a3+8:Yes!
+skip 4:Thanks!
+
+seek 0x017be8ff+14:Now I have the materials!
+skip 4:Let's go home and craft weapons!
+
+skip 8:Now I have the materials!
+skip 4:Let's go home and craft weapons!
+
+end 0x017beaac
