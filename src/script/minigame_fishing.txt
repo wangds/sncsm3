@@ -1,0 +1,23 @@
+#
+# Fishing Mini-Game
+#
+
+begin 0x0172234c
+
+seek 0x017223ae:The basic rod!
+skip 4:Then talk about it
+
+# Fishing menu.
+seek 0x01722422:What should I do?
+
+skip 6:Fish
+skip 6:Prizes
+skip 6:Cancel
+
+# No-bait menu.
+seek 0x0172245b+2:What should I do?
+
+skip 6:Prizes
+skip 6:Cancel
+
+end 0x017224ac

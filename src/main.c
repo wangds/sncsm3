@@ -5,7 +5,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "rom.h"
-#include "script/minigame.h"
 #include "script/teleporter.h"
 #include "table/beast.h"
 #include "table/effect.h"
@@ -16,6 +15,8 @@
 
 static const char * const k_script[] = {
 	"script/day0_0x017bcb2c_kajishi.txt",
+
+	"script/minigame_fishing.txt",
 	NULL
 };
 
@@ -387,7 +388,6 @@ translate_dialogue(void)
 		patch_dlg(k_script[i]);
 	}
 
-	tr_minigame();
 	tr_teleporter();
 }
 
