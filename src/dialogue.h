@@ -1,6 +1,8 @@
 #ifndef DIALOGUE_H
 #define DIALOGUE_H
 
+#include <stdio.h>
+
 enum DIALOGUE_TYPE {
 	/* Encoded character is read as a raw character. */
 	CHAR_RAW,
@@ -38,5 +40,6 @@ extern dlg_t *dlg_wr(dlg_t *c, const char *str);
 
 extern void read_dialogue(const unsigned char *rom, int offset);
 extern int write_dialogue(unsigned char *rom, int offset);
+extern void patch_dialogue(unsigned char *rom, FILE *fp);
 
 #endif

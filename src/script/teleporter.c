@@ -53,5 +53,5 @@ tr_portal(void)
 void
 tr_teleporter(void)
 {
-	patch_dlg(0x01721b4c, 0x01721dfc, tr_portal);
+	patch_dlg_old(0x01721b4c, 0x01721dfc, tr_portal);
 }

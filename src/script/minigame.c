@@ -49,5 +49,5 @@ tr_fishing_minigame(void)
 void
 tr_minigame(void)
 {
-	patch_dlg(0x0172234c, 0x017224ac, tr_fishing_minigame);
+	patch_dlg_old(0x0172234c, 0x017224ac, tr_fishing_minigame);
 }

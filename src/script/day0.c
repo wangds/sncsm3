@@ -172,5 +172,5 @@ tr_day0_start(void)
 void
 tr_day0(void)
 {
-	patch_dlg(0x017bcb2c, 0x017bd14c, tr_day0_start);
+	patch_dlg_old(0x017bcb2c, 0x017bd14c, tr_day0_start);
 }

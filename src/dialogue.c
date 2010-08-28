@@ -4,6 +4,7 @@
  */
 
 #include <assert.h>
+#include <ctype.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -140,9 +141,12 @@ dlg_t *
 dlg_delete(dlg_t *c, int sz)
 {
 	while (sz > 0) {
+		sz -= dialogue_char_length(c->type);
 		c = dialogue_delete_1(c);
-		sz--;
 	}
+
+	if (sz < 0)
+		fprintf(stderr, "dlg_delete: deleted too many!\n");
 
 	return c;
 }
@@ -226,8 +230,15 @@ dlg_wr_ex(dlg_t *c, int orig_len, const char *str)
 	patch_str_ex(buf, 0, sizeof(buf), str);
 	for (sz = 0; buf[sz] != '\0'; sz++);
 
-	if (orig_len < sz)
+	/* If no previously allocated space, insert string before c. */
+	if (orig_len == 0) {
+		c = c->prev;
 		dlg_append(c, sz-orig_len);
+		c = c->next;
+	}
+	else if (orig_len < sz) {
+		dlg_append(c, sz-orig_len);
+	}
 
 	c = copy_dialogue(c, sz, buf);
 
@@ -599,4 +610,233 @@ write_dialogue(unsigned char *rom, int offset)
 	free_dialogue();
 
 	return offset;
+}
+
+/*----------------------------------------------------------------*/
+
+static void
+chomp(char *str)
+{
+	int len = strlen(str);
+
+	while (len > 0 && isspace(str[len-1]))
+		len--;
+
+	str[len] = '\0';
+
+	/* If the string is quoted, then unquote. */
+	if (str[0] == '"' && str[len-1] == '"') {
+		str[len-1] = '\0';
+		len--;
+
+		memmove(str, str+1, len);
+		len--;
+	}
+}
+
+/* addr ADDR [+ INT] [= NEW_ADDR [+ INT]] */
+static dlg_t *
+script_addr(const char *buf, dlg_t *c)
+{
+	int addr, num;
+	int i;
+
+	i = sscanf(buf, "addr %x + %d", &addr, &num);
+	if (i > 0) {
+		if (i == 1) c = dlg_find(addr);
+		if (i == 2) c = dlg_seek(addr, num);
+
+		if (c->type == CHAR_RAW)
+			dialogue_mark_address(c);
+	}
+	else {
+		goto fail;
+	}
+
+	buf = strchr(buf, '=');
+	if (buf != NULL) {
+		i = sscanf(buf+1, "%x + %d", &addr, &num);
+		if (i > 0) {
+			if (i == 1) c->d.addr = dlg_find(addr);
+			if (i == 2) c->d.addr = dlg_seek(addr, num);
+		}
+		else {
+			goto fail;
+		}
+	}
+
+	return c;
+
+fail:
+
+	fprintf(stderr, "failed: %s", buf);
+	return c;
+}
+
+/* seek ADDR [+ INT] [:STRING] */
+static dlg_t *
+script_seek(char *buf, dlg_t *c)
+{
+	int addr, num;
+	int i;
+
+	i = sscanf(buf, "seek %x + %d", &addr, &num);
+	if (i > 0) {
+		if (i == 1) c = dlg_find(addr);
+		if (i == 2) c = dlg_seek(addr, num);
+	}
+	else {
+		goto fail;
+	}
+
+	buf = strchr(buf, ':');
+	if (buf != NULL) {
+		chomp(buf+1);
+		c = dlg_wr(c, buf+1);
+	}
+
+	return c;
+
+fail:
+
+	fprintf(stderr, "failed: %s", buf);
+	return c;
+}
+
+/* skip INT [:STRING] */
+static dlg_t *
+script_skip(char *buf, dlg_t *c)
+{
+	int num;
+	int i;
+
+	i = sscanf(buf, "skip %d", &num);
+	if (i > 0) {
+		c = dlg_skip(c, num);
+	}
+	else {
+		goto fail;
+	}
+
+	buf = strchr(buf, ':');
+	if (buf != NULL) {
+		chomp(buf+1);
+		c = dlg_wr(c, buf+1);
+	}
+
+	return c;
+
+fail:
+
+	fprintf(stderr, "failed: %s", buf);
+	return c;
+}
+
+/* insert [RAW] [RAW] ... [:STRING] */
+static dlg_t *
+script_insert(char *buf, dlg_t *c)
+{
+	int raw;
+	int i = 6;
+
+	do {
+		while (isspace(buf[i])) {
+			i++;
+		}
+
+		if (sscanf(buf+i, "%x", &raw) == 1) {
+			dialogue_append_raw(c->prev, raw);
+
+			while (isxdigit(buf[i]) || buf[i] == 'x') {
+				i++;
+			}
+		}
+		else {
+			break;
+		}
+	} while (buf[i] != '\0');
+
+	if (buf[i] == ':') {
+		i++;
+		chomp(buf+i);
+		dlg_wr_ex(c, 0, buf+i);
+	}
+
+	return c;
+}
+
+/* delete INT */
+static dlg_t *
+script_delete(const char *buf, dlg_t *c)
+{
+	int num;
+
+	if (sscanf(buf, "delete %d", &num) == 1) {
+		c = dlg_delete(c, num);
+	}
+	else {
+		fprintf(stderr, "failed: %s", buf);
+	}
+
+	return c;
+}
+
+/* Optionally print the original and patched dialogue into orig_stream
+ * and patch_stream.
+ */
+void
+patch_dialogue(unsigned char *rom, FILE *fp)
+{
+	char buf[8192];
+	int addr;
+
+	int begin = -1;
+	int check;
+	dlg_t *c;
+
+	while (fgets(buf, sizeof(buf), fp)) {
+		/* begin ADDR */
+		if (sscanf(buf, "begin %x", &begin) == 1) {
+			read_dialogue(rom, begin);
+			continue;
+		}
+
+		/* end ADDR */
+		if (sscanf(buf, "end %x", &addr) == 1) {
+			assert(begin >= 0);
+			check = write_dialogue(rom, begin);
+			begin = -1;
+
+			if (check == addr);
+			else if (check < addr) {
+				fprintf(stdout, "unused space (0x%x < 0x%x)\n", check, addr);
+			}
+			else {
+				fprintf(stderr, "out of space (0x%x > 0x%x)\n", check, addr);
+			}
+			continue;
+		}
+
+		else if (strncmp(buf, "addr", 4) == 0) {
+			c = script_addr(buf, c);
+		}
+		else if (strncmp(buf, "seek", 4) == 0) {
+			c = script_seek(buf, c);
+		}
+		else if (strncmp(buf, "skip", 4) == 0) {
+			c = script_skip(buf, c);
+		}
+		else if (strncmp(buf, "insert", 6) == 0) {
+			c = script_insert(buf, c);
+		}
+		else if (strncmp(buf, "delete", 6) == 0) {
+			c = script_delete(buf, c);
+		}
+
+		/* Comment. */
+		else if (buf[0] != '\0' && buf[0] != '#' &&
+				buf[0] != '\n' && buf[0] != '\r') {
+			fprintf(stderr, "unrecognised command: %s", buf);
+		}
+	}
 }

@@ -228,7 +228,21 @@ patch_table(int offset, int stride,
 }
 
 void
-patch_dlg(int start, int end, void (*patch)(void))
+patch_dlg(const char *fn)
+{
+	FILE *fp = fopen(fn, "r");
+
+	if (fp != NULL) {
+		patch_dialogue(s_rom, fp);
+		fclose(fp);
+	}
+	else {
+		fprintf(stderr, "Could not open patch %s\n", fn);
+	}
+}
+
+void
+patch_dlg_old(int start, int end, void (*patch)(void))
 {
 	int offset;
 
