@@ -1,0 +1,93 @@
+# day0-017bcb2c-kajishi.txt
+#
+# Here is a very basic script to interpret.
+#
+# All commands must start at the beginning of the line.
+# Anything not recognised is treated as a comment!
+
+# --------------------------------------------------------------
+#   INTRODUCTION SCRIPT
+#
+## The following patch works on the script beginning 0x017bcb2c.
+## This will read the dialogue, and automatically mark in addresses.
+begin 0x017bcb2c
+
+# Delete dialogue branch for Rif: That is without saying!
+## Replace the address at the offset by a new address.
+addr 0x017bce56 = 0x017bce58+12
+
+## Seek the offset, and replace the next string.
+## The string starts immediately after the colon, ie. " Kajishi!"
+## Do NOT place comments after strings!
+seek 0x017bcb5c: Kajishi!
+
+## Seek and replace, but quote to retain trailing spaces.
+seek 0x017bcb82:"  A title for one who has mastered  "
+
+## Skip 4 characters (00 00 08 03), and replace the next string.
+skip 4:"      the art of weapon craft       "
+
+## Insert a sequence of raw characters followed by a string.
+insert 0x00 0x00 0x08 0x03:"      and the way of the blade      "
+
+## Seek the offset, skip forward 2 characters, and replace the next string.
+## This is useful if the start of the string is in a compressed character.
+seek 0x017bcbcc+2:"   To one who continually hones     "
+skip 4:"his skills by forging and polishing "
+
+## Delete 40 characters.
+delete 40
+
+# V.E
+seek 0x017bcc35:Understood?
+
+# Ritchie/Rif
+seek 0x017bcca8+2:V.E, nee-chan ..
+skip 14:V.E, sis..
+
+# V.E
+seek 0x017bccee+2:You have done well enduring
+skip 4:the training until now
+skip 4:You're really splendid
+
+# Ritchie
+seek 0x017bcd35+2:Thank you!
+
+# V.E
+seek 0x017bcd58+2:Then,
+skip 4:let's start the final test
+
+# Ritchie
+seek 0x017bcd7f:Understood
+
+# V.E
+seek 0x017bcd8c+4:You have your hammer?
+
+# Ritchie
+seek 0x017bcd9f+14:Of course!
+
+# V.E
+seek 0x017bce22+2:Fufu..
+skip 4:It is a great hammer.
+skip 4:It bears your soul..
+
+# Ritchie (delete Rif specific text)
+seek 0x017bce5a:That is without saying!
+skip 6
+delete 24
+
+# Ritchie and V.E
+seek 0x017bce7b:To the Kajishi, the hammer is
+seek 0x017bced0:Their friend!
+seek 0x017bcedb+14:Their strength!
+seek 0x017bcee4+14:Their life!
+
+# V.E
+seek 0x017bcf40+4:Then,
+skip 4:defeat me with your hammer!
+seek 0x017bcf6f:That will be your ..
+seek 0x017bcf8e:final test!
+
+## The compressed script should end before 0x017bd14c.
+## This will commit the above changes.
+end 0x017bd14c

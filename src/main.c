@@ -5,7 +5,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "rom.h"
-#include "script/day0.h"
 #include "script/minigame.h"
 #include "script/teleporter.h"
 #include "table/beast.h"
@@ -14,6 +13,11 @@
 #include "table/magic.h"
 #include "table/special.h"
 #include "table/weapon.h"
+
+static const char * const k_script[] = {
+	"script/day0_0x017bcb2c_kajishi.txt",
+	NULL
+};
 
 /*--------------------------------------------------------------*/
 
@@ -377,7 +381,12 @@ translate_bestiary(void)
 static void
 translate_dialogue(void)
 {
-	tr_day0();
+	int i;
+
+	for (i = 0; k_script[i] != NULL; i++) {
+		patch_dlg(k_script[i]);
+	}
+
 	tr_minigame();
 	tr_teleporter();
 }
