@@ -1,0 +1,20 @@
+#
+# Teleporter
+#
+
+begin 0x01721b4c
+
+seek 0x01721b97:It cannot be used because
+skip 4:there are currently no connections
+
+seek 0x01721be4:Where do you want to go?
+
+seek 0x01721c17:Dikkuru
+seek 0x01721c35:Maneiru
+seek 0x01721c55:Purosuban
+seek 0x01721c75:Louise
+seek 0x01721c8d:Mishusu
+seek 0x01721caf:Dungeon
+seek 0x01721cbf:Cancel
+
+end 0x01721dfc
