@@ -14,6 +14,7 @@
 
 static const char * const k_script[] = {
 	"script/day0_0x017bcb2c_kajishi.txt",
+	"script/day0_0x017bd14c_defeat_ve.txt",
 
 	"script/minigame_fishing.txt",
 	"script/teleporter.txt",

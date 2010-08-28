@@ -1,0 +1,374 @@
+#
+# Day 0 [0x017bd14c]: Defeat V.E
+#
+
+begin 0x017bd14c
+
+# Ritchie (XXX Rif)
+seek 0x017bd199:Hurray!
+skip 4:Victory!
+
+skip 8:Hurray!
+skip 4:Victory!
+
+# V.E
+seek 0x017bd22e:You've become strong..
+skip 4:I felt the soul
+skip 4:you've forged with your hammer
+
+seek 0x017bd27f+2:You were very cool
+
+# Ritchie/Rif
+seek 0x017bd2a4+14:Ah..!
+skip 4:Thanks, V.E, nee-chan!
+
+skip 8:Ah..!
+skip 4:Thanks, V.E, sis!
+
+# Rob: @R=Ritchburn/Rifmonica
+seek 0x017bd2e7+2:Well done,@R!
+
+# Ritchie
+seek 0x017bd351+2:Master..Rob!!
+
+# Rob
+seek 0x017bd3b2+4:I guess you are an adult too now..
+skip 4:Congratulations ..
+
+# Ritchie
+seek 0x017bd43f:Master..?
+seek 0x017bd460+12:Master..! ?
+seek 0x017bd476:Maaaster! !
+
+# V.E
+seek 0x017bd50e+16:What does this mean?
+skip 4:Bostaph ..!
+
+# Black screen
+seek 0x017bd54d:"          V.E, nee-chan ..        "
+skip 4         :"          Are you crying?         "
+
+skip 8:"              V.E, sis..            "
+skip 4:"            Are you crying?         "
+
+# Bostaph
+seek 0x017bd59a:When I found him
+skip 4:it was too late ..
+skip 4:This..to you..
+
+# Black screen
+seek 0x017bd61e+2:"              That's..              "
+skip 4           :"          Master Rob's..!           "
+
+# V.E
+seek 0x017bd64c+7:Impossible..
+
+skip 6:Rob was killed..
+delete 20
+
+seek 0x017bd6c9: by a stray ..!
+
+# Ritchie
+seek 0x017bd6e8:Maaaster! !
+
+# V.E: @r=Ritchie/Rif
+seek 0x017bd713:What is it, @r?
+
+# Ritchie
+seek 0x017bd7ae:Ah..
+skip 4:Eh..?
+
+# V.E
+seek 0x017bd7cb+4:I thought you'd be here
+skip 4:napping at your favourite place
+delete 34
+
+seek 0x017bd813+4:It feels good, doesn't it?
+
+# Ritchie (XXX Rif)
+seek 0x017bd83a:Yup, if you have to nap,
+skip 4:it has to be here!
+
+skip 8:Yup, if you have to nap,
+skip 4:it has to be here!
+
+seek 0x017bd872+2:Or not!
+skip 4:Uh..This is ..
+
+# V.E
+seek 0x017bd88d+4:You saw
+skip 4:that surreal dream again,
+skip 4:didn't you?
+
+seek 0x017bd8ca+2:To win against me?
+
+# Ritchie (XXX Rif)
+seek 0x017bd8ec+14:Uwah! ? Incredible!
+skip 4:How did you know
+skip 4:V.E, nee-chan ?
+
+skip 8:Uwah! ? Incredible!
+skip 4:How did you know
+skip 4:V.E, sis?
+
+seek 0x017bda15+14:..Ouch!
+skip 4:What was that for?!
+
+skip 8:..Ouch!
+skip 4:What was that for?!
+delete 14
+
+# V.E
+seek 0x017bda4f:Who is your nee-chan! ?
+skip 4:I told you to call me Master, no?
+skip 4:Master  V.E!
+
+skip 8:Who is your  sis! ?
+skip 4:I told you to call me Master, no?
+skip 4:Master  V.E!
+
+# Ritchie (XXX Rif)
+seek 0x017bda92:OK, Master, I was wrong!
+skip 4:It was only a little mistake!
+
+skip 8:OK, Master, I was wrong!
+skip 4:It was only a little mistake!
+delete 28
+
+# V.E
+seek 0x017bdad0+2:A little mistake!
+skip 4:Are you saying that you still
+skip 4:fail to recognise me as Master?
+
+seek 0x017bdb02+2:Are you saying that
+skip 4:because I'm a summoned creature
+skip 4:you're not going to listen to me! ?
+
+# Ritchie (XXX Rif)
+seek 0x017bdb30+14:I ..I didn't mean that..!
+
+skip 8:I ..I didn't mean that..!
+
+# V.E
+seek 0x017bdb4f+6:Is that so?
+skip 4:I'm doing quite a good job
+skip 4:am I not?
+
+# Ritchie
+seek 0x017bdb81+2:~Y..Yes
+
+# V.E
+seek 0x017bdb8d:Even though, leaving home, I said
+skip 4:I'll shock the world with
+skip 4:my Spirit of Rock
+
+seek 0x017bdbd3+2:I've been summoned to Lyndbaum to
+skip 4:be a Kajishi's partner
+skip 4:despite never doing any smithing!
+
+seek 0x017bdc15+4:Here, much has happened but
+skip 4:because my partner was Rob,
+skip 4:I was able to manage through it
+
+seek 0x017bdc57+8:But despite that..
+skip 4:Rob died..
+
+# Ritchie
+seek 0x017bdc73:Master..
+
+# V.E
+seek 0x017bdc7c:Since Rob died
+skip 4:I've been~ your Master.
+skip 4:But even though I'm doing my best ..
+
+seek 0x017bdcad:How cruel ..
+skip 4:Kids are so cruel ..
+skip 4:Rob ..!
+
+seek 0x017bdd73+4:But the truth is
+skip 4:I too haven't forgotten you
+skip 4:Rob ..
+
+seek 0x017bdd9d:No,
+skip 4:That's something I can't forget
+delete 20
+
+seek 0x017bddb7+12:because you are my..
+skip 4:my..!
+
+# Ritchie (XXX Rif)
+seek 0x017bdddc+14:Master's delusions started again.
+skip 4:Maybe I should go home..
+
+skip 8:Master's delusions started again.
+skip 4:Maybe I should go home..
+delete 32
+
+# V.E
+seek 0x017bde4f:And?
+
+# Ritchie
+seek 0x017bde60+14:Yes?
+
+# V.E
+seek 0x017bde78:Did you go to
+skip 4:the Chief?
+
+# Ritchie (XXX Rif)
+seek 0x017bde9b:I've returned the repaired sword!
+skip 4:Even the money is here!
+skip 4:I've done the shopping too!
+
+skip 8:I've returned the repaired sword!
+skip 4:Even the money is here!
+skip 4:I've done the shopping too!
+
+# V.E
+seek 0x017bdede+6:Oh! Good job, good job.
+skip 4:So you thought it perfect to drop
+skip 4:here for a nap, eh?
+
+# Ritchie (XXX Rif)
+seek 0x017bdf1e+14:Ahaha ..
+skip 4:Well, after the work is finished,
+skip 4:one should rest a little..
+
+skip 8:Ahaha ..
+skip 4:Well, after the work is finished,
+skip 4:one should rest a little..
+
+# V.E
+seek 0x017bdf69+14:That's why
+skip 4:you are still
+skip 4:incompetent!
+
+# Ritchie (XXX Rif)
+seek 0x017bdfa9:Don't call me incompetent!
+
+seek 0x017bdfb5+6:I may still be an apprentice
+skip 4:But I'll soon~ be able to
+skip 4:defeat that stray summon
+
+seek 0x017bdff4+6:Then,
+skip 4:I'll avenge Master!
+
+seek 0x017be017+2:Don't call me incompetent!
+
+seek 0x017be022+8:I may still be an apprentice
+skip 4:But I'll soon~ be able to
+skip 4:defeat that stray summon
+
+seek 0x017be039+10:Then,
+skip 4:I'll avenge Master!
+
+# V.E
+seek 0x017be046+14:That's why I call you incompetent!
+
+# Ritchie (XXX Rif)
+seek 0x017be05c+14:Ugh ..!
+skip 4:Why!?
+
+skip 8:Ugh ..!
+skip 4:Why!?
+
+# V.E
+seek 0x017be07b+14:Why are you here right now?
+skip 4:Why are you training everyday!
+delete 38
+
+# Ritchie
+seek 0x017be0a6:That is ..
+
+seek 0x017be0b1:To be a cool Kajishi like
+skip 4:Master Rob..!
+
+# V.E
+seek 0x017be0dc+6:If you've time for dumb things like
+skip 4:revenge, do the weapon craft
+skip 4:training properly~, training!
+
+seek 0x017be11a:Quickly become a Kajishi
+skip 4:so to relieve your kind
+skip 4:father and mother
+
+# Ritchie
+seek 0x017be153+14:Ugh ..
+skip 4:Father and mother, huh..
+
+skip 8:Ugh ..
+skip 4:Our father and mother, huh..
+
+seek 0x017be178:Understood!
+skip 4:Let's train!
+skip 4:I'll go find crafting materials!
+
+# V.E
+seek 0x017be1a1+6:That's the spirit!
+skip 4:Do your best!
+
+seek 0x017be1b6+6:Here..
+skip 4:It's a reward
+skip 4:for your errand
+
+# Ritchie (XXX Rif)
+seek 0x017be200+14:A shapestone!
+skip 4:Awesome!
+skip 4:Master, you're so cool!
+
+skip 8:A shapestone!
+skip 4:Awesome!
+skip 4:Master, you're so cool!
+
+# V.E
+seek 0x017be239+2:Isn't that right?
+skip 4:I a~m cool
+
+seek 0x017be254+4:But I won't give you
+skip 4:material to combine
+skip 4:that with
+
+# Ritchie
+seek 0x017be290+16:Understood! Finding materials
+skip 4:is a Kajishi's job too!
+
+# V.E
+seek 0x017be2ae:Be careful, OK? If something happens
+skip 4:I wouldn't be able to apologise
+skip 4:to your parents
+
+# Ritchie:
+seek 0x017be2d4+17:Understood!
+skip 4:Then,
+skip 4:I'll go find some materials!
+
+# V.E
+seek 0x017be2f2+14:OK! Go!
+skip 4:~Forge yourself into a man
+skip 4:with that hammer!
+
+skip 8:OK! Go!
+skip 4:~Forge yourself into a woman
+skip 4:with that hammer!
+
+# Ritchie
+seek 0x017be32c+14:Yes!
+
+# V.E
+seek 0x017be334:Then, I'll go home, OK?
+delete 18
+
+seek 0x017be376+4:You're happy, right?
+skip 6: is finally getting serious.
+skip 4:Is it my Carrot or Stick attitude?
+
+seek 0x017be3b2:See, Rob?
+skip 4:I'm doing my best!
+
+# Ritchie (XXX Rif)
+seek 0x017be3f5+14:OK!
+skip 4:I should get going too!
+
+skip 8:OK!
+skip 4:I should get going too!
+
+end 0x017be5ec
