@@ -1,0 +1,209 @@
+#
+# Day 0 [0x017beaac]: Meet Rival Guild
+#
+
+begin 0x017beaac
+
+# Ritchie (XXX Rif)
+seek 0x017beb4e:What do you want?
+
+seek 0x017beb63+2:What do you want?
+
+# Guy A
+seek 0x017beb7a:What do you think you're doing
+skip 4:walking in front of our f~orge,
+skip 4:stray summon's student?
+
+# Ritchie (XXX Rif)
+seek 0x017bebcc+16:What did you say!
+
+skip 8:What did you say!
+delete 16
+
+# Guy A
+seek 0x017bebf3:A summon that lost
+skip 4:its master is a stray so
+skip 4:best get rid of it
+
+seek 0x017bec30+6:If you can't do it,
+skip 4:how about we do it then?
+
+# Guy B
+seek 0x017bec77+2:Yeah!
+skip 4:A stray summon's comrade
+skip 4:seriously injured our master
+
+skip 6:We cannot leave that thing alone!
+skip 4:Where was~ it summoned from?
+skip 4:Loreilal?
+
+# Guy A
+seek 0x017becee:Impossible,
+skip 4:that thing isn't a machine.
+skip 4:~An ogre from Silturn?
+
+# Guy B
+seek 0x017bed23:Of course not!
+skip 4:~A demon from Sapureth..no.
+skip 4:~Nor a beast from Maetropa..
+
+seek 0x017bed63:It's from a nameless world!
+skip 4:A summon beast that can't be used!
+
+# Ritchie (XXX Rif)
+seek 0x017bed97:Bastards!
+skip 4:You're going overboard..!
+
+skip 8:Bastards!
+skip 4:You're going overboard..!
+
+# Guy A
+seek 0x017bedde+2:Shut up!
+skip 4:You're from a stray summon's forge!
+skip 4:You're a failure as a Kajishi!
+
+# Guy B
+seek 0x017bee2c+2:You think you're better than us
+skip 4:blacksm~iths? We'll beat you up,
+skip 4:stray's comrade!
+
+# Ritchie (XXX Rif)
+seek 0x017bee74+14:What did you say!
+
+skip 8:What did you say!
+delete 18
+
+# Lemmy
+seek 0x017bef08+2:You're in the way
+
+# Ritchie
+seek 0x017bef3d:Huh?
+
+# Guy A
+seek 0x017bef62:Lemmy ..
+
+# Lemmy
+seek 0x017bef7a:Didn't you hear me?
+skip 4:Can you please move?
+skip 4:You're in the way
+
+# Guy A
+seek 0x017befa2+4:What's with you?
+skip 4:Don't you hate him too?
+
+seek 0x017befc0+4:A stray summon's comrade
+skip 4:seriously injured our master!
+skip 4:Don't you want to beat him up, too?
+
+# Lemmy
+seek 0x017befdc+2:A stray's comrade, huh..
+
+seek 0x017befea+2:It's true
+skip 4:such a human cannot be forgiven ..
+skip 4:that I do want to beat him up ..
+
+# Ritchie (XXX Rif)
+seek 0x017bf019+14:You ..!
+
+skip 8:You ..!
+
+# Lemmy
+seek 0x017bf039:But I'll refrain
+
+seek 0x017bf050:Meaningless uproars will only
+skip 4:harm the dignity
+skip 4:of Bostaph's forge
+
+# Guy A
+seek 0x017bf088+2:What..
+
+# Lemmy:
+seek 0x017bf091+2:Everyone, please,
+skip 4:for the sake of Master Bostaph
+
+# Guy A
+seek 0x017bf0b0+14:~Tch..!
+delete 14
+
+# Lemmy
+seek 0x017bf147:Can you go away too?
+skip 4:Didn't I say:
+skip 4:You're in the way
+
+# Ritchie (XXX Rif)
+seek 0x017bf172+14:What's with that way of talking ..
+delete 16
+
+skip 8:What's with that way of talking ..
+delete 16
+
+# Zakk
+seek 0x017bf1c6+12:Lemmy-saaaaaaaan!
+
+# Ritchie (XXX Rif)
+seek 0x017bf200+14:Uwah! ?
+skip 4:What's that!?
+
+skip 8:Uwah! ?
+skip 4:What's that!?
+
+# Lemmy
+seek 0x017bf22f:Zakk..
+skip 4:You ..
+
+# Zakk
+seek 0x017bf23f+2:You can't do that!
+skip 4:You should rest ..
+skip 4:You're not feeling well, right?
+
+# Lemmy
+seek 0x017bf26a:I'm fine.
+skip 4:I've rested enough
+
+# Ritchie (XXX Rif)
+seek 0x017bf2a1+2:What was that?
+skip 4:You're not feeling well? So
+skip 4:that's why you look so bad?
+
+skip 8:What was that?
+skip 4:You're not feeling well? So
+skip 4:that's why you look so bad?
+
+# Zakk
+seek 0x017bf2f8:What was that!
+skip 4:Geh ..
+skip 4:You're that stray's student!?
+
+seek 0x017bf314+2:You stray's student!
+skip 4:You dare insult Lemmy-san!
+skip 4:~I'll beat you up!
+
+# Ritchie (XXX Rif)
+seek 0x017bf347+14:~Not you too..
+
+skip 8:~Not you too..
+
+# Lemmy
+seek 0x017bf36c:Sigh..
+skip 4:~I've had enough..
+
+# Zakk
+seek 0x017bf39d+6:Aahh!
+skip 4:Wait up Lemmy-saaaaaaaan! !
+
+# Ritchie (XXX Rif)
+seek 0x017bf3fb+14:What's with them!
+delete 16
+
+seek 0x017bf413+4:Ah, ~I've had enough.
+skip 4:Don't worry about it.
+skip 4:Let's go craft weapons!
+
+seek 0x017bf439+2:What's with them!
+delete 10
+
+seek 0x017bf442+10:Ah, ~I've had enough.
+skip 4:Don't worry about it.
+skip 4:Let's go craft weapons!
+
+end 0x017bf60c
