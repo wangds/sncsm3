@@ -1,0 +1,43 @@
+#
+# Day 0 [0x017bf60c]: Return Home
+#
+
+begin 0x017bf60c
+
+# Ritchie
+seek 0x017bf659:Ah!
+skip 4:Master!
+
+# V.E
+seek 0x017bf6ad+4:What's wrong, @r?
+skip 4:~You sound great,
+skip 4:d~id you get some c~ool material?
+
+# Ritchie
+seek 0x017bf706+4:Yes!
+skip 4:The Chief ga..
+
+seek 0x017bf728:Oops, that's a secret
+
+# V.E
+seek 0x017bf74f:What are you mumbling about?
+skip 4:If you are like that,
+skip 4:the weapon's sharpness will fall!
+
+# Ritchie
+seek 0x017bf796+5:Uh..
+skip 4:Th..
+skip 4:The Chief said to thank Master!
+
+# V.E
+seek 0x017bf7bb+2:~Is that so?
+skip 4:Anyway since you got some material,
+skip 4:quickly craft the weapon
+
+seek 0x017bf7ff:Come to the forge!
+skip 4:~Get fired up!
+
+# Ritchie
+seek 0x017bf822:Yes!
+
+end 0x017bfa4c
