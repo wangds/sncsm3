@@ -1,0 +1,69 @@
+#
+# Day 0 [0x017bfa4c]: Learn Forge
+#
+
+begin 0x017bfa4c
+
+# Delete dialogue branch for Rif: Do not forget...
+addr 0x017bfb0d = 0x017bfb19
+
+# V.E
+seek 0x017bfabd:Well, from now on,
+skip 4:you'll be crafting a weapon
+skip 4:but when you use the forge..
+
+# Ritchie (delete Rif specific text)
+## Insert a new line
+seek 0x017bfb1b:Do not forget
+insert 0x00 0x00 0x08 0x03:your original intentions!
+skip 4:Right?
+
+delete 40
+
+# V.E
+seek 0x017bfb53+2:~That's right!
+skip 4:Remember to prepare so that
+skip 4:you avoid injury
+
+# Ritchie
+seek 0x017bfb94+6:Yes!
+
+seek 0x017bfbe2:To craft a weapon, first..
+skip 4:Put the m~aterial into the furnace..
+
+# Instructions
+seek 0x017bfc3a+6:Open the furnace window and
+skip 4:select Create to start preparation
+delete 18
+
+skip 6:The finished weapon is based on both
+skip 4:the s~hapestone and the m~aterial
+delete 18
+
+skip 6:The s~hapestone determines the type.
+skip 4:The m~aterial determines its
+skip 4:strength
+
+# Ritchie
+seek 0x017bfd18+2:Alright!
+skip 4:Perfect!
+
+# V.E
+## Split text over 2 pages.
+seek 0x017bfd36+2:Well,
+skip 4:put the m~aterial into the furnace!
+
+insert 0x00 0x00 0x09 0x03 0x08 0x03:Then hit it with your hammer's soul.
+skip 4:Finish by giving
+insert 0x00 0x00 0x08 0x03:it a weapon's s~hape!
+
+# Ritchie
+seek 0x017bfd8f+5:Yes!
+
+# V.E
+seek 0x017bfd96:Put your soul into it!
+
+# Ritchie
+seek 0x017bfdae+5:Yes!
+
+end 0x017bff6c
