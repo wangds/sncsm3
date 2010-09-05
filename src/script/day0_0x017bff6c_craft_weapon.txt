@@ -1,0 +1,97 @@
+#
+# Day 0 [0x017bff6c]: Craft Weapon
+#
+
+begin 0x017bff6c
+
+# Delete dialogue branch for Rif: Then I'll go look...
+addr 0x017c01ba+1 = 0x017c01bc+12
+
+# V.E
+seek 0x017bffae:Looks like you can also make a
+skip 4:pretty nice sound.  Do you finally
+skip 4:understand the Spirit of Rock?
+
+seek 0x017c0011+2:It could use some improvement but
+skip 4:there's no need, don't you think?
+
+# Ritchie
+seek 0x017c004e:That Rock is music from a nameless
+skip 4:world so I don't really
+skip 4:understand it
+
+seek 0x017c008a+4:Though I think this weapon is
+skip 4:pretty well made!
+
+# V.E
+seek 0x017c00bf:Is that so?
+skip 4:Show it to me
+
+seek 0x017c011a:Hm..
+skip 4:If you gave it away then it's fine
+skip 4:but it's not quite ready to be sold
+
+# Ritchie
+seek 0x017c0153+4:Is..!
+skip 4:Is that so..
+
+# V.E
+seek 0x017c0168:That's right. You have to craft more
+skip 4:weapons to improve your skills as
+
+seek 0x017c0191:a man, don't you think?
+skip 8:a woman, don't you think?
+
+# Ritchie (delete Rif specific text)
+seek 0x017c01be:Then I'll go to Manig Mine
+skip 4:to collect some more materials
+
+delete 68
+
+# V.E
+seek 0x017c0208:There were unusual earthquakes
+skip 4:recently so be careful around there
+skip 4:a~nd also be careful of strays
+
+# Ritchie
+## Insert a new line
+seek 0x017c025c:It'll be fine!
+insert 0x00 0x00 0x08 0x03:You can't be a Kajishi
+skip 4:without being strong!
+
+# V.E
+seek 0x017c027f+17:That's no reason to get carried
+skip 4:away. If you use your weapon,
+skip 4:remember to maintain it properly
+
+# Ritchie
+seek 0x017c02bc+2:I understand!
+
+# Instructions
+seek 0x017c02f9+2:Restore a weapon's DUR
+skip 4:lost in combat
+skip 4:with recovery items
+
+delete 92
+
+# Ritchie
+seek 0x017c038e+4:With this, it's perfect!
+
+# V.E
+seek 0x017c03be:That sound just now ..
+skip 4:A guest?
+
+seek 0x017c03da+4:Do your best!
+
+# Ritchie
+seek 0x017c040c+12:~Alright!
+skip 4:Let's go train!
+
+# Instructions
+seek 0x017c0424:Equip up to ~3
+skip 4:weapons to use in combat
+skip 4:from the start menu
+
+delete 80
+
+end 0x017c064c
