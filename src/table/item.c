@@ -273,7 +273,7 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/*  19 */ , "A thin soft textured stone"
 	/*  20 */ , "Stone fragment for repairing weapons"
 	/*  21 */ , "A leaf that grows anywhere"
-	/*  22 */ , "A very soft frass with medical uses"
+	/*  22 */ , "A very soft grass with medical uses"
 	/*  23 */ , "Durable paper, good for books"
 	/*  24 */ , "A handy twig that can be held easily"
 	/*  25 */ , "An extremely clean pure white cloth"

@@ -150,7 +150,7 @@ const char * const k_beast_name[NUM_BEASTS] = {
 	/* 137 */ , NULL
 	/* 138 */ , NULL
 	/* 139 */ , NULL
-	/* 140 */ , "Death Manty"
+	/* 140 */ , "Slime"
 };
 
 const char * const k_beast_desc[NUM_BEASTS] = {
@@ -299,7 +299,7 @@ const char * const k_beast_desc[NUM_BEASTS] = {
 	/* 137 */ , NULL
 	/* 138 */ , NULL
 	/* 139 */ , NULL
-	/* 140 */ , "There's no  reasoning with  this lunatic"
+	/* 140 */ , NULL
 };
 
 const char * const k_boss_name[NUM_BOSSES] = {
