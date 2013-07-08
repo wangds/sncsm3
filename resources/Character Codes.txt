@@ -1,0 +1,31 @@
+        Summon Night Craft Sword Monogatari: Hajimari no Ishi
+
+                Character Codes
+
+                    2013-07-08
+
+        0   1   2   3   4   5   6   7   8   9   A   B   C   D   E   F
+------------------------------------------------------------------------
+8140   ( )          ,   .       :   ;   ?   !
+8160    ~       |   ...         '   ``  ''  (   )
+8240                                                                0
+8250    1   2   3   4   5   6   7   8   9
+8260    A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P
+8270    Q   R   S   T   U   V   W   X   Y   Z
+8280        a   b   c   d   e   f   g   h   i   j   k   l   m   n   o
+8290    p   q   r   s   t   u   v   w   x   y   z
+
+8140 = space
+8141 = backwards comma
+8142 = circular full stop
+8145 = centred dot
+8167 = open speech marks
+8168 = close speech marks
+
+829f = hiragana small "a"
+82f1 = hiragana "n"
+8340 = katakana small "a"
+8393 = katakana "n"
+
+8754 = roman numerals I
+875d = roman numerals X
