@@ -138,17 +138,25 @@ patch_char_code(int code, unsigned char a, unsigned char b)
 
 /*--------------------------------------------------------------*/
 
-void
-patch_raw(int offset, int code)
+static void
+patch_raw_ex(unsigned char *buf, int offset, int code)
 {
-	assert(offset < ROM_SIZE);
+	if (buf == s_rom) {
+		assert(offset < ROM_SIZE);
+	}
 
-	s_rom[offset + 0] = (code >> 8);
-	s_rom[offset + 1] = (code & 0xFF);
+	buf[offset + 0] = (code >> 8);
+	buf[offset + 1] = (code & 0xFF);
 }
 
 void
-patch_2char(int offset, unsigned char a, unsigned char b)
+patch_raw(int offset, int code)
+{
+	patch_raw_ex(s_rom, offset, code);
+}
+
+static void
+patch_2char_ex(unsigned char *buf, int offset, unsigned char a, unsigned char b)
 {
 	int code = s_char_code[a][b];
 
@@ -157,14 +165,20 @@ patch_2char(int offset, unsigned char a, unsigned char b)
 		assert(code > 0);
 	}
 
-	patch_raw(offset, code);
+	patch_raw_ex(buf, offset, code);
+}
+
+void
+patch_2char(int offset, unsigned char a, unsigned char b)
+{
+	patch_2char_ex(s_rom, offset, a, b);
 }
 
 /* Strings are terminated by 0x0000.
  * length = maximum length of destination string (bytes)
  */
 void
-patch_str(int offset, int length, const char *str)
+patch_str_ex(unsigned char *buf, int offset, int length, const char *str)
 {
 	int len = strlen(str);
 	int i;
@@ -180,12 +194,18 @@ patch_str(int offset, int length, const char *str)
 		char a = str[i + 0];
 		char b = (i + 1 < len) ? str[i + 1] : ' ';
 
-		patch_2char(offset + i, a, b);
+		patch_2char_ex(buf, offset + i, a, b);
 	}
 
 	for (; i < length; i++) {
-		s_rom[offset + i] = '\0';
+		buf[offset + i] = '\0';
 	}
+}
+
+void
+patch_str(int offset, int length, const char *str)
+{
+	patch_str_ex(s_rom, offset, length, str);
 }
 
 /* offset = offset in rom to patch
@@ -195,7 +215,8 @@ patch_str(int offset, int length, const char *str)
  * src    = replacement strings
  */
 void
-patch_table(int offset, int stride, int num, int length, const char * const * str)
+patch_table(int offset, int stride,
+		int num, int length, const char * const * str)
 {
 	int i;
 
