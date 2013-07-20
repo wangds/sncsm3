@@ -2,7 +2,7 @@
  */
 
 #include <stdlib.h>
-#include "item.h"
+#include "table/item.h"
 
 const char * const k_item_name[NUM_ITEMS] = {
 	/*           123456789-123456 */
@@ -290,8 +290,8 @@ const char * const k_item_desc[NUM_ITEMS] = {
 	/*  36 */ , "Fish bait"
 	/*  37 */ , "Fish bait"
 	/*  38 */ , "Fish bait"
-	/*  39 */ , "Fish bai~t/ Fit for a king"
-	/*  40 */ , "Fish bai~t/ Expensive food item"
+	/*  39 */ , "Fish bait / Fit for a king"
+	/*  40 */ , "Fish bait / Expensive food item"
 	/*  41 */ , NULL
 	/*  42 */ , NULL
 	/*  43 */ , NULL
