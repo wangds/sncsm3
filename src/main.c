@@ -77,10 +77,11 @@ create_font_punctuation(int code)
 	}
 
 	/* Apostrophes in contractions. */
-	patch_char_code(code, '\'', 'l');
-	patch_char_code(code, '\'', 'r');
-	patch_char_code(code, '\'', 's');
-	patch_char_code(code, '\'', 't');
+	patch_char_code(code, '\'', 'l'); /* I'll */
+	patch_char_code(code, '\'', 'r'); /* you're */
+	patch_char_code(code, '\'', 's'); /* that's */
+	patch_char_code(code, '\'', 't'); /* don't */
+	patch_char_code(code, '\'', 'v'); /* you've */
 
 	/* Special: Four-Leaf Twin-Snake fooled; fishermen; */
 	patch_char_code(code, '-', 'L');
@@ -137,6 +138,8 @@ create_font(void)
 	assign_char_code(0x817b, '+', ' ');
 	assign_char_code(0x817c, '-', ' ');
 	assign_char_code(0x8193, '%', '%');
+	assign_char_code(0x83c0, '@', 'R'); /* Ritchburn/Rifmonica. */
+	assign_char_code(0x83c2, '@', 'r'); /* Ritchie/Rif. */
 
 	for (i = 0; i <= 9; i++) {
 		assign_char_code(0x824f + i, '~', '0' + i);
@@ -144,7 +147,7 @@ create_font(void)
 
 	for (i = 0; i < 26; i++) {
 		assign_char_code(0x8260 + i, '~', 'A' + i);
-		assign_char_code(0x8281 + i, '~', 'a' + i);
+		assign_char_code(0x8281 + i, 'a' + i, '~');
 	}
 
 	/* Q is inevitably followed by u. */
@@ -223,6 +226,10 @@ create_font(void)
 		patch_char_code(0x9100, 'V', '.');
 		patch_char_code(0x9000, 'E', ' ');
 		patch_char_code(0x9000, 'E', ',');
+		patch_char_code(0x9000, 'E', '!');
+
+		/* Hm.. */
+		patch_char_code(0x9000, 'H', 'm');
 	}
 }
 
