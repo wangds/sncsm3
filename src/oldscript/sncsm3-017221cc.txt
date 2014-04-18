@@ -1,0 +1,9 @@
+# sncsm3-017221cc.txt: Return Portal
+begin 0x017221cc
+
+seek 0x01722201:The portal will not start up
+#seek 0x01722232:ダンジョンに戻る?
+#skip 6:戻る
+#skip 6:やめる
+
+end 0x0172228c

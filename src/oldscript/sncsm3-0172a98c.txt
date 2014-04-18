@@ -1,0 +1,23 @@
+# sncsm3-0172a98c.txt: Day 0, Deikel Mine Entrance
+begin 0x0172a98c
+
+# Banner
+seek 0x0172a9ec:Deikel
+
+# Menu
+seek 0x0172aabb+2:Deikel  Mine Entrance
+
+# ?
+seek 0x0172ab14:The tough strays
+skip 4:make this a unique place
+skip 4:to find materials
+
+# Man
+seek 0x0172ab81+1:No one is allowed in.
+skip 4:The earthquake the other day has
+skip 4:caused the inside to collapse
+
+# Cat
+seek 0x0172add8+2:M~ee~~
+
+end 0x0172adec

@@ -1,0 +1,56 @@
+# sncsm3-017c064c.txt: Day 0, Part 4a (Meet Guardian Beast)
+begin 0x017c064c
+
+# V.E
+seek 0x017c0677:Hey, just a minute!
+
+# Ritchie/Rif
+seek 0x017c06ea:Master?
+
+# V.E
+seek 0x017c0730:Aauugghh!!
+
+# Ritchie/Rif (Branch 1)
+seek 0x017c076f+3
+delete 40
+skip 2:What wa~s that?!
+M skip 4:What's going on?!
+F skip 4:What just happened?!
+
+# Ritchie/Rif (Branch 2 Rundor)
+seek 0x017c08b7+10
+delete 56
+M skip 2:What is that thing?!
+F skip 2:What on Earth?!
+skip 4:I~s that a drill on its head?!
+skip 4:A Summon Creature!
+# Ritchie/Rif (Branch 2 Enzi)
+seek 0x017c08ee+14
+delete 58
+M skip 2:What is that thing?!
+F skip 2:What on Earth?!
+skip 4:I~s that a lion?!
+skip 4:A Summon Creature!
+# Ritchie/Rif (Branch 2 Killfith)
+seek 0x017c091c+10
+delete 56
+M skip 2:What is that thing?!
+F skip 2:What on Earth?!
+skip 4:Are those wings?!
+skip 4:A Summon Creature!
+# Ritchie/Rif (Branch 2 Rufeel)
+seek 0x017c0944+14
+delete 58
+M skip 2:What is that thing?!
+F skip 2:What on Earth?!
+skip 4:Are those spikes on its head?!
+skip 4:A Summon Creature!
+
+# V.E
+seek 0x017c09a3:Hey, I said wait..!
+skip 4:Urgh..!
+
+# Ritchie/Rif
+seek 0x017c09d2+2:Master?!
+
+end 0x017c0b6c

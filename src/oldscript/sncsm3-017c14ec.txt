@@ -1,0 +1,21 @@
+# sncsm3-017c14ec.txt: Day 0, Part 5b (Fight Slime)
+begin 0x017c14ec
+
+# Ritchie/Rif (Branch 1)
+seek 0x017c157c
+delete 38
+skip 2:Huh?
+skip 4:Where did he go?
+
+# Ritchie/Rif (Branch 2)
+seek 0x017c15f9+12
+delete 26
+M skip 2:I don't have any
+M skip 4:problems with you!
+F skip 2:Whoa, hold on!
+F skip 4:I wasn't talking about you!
+
+# Ritchie/Rif
+seek 0x017c1645+2:Uh-oh!
+
+end 0x017c181c

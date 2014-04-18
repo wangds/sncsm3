@@ -1,0 +1,11 @@
+# sncsm3-0172a64c.txt: Day 0, Deikel Station
+begin 0x0172a64c
+
+# Menu
+seek 0x0172a6b0:Deikel  Station
+
+# Billboard
+seek 0x0172a768:Watch your step as you
+skip 4:board the Summon Creature train
+
+end 0x0172a98c

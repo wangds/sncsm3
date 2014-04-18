@@ -1,0 +1,13 @@
+# sncsm3-017c121c.txt: Day 0, Part 5a (Chase Guardian Beast)
+begin 0x017c121c
+
+# Ritchie/Rif (Branch 1)
+seek 0x017c12b6
+delete 58
+skip 2:That's the Stray just now!
+M skip 4:Don't think you can taunt me
+M skip 4:by hanging around!
+F skip 4:Why's he still hanging around?
+F skip 4:He won't get away!
+
+end 0x017c14ec

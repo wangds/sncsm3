@@ -1,0 +1,41 @@
+# sncsm3-0172bbec.txt: Day 0, Workshop 1F
+begin 0x0172bbec
+
+# Menu
+seek 0x0172bc80:Workshop  1~F
+
+end 0x0172c09c
+
+
+# Duplicates
+begin 0x0174348c
+seek 0x017434f3:Workshop  1~F
+end 0x017437cc
+
+begin 0x0174ee1c
+seek 0x0174ee83:Workshop  1~F
+end 0x0174f19c
+
+begin 0x0176713c
+seek 0x017671a3:Workshop  1~F
+end 0x0176747c
+
+begin 0x01775ecc
+seek 0x01775f33:Workshop  1~F
+end 0x0177620c
+
+begin 0x017848dc
+seek 0x01784943:Workshop  1~F
+end 0x01784c1c
+
+begin 0x017915dc
+seek 0x01791643:Workshop  1~F
+end 0x0179191c
+
+begin 0x0179ffbc
+seek 0x017a0023:Workshop  1~F
+end 0x017a02fc
+
+begin 0x017af17c
+seek 0x017af1e3:Workshop  1~F
+end 0x017af4bc

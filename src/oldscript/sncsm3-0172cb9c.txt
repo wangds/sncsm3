@@ -1,0 +1,10 @@
+# sncsm3-0172cb9c.txt: Day 0, Chief's House
+begin 0x0172cb9c
+
+# Menu
+seek 0x0172cc02:C~hief's  House
+
+# Chief
+seek 0x0172cebf:I trust you keep
+skip 4:your weapons well maintained
+end 0x0172cefc

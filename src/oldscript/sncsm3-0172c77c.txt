@@ -1,0 +1,18 @@
+# sncsm3-0172c77c.txt: Day 0, Chief's Shop
+begin 0x0172c77c
+
+# Menu
+seek 0x0172c7e3:C~hief's  Shop
+
+# Clerk
+seek 0x0172c8fc:Sorry, but we don't have a lot of
+skip 2
+delete 2
+skip 2:good merchandise right now
+
+# Girl
+seek 0x0172cb51+1:I'm~ not allowed outside
+skip 4:the village because of all
+skip 4:the Strays
+
+end 0x0172cb9c

@@ -1,0 +1,48 @@
+# sncsm3-01729b2c.txt: Day 0, Deikel Residence
+begin 0x01729b2c
+
+# Banner
+seek 0x01729b95:Deikel
+
+# Menu
+seek 0x01729f82+2:Deikel  Residence
+
+# Block Path
+seek 0x0172a115:Chase Summon Creature
+skip 4:Master!
+
+# Block Forest
+seek 0x0172a187
+delete 86
+skip 2:outside village
+skip 4:weapon
+skip 4:prepared
+
+# ?
+#seek 0x0172a277:...
+#seek 0x0172a287:もう二度とワガハイを
+#skip 4:ネコ呼ばわりはさせぬからな!
+#seek 0x0172a2bf:望み通り、消してやる
+#skip 8:絶対に負けませんわ!
+#
+#seek 0x0172a2fe:これでよかったのかしら...
+#seek 0x0172a31a+8:ふたりとも勝負だなんて...
+#seek 0x0172a336:ふたりとも勝負だなんて...
+#skip 8:ふたりとも勝負だなんて...
+
+# Old Man
+seek 0x0172a56b:Young people careless
+skip 4:Summoners
+skip 4:neglect responsibility
+skip 6:creature become Stray
+skip 4:return home
+skip 4:problem
+
+# Old Lady
+seek 0x0172a5e3+16:restless
+skip 4:village
+skip 4:married ten years
+skip 6:But even so,
+skip 4:Strays violent
+
+end 0x0172a64c

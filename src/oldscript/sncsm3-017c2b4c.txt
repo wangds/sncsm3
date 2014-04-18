@@ -1,0 +1,14 @@
+# sncsm3-017c2b4c.txt: Day 0, Part 6a (Murno In Trouble)
+begin 0x017c2b4c
+
+# Ritchie/Rif
+seek 0x017c2b96:Hey ..
+skip 4:What's going on there?
+
+# Ritchie/Rif (Branch 1)
+seek 0x017c2be7
+delete 22
+M skip 2:What ar~e they doing?
+F skip 2:What are they up to?
+
+end 0x017c2ddc

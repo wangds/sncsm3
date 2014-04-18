@@ -1,0 +1,86 @@
+# sncsm3-017c2ddc.txt: Day 0, Part 6b (Murno Exposed)
+begin 0x017c2ddc
+
+# Murno
+seek 0x017c2e46:But I already apologised..
+delete 28
+
+# Goon
+seek 0x017c2e84+2:You call  that an apology?
+delete 16
+seek 0x017c2ea0+2:After knockin' into me
+skip 4:you think that's  gonna cut it?
+delete 26
+
+# Murno
+seek 0x017c2f00:..
+
+# Goon
+seek 0x017c2f07+9:What's  that?
+skip 4:You gonna apologise?
+
+# Murno
+seek 0x017c2f27:You shouldn't get mixed up with me..
+
+# Goon
+seek 0x017c2f3d+15:Huh?
+seek 0x017c2f4f+2:You knock me over, and
+skip 4:that's  what you say?!
+delete 12
+
+# Murno
+seek 0x017c306e+4:Ah..!
+
+# Goon
+seek 0x017c3082+4:What?!
+skip 4:It's a chick!
+seek 0x017c3112:Hold on!
+
+# Murno
+seek 0x017c312b:Let go!
+
+# Goon
+seek 0x017c3156:Not gonna apologise,
+skip 4:huh?
+
+# Murno
+seek 0x017c3172+8:I ..
+
+# Goon
+seek 0x017c317d+9:Why  don't you keep
+skip 4:me company instead?
+delete 22
+
+# Murno
+seek 0x017c31a7+4:Why should I do that?
+
+# Goon
+seek 0x017c31b9+4:I'm  saying you do it to
+skip 4:make up for knockin'  me over!
+
+# Murno
+seek 0x017c31dd+4:If you don't stop messing around..
+
+# Goon
+seek 0x017c31f0:You'll do what?
+delete 22
+
+# Murno
+seek 0x017c3203+2:I'll..
+seek 0x017c3211+2:Hey ..!
+skip 4:It's  gone!
+skip 4:My stone!
+
+# Goon
+seek 0x017c3245+4:Hey hey ..
+skip 4:If you don't stop messing around,
+skip 4:then..
+
+# Murno
+seek 0x017c3260+14:Get away!
+delete 16
+
+# Ritchie/Rif
+seek 0x017c327e+10:Those creeps..!
+
+end 0x017c343c

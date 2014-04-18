@@ -1,0 +1,407 @@
+# sncsm3-017c181c.txt: Day 0, Part 5c (Meet Murno)
+begin 0x017c181c
+
+# Ritchie/Rif (Branch 1)
+M addr 0x017c185b = 0x017c1866
+M seek 0x017c1868:How's that!
+M seek 0x017c1885:.. Anyway,
+M skip 4:where did that guy run off to?
+M delete 88
+
+F seek 0x017c1866
+F delete 98
+F skip 2:I did it!
+F seek 0x017c18be+4:.. Which is great and all,
+F skip 4:but where did that guy run off to?
+
+# Ritchie/Rif (Branch 2 Rundor)
+seek 0x017c190b+12
+delete 72
+M skip 2:You listen up! You can hide, but
+F skip 2:Heey! You can hide all you like, but
+skip 4:you'll have to come out eventually!
+skip 4:You drill-headed malfunction!
+# Ritchie/Rif (Branch 2 Enzi)
+seek 0x017c1974+10
+delete 76
+M skip 2:You listen up! You can hide, but
+F skip 2:Hey! You can hide all you like, but
+skip 4:you'll have to come out eventually!
+skip 4:You shaggy-maned reject!
+# Ritchie/Rif (Branch 2 Killfith)
+seek 0x017c19ae+10
+delete 72
+M skip 2:You listen up! You can hide, but
+F skip 2:Hey! You can hide all you like, but
+skip 4:you'll have to come out eventually!
+skip 4:You winged oaf!
+# Ritchie/Rif (Branch 2 Rufeel)
+seek 0x017c19e4+10
+delete 78
+M skip 2:You listen up! You can hide, but
+F skip 2:Hey! You can hide all you like, but
+skip 4:you'll have to come out eventually!
+skip 4:You spiky-headed monstrosity!
+
+# Murno
+seek 0x017c1a2a+2:Don't! Stop!
+
+# Ritchie/Rif (Branch 3)
+seek 0x017c1a88+12
+delete 20
+skip 2:What was that?
+
+# Ritchie/Rif (Branch 4)
+seek 0x017c1ab4+12
+delete 30
+M skip 2:Who's there?!
+M skip 4:Come out now!
+F skip 2:Is someone there?
+F skip 4:Hey!
+
+# Ritchie/Rif (Branch 5)
+seek 0x017c1b1a+12
+delete 28
+M skip 2:Hurry and get out here!
+M delete 18
+F skip 2:I knew I heard someone!
+F skip 4:What I should do now?
+
+# Murno
+seek 0x017c1b71+2:..
+
+# Ritchie/Rif (Branch 6)
+seek 0x017c1b83+12
+delete 42
+M skip 2:A kid ..
+M skip 4:What are you doing here?
+F skip 2:Aren't you just a kid ..
+F skip 4:What are you doing out here?
+
+# Murno
+seek 0x017c1bbc:Nothing
+
+# Ritchie/Rif (Branch 7 Rundor)
+seek 0x017c1bcd+14
+delete 74
+skip 2:I'm looking for a Summon Creature.
+M skip 4:Did you see one around here
+M skip 4:with a drill on his head?
+F skip 4:This guy with a drill on his head.
+F skip 4:Have you seen anyone like that?
+# Ritchie/Rif (Branch 7 Enzi)
+seek 0x017c1c19+10
+delete 80
+skip 2:I'm looking for a Summon Creature.
+M skip 4:Have you seen one
+M skip 4:that looks like a huge lion?
+F skip 4:It kinda looks like a big lion.
+F skip 4:Have you seen anyone like that?
+# Ritchie/Rif (Branch 7 Killfith)
+seek 0x017c1c4a+10
+delete 78
+skip 2:I'm looking for a Summon Creature.
+M skip 4:Have you seen a man
+M skip 4:with black wings
+F skip 4:This man with a pair of black wings.
+F skip 4:Have you seen anyone like that?
+# Ritchie/Rif (Branch 7 Rufeel)
+seek 0x017c1c83+10
+delete 84
+M skip 2:I'm looking for a Summon Creature.
+M skip 4:Did you see one
+M skip 4:with a really spiky hairdo?
+F skip 2:I'm looking for a Summon Creature
+F skip 4:with a head like a medieval mace.
+F skip 4:Have you seen anyone like that?
+
+# Murno
+seek 0x017c1cae:N~..No, I haven't ..
+
+# Ritchie/Rif (Branch 8)
+seek 0x017c1cbb+12
+delete 88
+M skip 2:I know I saw him come this way.
+M skip 4:What are you doing here, anyway?
+M skip 4:Did you really not see anything?!
+F skip 2:I was sure he came this way.
+F skip 4:But you were just over there, right?
+F skip 4:Are you sure you didn't see him?
+
+# Murno
+seek 0x017c1d0f:..
+
+# Ritchie/Rif (Branch 9)
+seek 0x017c1d17+12
+delete 78
+M skip 2:What is it?
+M skip 4:What was that light just now?
+F skip 2:What is it? And
+F skip 4:what was that bright light just now?
+skip 4:What's really going on here?!
+
+# Murno
+seek 0x017c1d70:You ..
+
+# Ritchie/Rif (Branch 10)
+seek 0x017c1d83+12
+delete 12
+M skip 2:Hm?
+F skip 2:What?
+
+seek 0x017c1dab+8:You shouldn't associate with me!
+
+# Ritchie/Rif
+seek 0x017c1dc0+2:Huh?!
+
+# Ritchie/Rif (Branch 11)
+seek 0x017c1dcf+12
+delete 20
+M skip 2:What do you mean?
+F skip 2:Just what are you talking about?!
+
+# Murno
+seek 0x017c1de5:You're better off if
+skip 4:you don't not associate with me,
+insert 0x00 0x00 0x08 0x03:so just ..
+
+# Ritchie/Rif (Branch 12)
+seek 0x017c1e2e+12
+delete 70
+skip 2:What are you talking about?
+M skip 4:Explain yourself!
+M skip 4:That guy hurt my Master!
+F skip 4:Explain yourself! My Master is hurt
+F skip 4:because of what that guy did!
+
+## Ritchie (Branch 13)
+M addr 0x017c1e73 = 0x017c1e78
+# Murno
+M seek 0x017c1e8a:Hurt?
+M skip 4:No, you're lying..
+# Ritchie
+M seek 0x017c1ea2:I'm not lying!
+M skip 4:So if you know anything,
+M skip 4:tell me!
+# Murno
+M seek 0x017c1f47+4:Wait, stop..
+M skip 4:Ah!
+M seek 0x017c1fd4+4:..!
+# Ritchie
+M seek 0x017c1fdd+2:Just tell me what you know
+M skip 4:about that Summon Creature!
+M skip 4:Hey!
+# Kiss
+M seek 0x017c201b:Smoosh
+M insert 0x81 0x9d
+# Ritchie
+M seek 0x017c2045+2:What just smooshed?
+M seek 0x017c2064+4:Huh?
+M seek 0x017c2076+2:Is this ..
+M skip 4:what I think it is..?
+# Murno
+M seek 0x017c208f:N~..
+M seek 0x017c209d:Nyaaaa!!
+M seek 0x017c214e+4:..!
+# Ritchie
+M seek 0x017c2154+14:Y-you're a girl?!
+M skip 4:Oh man, I'm sorry,
+M skip 4:I didn't realise!
+M seek 0x017c2184
+M delete 2342
+
+## Rif (Branch 13)
+F seek 0x017c1e78
+F delete 2592
+# Murno
+F seek 0x017c218a+12:Hurt?
+F skip 4:No way..
+# Rif
+F seek 0x017c2193+4:So if you know anything about that
+F skip 4:Summon Creature, then just tell me!
+F skip 4:Got that?!
+# Murno
+F seek 0x017c21ea:Ah..!
+# Kiss
+F seek 0x017c223a:Smooch
+F insert 0x81 0x9d
+# Rif
+F seek 0x017c2257+4:Wa..
+F skip 4:Wa.. wai.. did..
+F skip 4:we just ..k-k-ki..
+# Murno
+F seek 0x017c2278+4:Ny..
+F seek 0x017c227f+10:Nyaaaa!!
+F seek 0x017c22d5:Uh..
+# Rif
+F seek 0x017c22dd:Hey ..!
+F skip 4:You don't have to scream like that!
+F skip 4:Wait a sec, your voice..
+# Rif
+F seek 0x017c230b+2:Are you a girl?
+F delete 16
+
+# Murno
+seek 0x017c232a:Creep ..
+
+# Ritchie/Rif (Branch 14)
+seek 0x017c2352+3
+delete 62
+M skip 2:Hey, it's not like it's my fault!
+M skip 4:How was I supposed to know
+M skip 4:when you don't look like one!
+F skip 2:What is wrong with you! It wasn't
+F skip 4:exactly a picnic for me either,
+F skip 4:you know! Why, I..
+
+# Ritchie/Rif (Branch 15)
+seek 0x017c23dd+12
+delete 44
+M skip 2:Hold up!
+M skip 4:You still haven't
+M insert 0x00 0x00 0x08 0x03:told me anything!
+F skip 2:Where are you going?
+F skip 4:You still haven't finished
+F insert 0x00 0x00 0x08 0x03:giving me an explanation!
+
+## Ritchie (Branch 16)
+M addr 0x017c2420 = 0x017c2424
+# Murno
+M seek 0x017c2429+9:Don't touch me!
+# Ritchie
+M seek 0x017c243e+4:Geez, calm down!
+M skip 4:It's not like I'm getting close
+M skip 4:to you because I want to!
+M delete 156
+
+## Rif (Branch 16)
+F seek 0x017c2424
+F delete 158
+# Murno
+F seek 0x017c2470:Stay away!
+# Rif
+F seek 0x017c247b+12:You don't have to yell!
+F skip 4:It's not like I want to get close
+F skip 4:to you because I like you!
+
+# Murno
+seek 0x017c24a9:!
+seek 0x017c2554+4:Ah..
+
+# Ritchie/Rif (Branch 17)
+seek 0x017c2560+12
+delete 16
+skip 2:That hurt ..
+
+# Murno
+seek 0x017c2575:You shouldn't get mixed up with me..
+skip 4:It would..
+skip 4:It would only lead to misfortune..
+
+# Ritchie/Rif
+seek 0x017c259e:(~is she crying?)~
+
+# Ritchie/Rif (Branch 18)
+seek 0x017c25fc+12
+delete 14
+M skip 2:Hey!
+F skip 2:Good grief..
+
+# Ritchie/Rif (Branch 19)
+M addr 0x017c2624 = 0x017c2626+12
+M seek 0x017c2626+14:Only lead to misfortune!
+M skip 4:What on Earth is that
+M skip 4:supposed to mean?
+M seek 0x017c2642+2:And my cheek
+M skip 4:still hurts ..
+M seek 0x017c2657+6:But it was just a slap,
+M skip 4:right?
+M seek 0x017c26ad:Did this fall down..?
+M skip 4:Did she drop it ..?
+M skip 4:Is it something important?
+M skip 6:No way.. Is this Summonite?
+M skip 4:Could this have called that
+M skip 4:Summon Creature from before?
+M delete 478
+
+F seek 0x017c2626+12
+F delete 468
+F skip 2:Only lead to misfortune?
+F skip 4:What on Earth is that
+F skip 4:supposed to mean?
+F seek 0x017c2712:And my cheek still hurts too..
+F seek 0x017c2722+12:Although I can't understand why
+F skip 4:anyone would want to would slap
+F insert 0x00 0x00 0x08 0x03:someone as wonderful as me!
+F seek 0x017c2750:This stone.. was it here before?
+F skip 4:I wonder if it belongs to that girl.
+F skip 4:Is it valuable?
+F skip 6:No way.. Is this Summonite?
+F skip 4:Could this have called that
+F skip 4:Summon Creature from before?
+
+# Options (Summon Up, Caution)
+seek 0x017c279f:Try to summon something!
+skip 6:I shouldn't. I don't know enough
+
+## Summon Up
+# Ritchie/Rif (Branch 20)
+seek 0x017c27da+12
+delete 14
+M skip 2:OK..
+F skip 2:Let's do this ..
+# Ritchie/Rif
+seek 0x017c283a:Summon up!
+seek 0x017c2865+4:Ah..
+# Ritchie/Rif (Branch 21)
+seek 0x017c2872+12
+delete 24
+M skip 2:Guess I was wrong ..
+F skip 2:Looks like I was wrong, huh ..
+
+## Caution
+# Ritchie/Rif
+seek 0x017c289b+2:Something scary might happen.
+skip 4:I better stop there
+
+# Options (Good Deeds, Weapon Materials)
+seek 0x017c28b2+6:What should I do now?
+seek 0x017c28cb:I should give it back to her
+seek 0x017c28df+4:Return it to the girl
+seek 0x017c28f0:Use it to make a weapon!
+
+## Good Deeds
+# Ritchie/Rif (Branch 22)
+seek 0x017c2912+12
+delete 84
+M skip 2:I'm not sure,
+M skip 4:but I think I should return it
+M insert 0x00 0x00 0x09 0x03 0x08 0x03:And while I'm at it,
+M skip 4:I can get that kid to tell me
+F skip 2:I may not know what it is, 
+F skip 4:but I should give it back
+F insert 0x00 0x00 0x09 0x03 0x08 0x03:And maybe at the same time
+F skip 4:get that kid to tell me
+insert 0x00 0x00 0x08 0x03:about the Summon Creature!
+
+## Weapon Materials
+# Ritchie/Rif (Branch 23)
+M addr 0x017c295d+2 = 0x017c2960+12
+M seek 0x017c2962:..
+M skip 4:One thing I know is
+M skip 4:I still need weapon materials!
+M seek 0x017c2978+12:But can't ignore how suspiciously
+M skip 4:that girl was acting. I should see
+M skip 4:if I can track her down!
+M delete 128
+
+F seek 0x017c2960+12
+F delete 138
+F skip 2:..
+F skip 4:I know this might be a problem,
+F skip 4:but I still need weapon materials.
+F skip 6:But I can't ignore how suspiciously
+F skip 4:that girl was acting. I should see
+F skip 4:if I can track her down!
+
+end 0x017c2b4c

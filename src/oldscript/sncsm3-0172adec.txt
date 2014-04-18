@@ -1,0 +1,15 @@
+# sncsm3-0x0172adec.txt: Day 0, Deikel Fishing Pond
+begin 0x0172adec
+
+# Menu
+seek 0x0172aed1:Deikel  Pond
+
+# Fisherman (after Chief's Gift)
+seek 0x0172b0bb:Conflicting fishing wisdoms
+skip 4:agree that
+delete 12
+skip 6:only through great effort can one
+skip 4:become a master fisherman
+delete 12
+
+end 0x0172b30c

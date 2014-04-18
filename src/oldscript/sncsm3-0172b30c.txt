@@ -1,0 +1,30 @@
+# sncsm3-0172b30c.txt: Day 0, Workshop Forge
+begin 0x0172b30c
+
+addr 0x0172b396 # Save Point
+
+# Menu
+seek 0x0172b36d:Workshop  Forge
+
+# V.E
+seek 0x0172b519:Where do you think you're going?
+skip 4:You're still in
+insert 0x00 0x00 0x08 0x03:the middle of training!
+
+# Bed
+seek 0x0172b5df:You feel refreshed!
+
+# Information
+seek 0x0172b645:Use the sword to
+skip 4:save your game
+delete 96
+
+# Information
+seek 0x0172b6cb+10:Rest in bed to
+skip 4:recover health and magic uses
+delete 60
+
+# V.E
+seek 0x0172b719:Put some fight into it!
+
+end 0x0172b90c

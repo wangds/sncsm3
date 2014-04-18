@@ -1,0 +1,112 @@
+# sncsm3-017c0b6c.txt: Day 0, Part 4b (V.E Hurt)
+begin 0x017c0b6c
+
+# V.E
+seek 0x017c0bb4:Ow!
+
+# Ritchie/Rif (Branch 1)
+seek 0x017c0bee
+delete 44
+M skip 2:Master, are you hurt?!
+M skip 4:W~as it that guy just now?!
+F skip 2:Master, how did you get hurt?!
+F skip 4:Did that guy just now do this?!
+
+# V.E
+seek 0x017c0c42:My arm's a little twisted
+skip 4:but it's no big deal
+delete 24
+
+# Ritchie/Rif (Branch 2)
+seek 0x017c0ca3+12
+delete 34
+M skip 2:Dammit!
+M skip 4:That creep!
+F skip 2:That creep!
+F skip 4:Why I oughta..!
+
+# V.E
+seek 0x017c0d12:Wait, @r!
+
+# Ritchie/Rif (Branch 3)
+seek 0x017c0d2d+12
+delete 70
+skip 2:Why?!
+skip 4:That guy just tried to do you in!
+M skip 4:I can't let them get away with it!
+F skip 4:I can't just stand by!
+
+# V.E
+seek 0x017c0dae:Do me in?! A little thing like this
+skip 4:won't keep me down
+insert 0x00 0x00 0x09 0x03 0x08 0x03:You'll ruin my reputation
+skip 4:talking like that!
+
+# Ritchie/Rif
+seek 0x017c0df0+2:But Master..
+delete 18
+
+# V.E
+seek 0x017c0e02+4:That guy must be a tough
+skip 4:Summon Creature to injure me
+skip 4:like this
+seek 0x017c0e42+2:Yet you still insist on
+skip 4:rushing into trouble
+delete 30
+
+# Ritchie/Rif
+seek 0x017c0e98+4:But ..!
+
+# V.E
+seek 0x017c0ea1+4:In any case,
+skip 4:something tells me
+skip 4:he's not a Stray
+
+# Ritchie/Rif (Branch 4)
+seek 0x017c0ecf+12
+delete 22
+M skip 2:So a  Summoner's involved?
+F skip 2:There's a Summoner nearby?
+
+# V.E
+seek 0x017c0eea+14:Who knows ..
+skip 4:They must have had an
+skip 4:important task
+
+# Ritchie/Rif (Branch 5)
+seek 0x017c0f1b+12
+delete 40
+skip 2:Why's that?
+
+# V.E
+seek 0x017c0f3d:There was no real fire behind the
+skip 4:attack. I doubt they were
+skip 4:targeting me or the workshop
+
+# Ritchie/Rif
+seek 0x017c0f84:..
+
+# V.E
+seek 0x017c0f88:It's still pretty suspicious.
+skip 4:I should notify Chief.
+skip 4:Just stay put and be good
+
+# Ritchie/Rif
+seek 0x017c0fc3+14:Huh?
+
+# V.E
+seek 0x017c0fca+14:Understood?
+
+# Ritchie/Rif
+seek 0x017c0fd8:Uh, yes ..
+
+# Ritchie/Rif (Branch 6)
+seek 0x017c101e+12
+delete 74
+M skip 2:Telling me to  stay put and be good
+M skip 4:This really bites!
+F skip 2:Ooh, stay put and be good she says..
+F skip 4:Patronising me  like that!
+skip 4:As if I'd do anything stupid
+
+end 0x017c121c
